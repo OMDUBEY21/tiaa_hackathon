@@ -1,0 +1,560 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.signup {
+  margin-bottom: 150px;
+}
+.signup-content {
+  display: flex;
+  flex-wrap: wrap; /* Allow content to wrap to the next line */
+  justify-content: space-between;
+  align-items: center;
+  padding: 75px 30px; /* Adjust padding as needed */
+}
+
+
+.signup-form {
+  width: calc(50% - 15px); /* 50% width with a little margin in between */
+  margin-right: 15px;
+}
+
+.signup-image {
+  width: 100%; /* 100% width for the image on smaller screens */
+  margin-top: 20px; /* Add some space between image and link */
+}
+
+.form-title {
+  margin-bottom: 33px; }
+
+.signup-image {
+  margin-top: 45px; }
+
+figure {
+  margin-bottom: 50px;
+  text-align: center; }
+
+.form-submit {
+  display: inline-block;
+  background: #6dabe4;
+  color: #fff;
+  border-bottom: none;
+  width: auto;
+  padding: 15px 39px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  margin-top: 25px;
+  cursor: pointer; }
+  .form-submit:hover {
+    background: #4292dc; }
+
+    
+#signin {
+  margin-top: 16px; }
+
+.signup-image-link {
+    font-size: 14px;
+    color: #222;
+    display: block;
+    text-align: center;
+    margin-top: 10px; /* Adjust margin as needed */
+}
+  
+.signup-form {
+  margin-left: 75px;
+  margin-right: 75px;
+  padding-left: 34px; }
+
+.register-form {
+  width: 100%; }
+
+.form-group {
+  position: relative;
+  margin-bottom: 25px;
+  overflow: hidden; }
+  .form-group:last-child {
+    margin-bottom: 0px; }
+
+
+
+    .signup-form {
+      margin-left: 0px;
+      margin-right: 0px;
+      padding-left: 0px;
+      /* box-sizing: border-box; */
+      padding: 0 30px; }
+  
+    .signin-image {
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-top: 50px;
+      order: 2;
+      -moz-order: 2;
+      -webkit-order: 2;
+      -o-order: 2;
+      -ms-order: 2; }
+  
+    .signup-form, .signup-image, .signin-form, .signin-image {
+      width: auto; }
+  
+    .social-login {
+      justify-content: center;
+      -moz-justify-content: center;
+      -webkit-justify-content: center;
+      -o-justify-content: center;
+      -ms-justify-content: center; }
+  
+    .form-button {
+      text-align: center; 
+    }
+  
+    .signin-form {
+      order: 1;
+      -moz-order: 1;
+      -webkit-order: 1;
+      -o-order: 1;
+      -ms-order: 1;
+      margin-right: 0px;
+      margin-left: 0px;
+      padding: 0 30px; }
+
+      .signin-form {
+        margin-right: 90px;
+        margin-left: 80px; }
+      
+      .signin-image {
+        margin-left: 110px;
+        margin-right: 20px;
+        margin-top: 10px; }
+
+        .features-section {
+          padding: 50px;
+          background-color: #f0f0f0;
+        }
+        
+        .features-info {
+          text-align: center;
+          margin-bottom: 30px;
+        }
+        
+        .features-heading {
+          font-size: 2.5em;
+          margin-bottom: 10px;
+        }
+        
+        .features-paragraph {
+          font-size: 1.2em;
+        }
+        
+        .features-list {
+          display: flex;
+          justify-content: space-around;
+          margin-top: 40px;
+          max-width: 1000px;
+          flex-wrap: wrap;
+        }
+        
+        .feature {
+          max-width: 300px;
+          padding: 20px;
+          background-color: #fff;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          border-radius: 10px;
+          text-align: center;
+          margin: 0 15px 0;
+          min-height: 30vh;
+        }
+
+        .feature:hover{
+          box-shadow: 0px 0px 10px rgb(255 255 255);
+          transform: translateY(10px);
+        }
+        
+        .feature h3 {
+          color: #333;
+          min-height: 55px;
+          margin-bottom: 10px;
+          font-size: 1.5em;
+        }
+        
+        .feature ul {
+          list-style: none;
+          padding: 0;
+        }
+        
+        .feature li {
+          margin-bottom: 10px;
+        }
+        
+        .feature p {
+          margin: 0;
+        }
+
+
+        .home-section {
+          display: flex;
+          justify-content: space-between;
+          padding: 50px;
+          background-color: #ffffff;
+          background-image: url('./images/Retirement.png');
+          background-position: center;
+        }
+        
+        .home-info {
+          max-width: 600px;
+        }
+        
+        .welcome-section h1 {
+          font-size: 2.5em;
+          margin-bottom: 10px;
+        }
+        
+        .welcome-section p {
+          font-size: 1.2em;
+        }
+        
+        .discount-box {
+          margin-top: 20px;
+        }
+        
+        .highlight-box {
+          padding: 10px;
+          border-radius: 10px;
+          transition: all 0.3s ease-in-out;
+               background: rgb(205, 250, 213); 
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px;
+     padding: 20px;
+        }
+        
+        .highlight-box:hover{
+          box-shadow: 0px 0px 10px rgb(97, 93, 93);
+          transform: translateY(5px);
+        }
+
+       
+        
+        .discount-text {
+          margin: 0;
+          font-weight: bold;
+          color: rgb(51, 51, 51);
+          font-size: 1.2em;
+          text-align: center;
+        }
+        
+        .explore-text {
+          font-size: 1.2em;
+          margin-top: 20px;
+        }
+        
+        .home-image {
+          flex: 1;
+          margin-left: 50px;
+        }
+        
+        .image {
+          width: 50%;
+          height: auto;
+        }
+        
+
+/* 404 error page */
+
+#notfound {
+  position: relative;
+  height: 100vh;
+}
+
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.notfound {
+  max-width: 920px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.notfound .notfound-404 {
+  position: absolute;
+  height: 100px;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  transform: translate(-50%);
+  z-index: -1;
+}
+
+.notfound .notfound-404 h1 {
+  font-family: "Maven Pro" , sans-serif;
+  color: #ececec;
+  font-weight: 900;
+  font-size: 276px;
+  margin: 0px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.notfound h2 {
+  font-family: "Maven Pro" , sans-serif;
+  font-size: 46px;
+  color: #000;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0px;
+}
+
+.notfound p {
+  font-family: "Maven Pro" , sans-serif;
+  font-size: 16px;
+  color: #000;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+
+.notfound a {
+  font-family: "Maven Pro", sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: #189cf0;
+  display: inline-block;
+  padding: 16px 38px;
+  border: 2px solid transparent;
+  border-radius: 40px;
+  color: #fff;
+  font-weight: 400;
+  -webkit-transform: 0.2s all;
+  transform: 0.2s all;
+}
+
+.notfound a:hover {
+  background-color: #fff;
+  border-color: #189cf0;
+  color: #189cf0;
+}
+
+@media only screen and (max-width: 480px){
+  .notfound .notfound-404 h1 {
+    font-size: 162px;
+  }
+  .notfound h2 {
+    font-size: 26px
+  }
+}
+
+
+.pricing-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.pricing-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  max-width: 1200px;
+}
+
+.pricing-image {
+  flex: 1;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.pricing-buttons {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: #6dabe4;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #4292dc;
+}
+
+
+
+chatbot-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.chatbot-container form{
+  border-radius: 25px;
+    box-shadow: 18px 20px 20px 20px #9b9b9b36;
+    background: linear-gradient(324deg, #d4e5e654, #b9dbdd, #eeeeee96);
+    padding: 30px 20px;
+    transition: all .9s ease-in-out;
+}
+.chatbot-container form:hover{
+  background: linear-gradient(90deg, #d4e5e654, #b9dbdd, #eeeeee96);
+}
+
+.chatbot-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.whatsapp-button, .your-form-class button {
+  padding: 10px 20px;
+    font-size: 1rem;
+    background: rgb(76, 175, 80);
+    color: rgb(255, 255, 255);
+    border: 2px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: width .5s cubic-bezier(0.47, 0, 0.75, 0.72);
+    font-weight: bold;
+}
+
+.whatsapp-button:hover, .your-form-class button:hover {
+  background-color: transparent !important;
+    color: rgb(76, 175, 80) !important;
+    border: 2px solid rgb(76, 175, 80) !important;
+    font-weight: bold;
+}
+
+/* Add more styles for your form elements as needed */
+.your-form-class {
+  /* Add styles for your form container */
+}
+
+.your-form-class label {
+  /* Add styles for your form labels */
+  display: block;
+  margin-bottom: 10px;
+}
+
+.your-form-class input {
+  /* Add styles for your form input fields */
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.feature-card-container {
+  display: flex; 
+  justify-content: center; 
+  flex-wrap: wrap ;
+  align-items: center;
+}
+.feature-card {
+   width: 300px; 
+   padding: 20px; 
+   background: #fff;
+   border-radius: 10px; 
+   margin: 20px; 
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   min-height: 25vh;
+}
+
+.feature-card:hover{
+  box-shadow: 0px 0px 10px rgb(97, 93, 93);
+          transform: translateY(10px);
+}
+
+.nav-item:hover{
+  border-bottom: 2px solid #000;
+  border-radius: 4px;
+  transform: translateY(4px); 
+  font-weight: bolder;
+}
+
+.active{
+  font-weight: bold;
+}
+
+.navbar{
+  box-shadow: 0px 0px 7px 1px #0000007d !important;
+  z-index: 10;
+}
+
+.pricing-card button:hover{
+  box-shadow: 3px -1px 6px rgb(86 86 86 / 55%);
+  transform: translateY(3px);
+}
+
+.signin-content{
+  border-radius: 25px;
+    box-shadow: 18px 20px 20px 20px #9b9b9b36;
+    background: linear-gradient(324deg, #d4e5e654, #b9dbdd, #eeeeee96);
+    padding: 30px 20px;
+
+}
