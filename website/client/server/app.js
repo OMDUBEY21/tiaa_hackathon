@@ -5,7 +5,9 @@ const app = express();
 const cors = require('cors');
 const Razorpay = require('razorpay');
 var instance = new Razorpay({ key_id: 'rzp_test_x0OkMyBfvKp0ac', key_secret: 'ngKB4DX2x0ZOMWGbUR7GMGlb' })
-
+let {PythonShell} = require('python-shell')
+const { DiscussServiceClient } = require("@google-ai/generativelanguage");
+const { GoogleAuth } = require("google-auth-library");
 dotenv.config({ path: './config.env' });
 
 require('./db/conn');
@@ -19,11 +21,12 @@ const PORT = process.env.PORT;
 
 // test
 
-const { DiscussServiceClient } = require("@google-ai/generativelanguage");
-const { GoogleAuth } = require("google-auth-library");
 
-const accountSid = "AC9ea63538f03dce4f3eddef960d33d12e";
-const authToken = "316a4466bb821c936388be71bc4c989d";
+
+// sid AC9ea63538f03dce4f3eddef960d33d12e
+// auth 316a4466bb821c936388be71bc4c989d
+const accountSid = "AC8a80a7c4041927cf062e581ddbdb49db";
+const authToken = "0eb7d2a15f62570e194df4ec9626077b";
 
 const client = require('twilio')(accountSid, authToken);
 
@@ -105,7 +108,23 @@ app.post('/whatsapp', async (req, res) => {
     const senderId = req.body.From;
     console.log(message)
     console.log(senderId)
-	// if message body age and risk run python scripts 
+
+	// if present run python script else dont
+	// write edges cases for age, investment amount and risk levels
+	// take args age, investment ammount, risk levels.
+	let age = 52
+	let amount = 100000
+	let risk = 'low risk portfolio'
+	var options = {
+		mode: 'text',
+		pythonOptions: ['-u'], // get print results in real-time
+		scriptPath: 'python/',
+		args: [`${age}`, `${amount}`, `${risk}`] //An argument which can be accessed in the script using sys.argv[1]
+	  };
+	  
+	PythonShell.run('chatbot_functions.py', options).then(messages=>{
+		console.log('finished');
+	  });
     
     try {
         await generate(message, senderId);
@@ -338,7 +357,7 @@ async function generate(promptString, senderId) {
             // optional, examples to further finetune responses
             examples: examples,
             // required, alternating prompt/response messages
-            messages: [{ content: promptString+" in less than 1500 character" }],
+            messages: [{ content: promptString+"strictly do not cross 1000 words" }],
         },
     }).then(result => {
         const generatedText = result;

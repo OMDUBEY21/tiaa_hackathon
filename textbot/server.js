@@ -283,6 +283,7 @@ async function sendReply(generatedText, senderId) {
             from: 'whatsapp:+14155238886',
             body: generatedText,
             to: senderId,
+            mediaUrl: ''
             
         })
         .then(message => console.log(message.sid));
