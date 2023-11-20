@@ -6,13 +6,13 @@ const cors = require('cors');
 const { DiscussServiceClient } = require("@google-ai/generativelanguage");
 const { GoogleAuth } = require("google-auth-library");
 dotenv.config();
-const accountSid = process.env.TWILIO_ACCOUNT_SID;
-const authToken = process.env.TWILIO_AUTH_TOKEN;
+const accountSid = "AC9ea63538f03dce4f3eddef960d33d12e";
+const authToken = "316a4466bb821c936388be71bc4c989d";
 require('dotenv').config({ path: "./sample.env" });
 const client = require('twilio')(accountSid, authToken);
 
 const MODEL_NAME = "models/chat-bison-001";
-const API_KEY = process.env.API_KEY;
+const API_KEY = "AIzaSyAtQrMOR_sfIBucEPn3qH6Yy-yD54tLs-A";
 
 const clients = new DiscussServiceClient({
     authClient: new GoogleAuth().fromAPIKey(API_KEY),
@@ -283,7 +283,7 @@ async function sendReply(generatedText, senderId) {
             from: 'whatsapp:+14155238886',
             body: generatedText,
             to: senderId,
-            mediaurl: "https://cdn.pixabay.com/photo/2015/03/10/17/23/youtube-667451_1280.png"
+            
         })
         .then(message => console.log(message.sid));
 }

@@ -64,6 +64,10 @@ const Chatbot = () => {
           <button onClick={openWhatsApp} className="whatsapp-button" style={{ padding: '10px 20px', fontSize: '1rem', background: '#4CAF50', color: '#fff', border: 'none', borderRadius: '5px', cursor: 'pointer' }}>
             Open Chatbot on WhatsApp
           </button>
+          <p></p>
+          <button formaction="http://localhost:8501/" className="whatsapp-button" style={{ padding: '10px 20px', fontSize: '1rem', background: '#4CAF50', color: '#fff', border: 'none', borderRadius: '5px', cursor: 'pointer' }}>
+            Open Live Demo
+          </button>
         </form>
       </div>
       
