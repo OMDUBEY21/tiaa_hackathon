@@ -170,3 +170,5 @@ class MCSimulation:
         ci_series = self.confidence_interval
         ci_series.index = ["95% CI Lower","95% CI Upper"]
         return metrics.append(ci_series)
+    
+print("done")

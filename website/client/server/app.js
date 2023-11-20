@@ -357,7 +357,7 @@ async function generate(promptString, senderId) {
             // optional, examples to further finetune responses
             examples: examples,
             // required, alternating prompt/response messages
-            messages: [{ content: promptString+"strictly do not cross 1000 words" }],
+            messages: [{ content: promptString+"do not cross 1500 words" }],
         },
     }).then(result => {
         const generatedText = result;

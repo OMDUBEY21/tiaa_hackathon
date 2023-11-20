@@ -1,6 +1,4 @@
-###############################################################################################################
-#      This python file includes the neccesary functions that allow the chatbot's aggregations to run         #          
-###############################################################################################################
+
 
 # import libraries 
 from streamlit_chat import message
@@ -14,11 +12,15 @@ from pathlib import Path
 from MCForecastTools import MCSimulation
 import sys
 import dataframe_image as dfi
-
+'''
 age = int(sys.argv[1])
-auser_investment_amount =  int(sys.argv[2])
+user_investment_amount =  int(sys.argv[2])
 portfolio_type =  sys.argv[3]
+'''
 
+age = 52
+user_investment_amount = 10000
+portfolio_type = "low moderate risk portfolio"
 portfolio_list = []
 weights_list = []
 user_buying_power_allocation = []

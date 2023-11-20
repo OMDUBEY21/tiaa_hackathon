@@ -1,904 +1,904 @@
-Client ID,Age,Income,Retirement Age,Location,Client Work,Premium Client,Existing User,Risk Tolerance,Risk Tolerance_%,Work Sector_OHE_Own,Work Sector_OHE_Public,Work Sector_OHE_Government,Location_OHE_America,Location_OHE_India,Location_OHE_United Kingdom,Investment Plan_OHE_Aggressive,Investment Plan_OHE_Neutral,Investment Plan_OHE_Passive
-1,25,1000000,93,America,Own,Prem,Yes,1,94%,1,0,0,1,0,0,1,0,0
-2,28,1000000,60,America,Government,Prem,Yes,1,87%,0,0,1,1,0,0,1,0,0
-3,28,275000,60,America,Government,Non-Prem,Yes,1,89%,0,0,1,1,0,0,1,0,0
-4,64,1000000,60,India,Government,Prem,Yes,0,11%,0,0,1,0,1,0,0,0,1
-5,44,75000,60,India,Government,Prem,Yes,0,52%,0,0,1,0,1,0,0,1,0
-6,46,125000,57,America,Public,Non-Prem,Yes,0,22%,0,1,0,1,0,0,0,1,0
-7,61,175000,57,India,Public,Prem,Yes,0,12%,0,1,0,0,1,0,0,0,1
-8,48,75000,96,America,Own,Prem,Yes,0,21%,1,0,0,1,0,0,0,1,0
-9,49,500000,60,America,Government,Non-Prem,Yes,0,30%,0,0,1,1,0,0,0,1,0
-10,49,175000,60,India,Government,Non-Prem,Yes,0,22%,0,0,1,0,1,0,0,1,0
-11,37,750000,57,India,Public,Prem,Yes,0,41%,0,1,0,0,1,0,0,1,0
-12,26,750000,98,United Kingdom,Own,Prem,Yes,1,97%,1,0,0,0,0,1,1,0,0
-13,63,275000,90,India,Own,Non-Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1
-14,64,1000000,57,United Kingdom,Public,Prem,Yes,0,12%,0,1,0,0,0,1,0,0,1
-15,48,1000000,60,United Kingdom,Government,Prem,Yes,0,21%,0,0,1,0,0,1,0,1,0
-16,49,275000,60,America,Government,Prem,Yes,0,22%,0,0,1,1,0,0,0,1,0
-17,42,225000,95,India,Own,Prem,Yes,0,46%,1,0,0,0,1,0,0,1,0
-18,62,500000,57,United Kingdom,Public,Non-Prem,Yes,0,14%,0,1,0,0,0,1,0,0,1
-19,50,225000,60,India,Government,Non-Prem,Yes,0,24%,0,0,1,0,1,0,0,1,0
-20,38,275000,100,United Kingdom,Own,Prem,Yes,0,65%,1,0,0,0,0,1,0,1,0
-21,45,1000000,81,United Kingdom,Own,Prem,Yes,0,69%,1,0,0,0,0,1,0,1,0
-22,41,225000,60,United Kingdom,Government,Prem,Yes,0,70%,0,0,1,0,0,1,0,1,0
-23,30,500000,88,India,Own,Prem,Yes,1,80%,1,0,0,0,1,0,1,0,0
-24,40,750000,89,America,Own,Non-Prem,Yes,0,54%,1,0,0,1,0,0,0,1,0
-25,25,500000,88,United Kingdom,Own,Prem,Yes,1,86%,1,0,0,0,0,1,1,0,0
-26,43,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,61%,0,1,0,0,0,1,0,1,0
-27,60,750000,60,India,Government,Non-Prem,Yes,0,14%,0,0,1,0,1,0,0,0,1
-28,49,175000,89,India,Own,Prem,Yes,0,21%,1,0,0,0,1,0,0,1,0
-29,54,275000,57,America,Public,Non-Prem,Yes,0,30%,0,1,0,1,0,0,0,0,1
-30,44,275000,83,America,Own,Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0
-31,44,125000,60,United Kingdom,Government,Non-Prem,Yes,0,50%,0,0,1,0,0,1,0,1,0
-32,39,125000,82,United Kingdom,Own,Prem,Yes,0,64%,1,0,0,0,0,1,0,1,0
-33,64,125000,57,United Kingdom,Public,Prem,Yes,0,10%,0,1,0,0,0,1,0,0,1
-34,57,1000000,100,India,Own,Prem,Yes,0,16%,1,0,0,0,1,0,0,0,1
-35,26,125000,83,India,Own,Non-Prem,Yes,1,82%,1,0,0,0,1,0,1,0,0
-36,57,125000,57,United Kingdom,Public,Non-Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-37,56,175000,82,India,Own,Prem,Yes,0,22%,1,0,0,0,1,0,0,0,1
-38,35,75000,90,United Kingdom,Own,Non-Prem,Yes,0,56%,1,0,0,0,0,1,1,0,0
-39,48,175000,57,United Kingdom,Public,Prem,Yes,0,29%,0,1,0,0,0,1,0,1,0
-40,60,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,13%,0,1,0,0,0,1,0,0,1
-41,36,125000,60,America,Government,Prem,Yes,0,54%,0,0,1,1,0,0,0,1,0
-42,53,275000,57,America,Public,Non-Prem,Yes,0,31%,0,1,0,1,0,0,0,0,1
-43,59,750000,83,United Kingdom,Own,Non-Prem,Yes,0,14%,1,0,0,0,0,1,0,0,1
-44,25,75000,87,America,Own,Non-Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0
-45,25,750000,57,America,Public,Non-Prem,Yes,1,91%,0,1,0,1,0,0,1,0,0
-46,61,275000,60,India,Government,Prem,Yes,0,12%,0,0,1,0,1,0,0,0,1
-47,30,750000,57,United Kingdom,Public,Prem,Yes,1,89%,0,1,0,0,0,1,1,0,0
-48,63,1000000,60,America,Government,Non-Prem,Yes,0,13%,0,0,1,1,0,0,0,0,1
-49,65,175000,57,India,Public,Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1
-50,42,175000,60,United Kingdom,Government,Prem,Yes,0,47%,0,0,1,0,0,1,0,1,0
-51,40,75000,60,India,Government,Non-Prem,Yes,0,47%,0,0,1,0,1,0,0,1,0
-52,29,750000,97,United Kingdom,Own,Prem,Yes,1,94%,1,0,0,0,0,1,1,0,0
-53,56,750000,60,United Kingdom,Government,Non-Prem,Yes,0,22%,0,0,1,0,0,1,0,0,1
-54,26,500000,90,America,Own,Non-Prem,Yes,1,90%,1,0,0,1,0,0,1,0,0
-55,26,175000,57,United Kingdom,Public,Non-Prem,Yes,1,95%,0,1,0,0,0,1,1,0,0
-56,64,500000,57,America,Public,Non-Prem,Yes,0,11%,0,1,0,1,0,0,0,0,1
-57,60,75000,57,America,Public,Non-Prem,Yes,0,12%,0,1,0,1,0,0,0,0,1
-58,63,175000,57,India,Public,Non-Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1
-59,36,1000000,57,India,Public,Prem,Yes,0,42%,0,1,0,0,1,0,0,1,0
-60,43,275000,89,United Kingdom,Own,Non-Prem,Yes,0,45%,1,0,0,0,0,1,0,1,0
-61,52,225000,57,India,Public,Prem,Yes,0,27%,0,1,0,0,1,0,0,0,1
-62,25,125000,60,United Kingdom,Government,Prem,Yes,1,97%,0,0,1,0,0,1,1,0,0
-63,39,125000,92,India,Own,Prem,Yes,0,59%,1,0,0,0,1,0,0,1,0
-64,60,1000000,60,United Kingdom,Government,Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-65,37,225000,93,India,Own,Prem,Yes,0,64%,1,0,0,0,1,0,0,1,0
-66,45,225000,60,United Kingdom,Government,Non-Prem,Yes,0,50%,0,0,1,0,0,1,0,1,0
-67,36,75000,80,India,Own,Prem,Yes,0,60%,1,0,0,0,1,0,0,1,0
-68,29,1000000,57,United Kingdom,Public,Non-Prem,Yes,1,82%,0,1,0,0,0,1,1,0,0
-69,29,275000,80,United Kingdom,Own,Non-Prem,Yes,1,95%,1,0,0,0,0,1,1,0,0
-70,28,125000,60,India,Government,Non-Prem,Yes,1,92%,0,0,1,0,1,0,1,0,0
-71,37,225000,80,United Kingdom,Own,Non-Prem,Yes,0,46%,1,0,0,0,0,1,0,1,0
-72,61,500000,100,India,Own,Non-Prem,Yes,0,18%,1,0,0,0,1,0,0,0,1
-73,65,750000,57,India,Public,Non-Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1
-74,39,1000000,60,India,Government,Prem,Yes,0,44%,0,0,1,0,1,0,0,1,0
-75,40,500000,85,America,Own,Prem,Yes,0,68%,1,0,0,1,0,0,0,1,0
-76,45,750000,60,India,Government,Non-Prem,Yes,0,58%,0,0,1,0,1,0,0,1,0
-77,60,225000,90,America,Own,Prem,Yes,0,19%,1,0,0,1,0,0,0,0,1
-78,48,750000,96,United Kingdom,Own,Prem,Yes,0,30%,1,0,0,0,0,1,0,1,0
-79,40,225000,60,United Kingdom,Government,Prem,Yes,0,65%,0,0,1,0,0,1,0,1,0
-80,38,175000,57,America,Public,Prem,Yes,0,68%,0,1,0,1,0,0,0,1,0
-81,46,500000,89,America,Own,Prem,Yes,0,28%,1,0,0,1,0,0,0,1,0
-82,30,275000,89,United Kingdom,Own,Non-Prem,Yes,1,82%,1,0,0,0,0,1,1,0,0
-83,60,1000000,92,America,Own,Non-Prem,Yes,0,20%,1,0,0,1,0,0,0,0,1
-84,25,225000,60,India,Government,Non-Prem,Yes,1,82%,0,0,1,0,1,0,1,0,0
-85,56,275000,57,India,Public,Prem,Yes,0,22%,0,1,0,0,1,0,0,0,1
-86,30,125000,93,India,Own,Prem,Yes,1,88%,1,0,0,0,1,0,1,0,0
-87,55,1000000,96,America,Own,Non-Prem,Yes,0,21%,1,0,0,1,0,0,0,0,1
-88,25,75000,91,America,Own,Non-Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0
-89,61,75000,60,India,Government,Non-Prem,Yes,0,14%,0,0,1,0,1,0,0,0,1
-90,59,125000,60,India,Government,Prem,Yes,0,18%,0,0,1,0,1,0,0,0,1
-91,54,75000,60,United Kingdom,Government,Prem,Yes,0,30%,0,0,1,0,0,1,0,0,1
-92,28,225000,60,America,Government,Non-Prem,Yes,1,86%,0,0,1,1,0,0,1,0,0
-93,59,500000,57,America,Public,Prem,Yes,0,11%,0,1,0,1,0,0,0,0,1
-94,38,750000,60,India,Government,Non-Prem,Yes,0,49%,0,0,1,0,1,0,0,1,0
-95,64,175000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1
-96,46,1000000,95,India,Own,Prem,Yes,0,24%,1,0,0,0,1,0,0,1,0
-97,25,125000,57,India,Public,Prem,Yes,1,83%,0,1,0,0,1,0,1,0,0
-98,35,175000,57,India,Public,Prem,Yes,0,45%,0,1,0,0,1,0,1,0,0
-99,48,125000,92,America,Own,Non-Prem,Yes,0,32%,1,0,0,1,0,0,0,1,0
-100,27,225000,57,America,Public,Prem,Yes,1,85%,0,1,0,1,0,0,1,0,0
-101,59,1000000,60,America,Government,Prem,Yes,0,10%,0,0,1,1,0,0,0,0,1
-102,60,125000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1
-103,55,500000,57,America,Public,Non-Prem,Yes,0,24%,0,1,0,1,0,0,0,0,1
-104,28,225000,57,India,Public,Prem,Yes,1,82%,0,1,0,0,1,0,1,0,0
-105,43,1000000,60,India,Government,Non-Prem,Yes,0,46%,0,0,1,0,1,0,0,1,0
-106,60,75000,95,America,Own,Prem,Yes,0,14%,1,0,0,1,0,0,0,0,1
-107,45,175000,60,America,Government,Prem,Yes,0,50%,0,0,1,1,0,0,0,1,0
-108,42,275000,84,United Kingdom,Own,Prem,Yes,0,58%,1,0,0,0,0,1,0,1,0
-109,52,500000,89,United Kingdom,Own,Prem,Yes,0,20%,1,0,0,0,0,1,0,0,1
-110,39,175000,57,United Kingdom,Public,Non-Prem,Yes,0,59%,0,1,0,0,0,1,0,1,0
-111,26,275000,80,United Kingdom,Own,Prem,Yes,1,89%,1,0,0,0,0,1,1,0,0
-112,61,750000,60,America,Government,Non-Prem,Yes,0,19%,0,0,1,1,0,0,0,0,1
-113,35,75000,60,America,Government,Prem,Yes,0,52%,0,0,1,1,0,0,1,0,0
-114,47,125000,57,United Kingdom,Public,Prem,Yes,0,30%,0,1,0,0,0,1,0,1,0
-115,65,1000000,97,India,Own,Non-Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1
-116,36,750000,60,America,Government,Prem,Yes,0,66%,0,0,1,1,0,0,0,1,0
-117,27,500000,85,India,Own,Prem,Yes,1,92%,1,0,0,0,1,0,1,0,0
-118,41,500000,60,United Kingdom,Government,Prem,Yes,0,47%,0,0,1,0,0,1,0,1,0
-119,57,1000000,60,America,Government,Non-Prem,Yes,0,20%,0,0,1,1,0,0,0,0,1
-120,25,225000,60,America,Government,Non-Prem,Yes,1,86%,0,0,1,1,0,0,1,0,0
-121,63,225000,60,America,Government,Non-Prem,Yes,0,13%,0,0,1,1,0,0,0,0,1
-122,44,750000,57,America,Public,Non-Prem,Yes,0,54%,0,1,0,1,0,0,0,1,0
-123,65,225000,57,India,Public,Prem,Yes,0,14%,0,1,0,0,1,0,0,0,1
-124,38,750000,83,India,Own,Prem,Yes,0,54%,1,0,0,0,1,0,0,1,0
-125,55,1000000,85,United Kingdom,Own,Non-Prem,Yes,0,28%,1,0,0,0,0,1,0,0,1
-126,49,75000,57,America,Public,Prem,Yes,0,26%,0,1,0,1,0,0,0,1,0
-127,27,75000,60,India,Government,Non-Prem,Yes,1,85%,0,0,1,0,1,0,1,0,0
-128,28,500000,87,United Kingdom,Own,Non-Prem,Yes,1,80%,1,0,0,0,0,1,1,0,0
-129,55,275000,87,India,Own,Prem,Yes,0,26%,1,0,0,0,1,0,0,0,1
-130,59,1000000,57,India,Public,Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1
-131,38,175000,89,America,Own,Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0
-132,65,175000,57,United Kingdom,Public,Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-133,44,750000,80,America,Own,Non-Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0
-134,56,125000,60,India,Government,Prem,Yes,0,31%,0,0,1,0,1,0,0,0,1
-135,51,1000000,57,India,Public,Prem,Yes,0,33%,0,1,0,0,1,0,0,0,1
-136,27,75000,60,United Kingdom,Government,Non-Prem,Yes,1,98%,0,0,1,0,0,1,1,0,0
-137,28,75000,57,India,Public,Prem,Yes,1,86%,0,1,0,0,1,0,1,0,0
-138,39,225000,57,America,Public,Non-Prem,Yes,0,45%,0,1,0,1,0,0,0,1,0
-139,57,1000000,95,India,Own,Non-Prem,Yes,0,17%,1,0,0,0,1,0,0,0,1
-140,29,275000,60,America,Government,Non-Prem,Yes,1,82%,0,0,1,1,0,0,1,0,0
-141,28,1000000,57,America,Public,Prem,Yes,1,87%,0,1,0,1,0,0,1,0,0
-142,36,275000,96,United Kingdom,Own,Non-Prem,Yes,0,53%,1,0,0,0,0,1,0,1,0
-143,47,75000,57,United Kingdom,Public,Prem,Yes,0,25%,0,1,0,0,0,1,0,1,0
-144,38,275000,60,United Kingdom,Government,Non-Prem,Yes,0,42%,0,0,1,0,0,1,0,1,0
-145,36,225000,60,America,Government,Prem,Yes,0,61%,0,0,1,1,0,0,0,1,0
-146,41,225000,97,America,Own,Prem,Yes,0,56%,1,0,0,1,0,0,0,1,0
-147,49,500000,98,India,Own,Non-Prem,Yes,0,33%,1,0,0,0,1,0,0,1,0
-148,54,75000,81,India,Own,Prem,Yes,0,21%,1,0,0,0,1,0,0,0,1
-149,46,75000,80,America,Own,Prem,Yes,0,24%,1,0,0,1,0,0,0,1,0
-150,50,275000,81,America,Own,Prem,Yes,0,30%,1,0,0,1,0,0,0,1,0
-151,41,500000,60,America,Government,Non-Prem,Yes,0,53%,0,0,1,1,0,0,0,1,0
-152,44,275000,84,America,Own,Non-Prem,Yes,0,60%,1,0,0,1,0,0,0,1,0
-153,58,500000,84,India,Own,Prem,Yes,0,15%,1,0,0,0,1,0,0,0,1
-154,65,500000,95,America,Own,Non-Prem,Yes,0,16%,1,0,0,1,0,0,0,0,1
-155,57,1000000,99,India,Own,Non-Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1
-156,61,500000,60,India,Government,Prem,Yes,0,15%,0,0,1,0,1,0,0,0,1
-157,46,175000,57,United Kingdom,Public,Prem,Yes,0,34%,0,1,0,0,0,1,0,1,0
-158,56,275000,82,India,Own,Non-Prem,Yes,0,31%,1,0,0,0,1,0,0,0,1
-159,38,750000,94,India,Own,Non-Prem,Yes,0,57%,1,0,0,0,1,0,0,1,0
-160,49,125000,60,India,Government,Non-Prem,Yes,0,26%,0,0,1,0,1,0,0,1,0
-161,40,1000000,60,America,Government,Prem,Yes,0,49%,0,0,1,1,0,0,0,1,0
-162,43,500000,87,India,Own,Non-Prem,Yes,0,52%,1,0,0,0,1,0,0,1,0
-163,65,75000,57,India,Public,Non-Prem,Yes,0,13%,0,1,0,0,1,0,0,0,1
-164,40,275000,57,United Kingdom,Public,Non-Prem,Yes,0,66%,0,1,0,0,0,1,0,1,0
-165,36,125000,60,America,Government,Non-Prem,Yes,0,65%,0,0,1,1,0,0,0,1,0
-166,63,275000,60,America,Government,Non-Prem,Yes,0,18%,0,0,1,1,0,0,0,0,1
-167,54,75000,60,United Kingdom,Government,Non-Prem,Yes,0,28%,0,0,1,0,0,1,0,0,1
-168,26,175000,60,United Kingdom,Government,Prem,Yes,1,97%,0,0,1,0,0,1,1,0,0
-169,56,500000,57,India,Public,Non-Prem,Yes,0,29%,0,1,0,0,1,0,0,0,1
-170,49,750000,57,United Kingdom,Public,Non-Prem,Yes,0,30%,0,1,0,0,0,1,0,1,0
-171,49,500000,60,United Kingdom,Government,Non-Prem,Yes,0,33%,0,0,1,0,0,1,0,1,0
-172,28,750000,57,India,Public,Prem,Yes,1,85%,0,1,0,0,1,0,1,0,0
-173,43,225000,60,United Kingdom,Government,Non-Prem,Yes,0,55%,0,0,1,0,0,1,0,1,0
-174,28,75000,57,America,Public,Non-Prem,Yes,1,86%,0,1,0,1,0,0,1,0,0
-175,37,75000,82,United Kingdom,Own,Non-Prem,Yes,0,46%,1,0,0,0,0,1,0,1,0
-176,63,125000,100,India,Own,Non-Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1
-177,60,125000,57,United Kingdom,Public,Non-Prem,Yes,0,12%,0,1,0,0,0,1,0,0,1
-178,47,125000,60,America,Government,Prem,Yes,0,35%,0,0,1,1,0,0,0,1,0
-179,30,175000,57,America,Public,Non-Prem,Yes,1,97%,0,1,0,1,0,0,1,0,0
-180,48,125000,60,United Kingdom,Government,Non-Prem,Yes,0,23%,0,0,1,0,0,1,0,1,0
-181,57,75000,60,India,Government,Prem,Yes,0,13%,0,0,1,0,1,0,0,0,1
-182,36,125000,60,India,Government,Non-Prem,Yes,0,55%,0,0,1,0,1,0,0,1,0
-183,65,275000,60,America,Government,Prem,Yes,0,15%,0,0,1,1,0,0,0,0,1
-184,45,750000,57,America,Public,Non-Prem,Yes,0,49%,0,1,0,1,0,0,0,1,0
-185,35,275000,57,United Kingdom,Public,Non-Prem,Yes,0,42%,0,1,0,0,0,1,1,0,0
-186,62,225000,99,United Kingdom,Own,Prem,Yes,0,10%,1,0,0,0,0,1,0,0,1
-187,53,275000,60,India,Government,Non-Prem,Yes,0,24%,0,0,1,0,1,0,0,0,1
-188,65,225000,87,America,Own,Non-Prem,Yes,0,18%,1,0,0,1,0,0,0,0,1
-189,27,750000,57,India,Public,Prem,Yes,1,96%,0,1,0,0,1,0,1,0,0
-190,52,275000,57,India,Public,Non-Prem,Yes,0,30%,0,1,0,0,1,0,0,0,1
-191,44,750000,60,United Kingdom,Government,Prem,Yes,0,45%,0,0,1,0,0,1,0,1,0
-192,50,175000,57,America,Public,Prem,Yes,0,28%,0,1,0,1,0,0,0,1,0
-193,48,225000,60,United Kingdom,Government,Non-Prem,Yes,0,27%,0,0,1,0,0,1,0,1,0
-194,45,750000,95,United Kingdom,Own,Prem,Yes,0,47%,1,0,0,0,0,1,0,1,0
-195,54,275000,60,India,Government,Prem,Yes,0,28%,0,0,1,0,1,0,0,0,1
-196,28,225000,57,India,Public,Non-Prem,Yes,1,86%,0,1,0,0,1,0,1,0,0
-197,60,750000,57,America,Public,Non-Prem,Yes,0,16%,0,1,0,1,0,0,0,0,1
-198,64,500000,57,India,Public,Prem,Yes,0,14%,0,1,0,0,1,0,0,0,1
-199,48,75000,86,India,Own,Prem,Yes,0,32%,1,0,0,0,1,0,0,1,0
-200,28,125000,57,United Kingdom,Public,Prem,Yes,1,91%,0,1,0,0,0,1,1,0,0
-201,51,225000,60,United Kingdom,Government,Non-Prem,Yes,0,35%,0,0,1,0,0,1,0,0,1
-202,28,500000,99,America,Own,Prem,Yes,1,96%,1,0,0,1,0,0,1,0,0
-203,56,225000,60,India,Government,Prem,Yes,0,26%,0,0,1,0,1,0,0,0,1
-204,35,125000,80,India,Own,Non-Prem,Yes,0,58%,1,0,0,0,1,0,1,0,0
-205,52,500000,60,India,Government,Non-Prem,Yes,0,35%,0,0,1,0,1,0,0,0,1
-206,64,750000,57,United Kingdom,Public,Non-Prem,Yes,0,13%,0,1,0,0,0,1,0,0,1
-207,46,225000,57,United Kingdom,Public,Non-Prem,Yes,0,31%,0,1,0,0,0,1,0,1,0
-208,58,275000,57,United Kingdom,Public,Prem,Yes,0,17%,0,1,0,0,0,1,0,0,1
-209,59,75000,92,United Kingdom,Own,Non-Prem,Yes,0,14%,1,0,0,0,0,1,0,0,1
-210,59,500000,80,India,Own,Prem,Yes,0,17%,1,0,0,0,1,0,0,0,1
-211,49,1000000,60,America,Government,Prem,Yes,0,22%,0,0,1,1,0,0,0,1,0
-212,58,175000,60,America,Government,Non-Prem,Yes,0,15%,0,0,1,1,0,0,0,0,1
-213,30,175000,93,India,Own,Non-Prem,Yes,1,93%,1,0,0,0,1,0,1,0,0
-214,65,500000,60,India,Government,Prem,Yes,0,11%,0,0,1,0,1,0,0,0,1
-215,61,125000,86,India,Own,Non-Prem,Yes,0,18%,1,0,0,0,1,0,0,0,1
-216,25,500000,60,United Kingdom,Government,Prem,Yes,1,97%,0,0,1,0,0,1,1,0,0
-217,36,500000,86,United Kingdom,Own,Non-Prem,Yes,0,48%,1,0,0,0,0,1,0,1,0
-218,59,175000,60,America,Government,Prem,Yes,0,11%,0,0,1,1,0,0,0,0,1
-219,30,75000,60,India,Government,Prem,Yes,1,87%,0,0,1,0,1,0,1,0,0
-220,41,175000,95,United Kingdom,Own,Prem,Yes,0,44%,1,0,0,0,0,1,0,1,0
-221,26,75000,94,America,Own,Non-Prem,Yes,1,97%,1,0,0,1,0,0,1,0,0
-222,42,275000,98,America,Own,Prem,Yes,0,50%,1,0,0,1,0,0,0,1,0
-223,60,175000,57,United Kingdom,Public,Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1
-224,52,225000,60,America,Government,Non-Prem,Yes,0,23%,0,0,1,1,0,0,0,0,1
-225,65,500000,57,India,Public,Non-Prem,Yes,0,15%,0,1,0,0,1,0,0,0,1
-226,61,125000,57,United Kingdom,Public,Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-227,50,225000,57,America,Public,Prem,Yes,0,33%,0,1,0,1,0,0,0,1,0
-228,28,175000,60,United Kingdom,Government,Non-Prem,Yes,1,84%,0,0,1,0,0,1,1,0,0
-229,64,175000,93,America,Own,Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1
-230,60,225000,57,India,Public,Non-Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1
-231,55,275000,60,India,Government,Prem,Yes,0,26%,0,0,1,0,1,0,0,0,1
-232,54,175000,60,America,Government,Prem,Yes,0,23%,0,0,1,1,0,0,0,0,1
-233,58,275000,92,America,Own,Non-Prem,Yes,0,16%,1,0,0,1,0,0,0,0,1
-234,43,750000,86,India,Own,Non-Prem,Yes,0,44%,1,0,0,0,1,0,0,1,0
-235,42,1000000,57,America,Public,Non-Prem,Yes,0,60%,0,1,0,1,0,0,0,1,0
-236,54,500000,60,United Kingdom,Government,Prem,Yes,0,28%,0,0,1,0,0,1,0,0,1
-237,45,500000,83,United Kingdom,Own,Non-Prem,Yes,0,48%,1,0,0,0,0,1,0,1,0
-238,27,125000,57,United Kingdom,Public,Non-Prem,Yes,1,97%,0,1,0,0,0,1,1,0,0
-239,30,175000,60,America,Government,Non-Prem,Yes,1,97%,0,0,1,1,0,0,1,0,0
-240,62,225000,60,India,Government,Prem,Yes,0,20%,0,0,1,0,1,0,0,0,1
-241,37,275000,83,United Kingdom,Own,Non-Prem,Yes,0,40%,1,0,0,0,0,1,0,1,0
-242,27,125000,60,America,Government,Prem,Yes,1,85%,0,0,1,1,0,0,1,0,0
-243,52,75000,60,India,Government,Prem,Yes,0,30%,0,0,1,0,1,0,0,0,1
-244,46,125000,97,United Kingdom,Own,Non-Prem,Yes,0,26%,1,0,0,0,0,1,0,1,0
-245,64,275000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1
-246,64,175000,60,United Kingdom,Government,Non-Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-247,36,175000,57,United Kingdom,Public,Prem,Yes,0,50%,0,1,0,0,0,1,0,1,0
-248,47,75000,60,India,Government,Non-Prem,Yes,0,22%,0,0,1,0,1,0,0,1,0
-249,55,750000,100,America,Own,Non-Prem,Yes,0,31%,1,0,0,1,0,0,0,0,1
-250,42,275000,60,United Kingdom,Government,Prem,Yes,0,55%,0,0,1,0,0,1,0,1,0
-251,43,275000,60,India,Government,Non-Prem,Yes,0,41%,0,0,1,0,1,0,0,1,0
-252,53,125000,87,India,Own,Prem,Yes,0,27%,1,0,0,0,1,0,0,0,1
-253,44,500000,57,United Kingdom,Public,Non-Prem,Yes,0,43%,0,1,0,0,0,1,0,1,0
-254,54,225000,80,United Kingdom,Own,Non-Prem,Yes,0,24%,1,0,0,0,0,1,0,0,1
-255,46,1000000,57,America,Public,Non-Prem,Yes,0,31%,0,1,0,1,0,0,0,1,0
-256,50,275000,60,United Kingdom,Government,Prem,Yes,0,32%,0,0,1,0,0,1,0,1,0
-257,57,1000000,85,India,Own,Non-Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1
-258,52,500000,87,India,Own,Prem,Yes,0,20%,1,0,0,0,1,0,0,0,1
-259,53,125000,57,America,Public,Non-Prem,Yes,0,27%,0,1,0,1,0,0,0,0,1
-260,42,1000000,57,United Kingdom,Public,Prem,Yes,0,41%,0,1,0,0,0,1,0,1,0
-261,25,175000,57,United Kingdom,Public,Non-Prem,Yes,1,81%,0,1,0,0,0,1,1,0,0
-262,47,500000,57,United Kingdom,Public,Prem,Yes,0,30%,0,1,0,0,0,1,0,1,0
-263,41,500000,57,India,Public,Prem,Yes,0,52%,0,1,0,0,1,0,0,1,0
-264,61,275000,60,United Kingdom,Government,Non-Prem,Yes,0,18%,0,0,1,0,0,1,0,0,1
-265,55,175000,91,India,Own,Prem,Yes,0,21%,1,0,0,0,1,0,0,0,1
-266,49,175000,83,United Kingdom,Own,Non-Prem,Yes,0,31%,1,0,0,0,0,1,0,1,0
-267,28,175000,60,United Kingdom,Government,Prem,Yes,1,81%,0,0,1,0,0,1,1,0,0
-268,52,125000,60,India,Government,Non-Prem,Yes,0,22%,0,0,1,0,1,0,0,0,1
-269,54,225000,60,India,Government,Prem,Yes,0,20%,0,0,1,0,1,0,0,0,1
-270,48,75000,57,United Kingdom,Public,Non-Prem,Yes,0,32%,0,1,0,0,0,1,0,1,0
-271,57,225000,91,United Kingdom,Own,Non-Prem,Yes,0,16%,1,0,0,0,0,1,0,0,1
-272,44,75000,60,America,Government,Non-Prem,Yes,0,68%,0,0,1,1,0,0,0,1,0
-273,48,225000,60,America,Government,Prem,Yes,0,33%,0,0,1,1,0,0,0,1,0
-274,38,500000,57,United Kingdom,Public,Prem,Yes,0,43%,0,1,0,0,0,1,0,1,0
-275,42,75000,57,America,Public,Non-Prem,Yes,0,63%,0,1,0,1,0,0,0,1,0
-276,25,175000,57,United Kingdom,Public,Non-Prem,Yes,1,81%,0,1,0,0,0,1,1,0,0
-277,36,275000,60,India,Government,Non-Prem,Yes,0,44%,0,0,1,0,1,0,0,1,0
-278,53,225000,90,United Kingdom,Own,Prem,Yes,0,20%,1,0,0,0,0,1,0,0,1
-279,61,125000,60,America,Government,Prem,Yes,0,12%,0,0,1,1,0,0,0,0,1
-280,50,275000,93,America,Own,Prem,Yes,0,30%,1,0,0,1,0,0,0,1,0
-281,57,750000,57,United Kingdom,Public,Non-Prem,Yes,0,15%,0,1,0,0,0,1,0,0,1
-282,39,175000,57,America,Public,Prem,Yes,0,55%,0,1,0,1,0,0,0,1,0
-283,47,175000,98,United Kingdom,Own,Prem,Yes,0,34%,1,0,0,0,0,1,0,1,0
-284,53,500000,60,America,Government,Non-Prem,Yes,0,24%,0,0,1,1,0,0,0,0,1
-285,45,175000,60,India,Government,Prem,Yes,0,69%,0,0,1,0,1,0,0,1,0
-286,43,75000,60,India,Government,Prem,Yes,0,62%,0,0,1,0,1,0,0,1,0
-287,29,1000000,57,India,Public,Non-Prem,Yes,1,95%,0,1,0,0,1,0,1,0,0
-288,47,225000,60,India,Government,Non-Prem,Yes,0,26%,0,0,1,0,1,0,0,1,0
-289,60,275000,99,India,Own,Prem,Yes,0,15%,1,0,0,0,1,0,0,0,1
-290,44,225000,60,United Kingdom,Government,Non-Prem,Yes,0,53%,0,0,1,0,0,1,0,1,0
-291,38,225000,95,United Kingdom,Own,Non-Prem,Yes,0,42%,1,0,0,0,0,1,0,1,0
-292,30,750000,57,United Kingdom,Public,Prem,Yes,1,84%,0,1,0,0,0,1,1,0,0
-293,25,1000000,57,America,Public,Prem,Yes,1,93%,0,1,0,1,0,0,1,0,0
-294,40,75000,60,United Kingdom,Government,Prem,Yes,0,42%,0,0,1,0,0,1,0,1,0
-295,40,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,51%,0,1,0,0,0,1,0,1,0
-296,36,1000000,60,America,Government,Non-Prem,Yes,0,42%,0,0,1,1,0,0,0,1,0
-297,29,175000,60,India,Government,Non-Prem,Yes,1,81%,0,0,1,0,1,0,1,0,0
-298,64,225000,81,India,Own,Non-Prem,Yes,0,13%,1,0,0,0,1,0,0,0,1
-299,53,500000,60,America,Government,Prem,Yes,0,24%,0,0,1,1,0,0,0,0,1
-300,51,1000000,93,United Kingdom,Own,Non-Prem,Yes,0,22%,1,0,0,0,0,1,0,0,1
-301,35,75000,57,America,Public,Non-Prem,Yes,0,44%,0,1,0,1,0,0,1,0,0
-302,52,500000,60,America,Government,Non-Prem,Yes,0,23%,0,0,1,1,0,0,0,0,1
-303,60,1000000,89,America,Own,Non-Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1
-304,43,175000,87,India,Own,Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0
-305,59,1000000,83,America,Own,Non-Prem,Yes,0,15%,1,0,0,1,0,0,0,0,1
-306,55,275000,95,United Kingdom,Own,Prem,Yes,0,34%,1,0,0,0,0,1,0,0,1
-307,43,75000,60,India,Government,Non-Prem,Yes,0,49%,0,0,1,0,1,0,0,1,0
-308,48,75000,57,India,Public,Non-Prem,Yes,0,24%,0,1,0,0,1,0,0,1,0
-309,26,275000,91,United Kingdom,Own,Prem,Yes,1,94%,1,0,0,0,0,1,1,0,0
-310,55,275000,98,India,Own,Non-Prem,Yes,0,23%,1,0,0,0,1,0,0,0,1
-311,41,75000,83,United Kingdom,Own,Non-Prem,Yes,0,51%,1,0,0,0,0,1,0,1,0
-312,51,750000,94,United Kingdom,Own,Non-Prem,Yes,0,22%,1,0,0,0,0,1,0,0,1
-313,60,1000000,57,America,Public,Prem,Yes,0,10%,0,1,0,1,0,0,0,0,1
-314,38,275000,57,India,Public,Non-Prem,Yes,0,70%,0,1,0,0,1,0,0,1,0
-315,63,75000,57,America,Public,Non-Prem,Yes,0,20%,0,1,0,1,0,0,0,0,1
-316,64,275000,60,India,Government,Prem,Yes,0,19%,0,0,1,0,1,0,0,0,1
-317,38,75000,57,America,Public,Non-Prem,Yes,0,58%,0,1,0,1,0,0,0,1,0
-318,41,750000,91,United Kingdom,Own,Non-Prem,Yes,0,46%,1,0,0,0,0,1,0,1,0
-319,47,75000,60,India,Government,Non-Prem,Yes,0,26%,0,0,1,0,1,0,0,1,0
-320,40,750000,94,India,Own,Non-Prem,Yes,0,66%,1,0,0,0,1,0,0,1,0
-321,50,275000,94,America,Own,Prem,Yes,0,33%,1,0,0,1,0,0,0,1,0
-322,60,1000000,57,India,Public,Prem,Yes,0,15%,0,1,0,0,1,0,0,0,1
-323,42,225000,57,India,Public,Non-Prem,Yes,0,60%,0,1,0,0,1,0,0,1,0
-324,45,1000000,60,America,Government,Prem,Yes,0,48%,0,0,1,1,0,0,0,1,0
-325,50,175000,99,America,Own,Non-Prem,Yes,0,22%,1,0,0,1,0,0,0,1,0
-326,27,225000,57,India,Public,Prem,Yes,1,82%,0,1,0,0,1,0,1,0,0
-327,41,500000,60,India,Government,Non-Prem,Yes,0,49%,0,0,1,0,1,0,0,1,0
-328,48,175000,60,India,Government,Prem,Yes,0,31%,0,0,1,0,1,0,0,1,0
-329,49,125000,60,America,Government,Non-Prem,Yes,0,30%,0,0,1,1,0,0,0,1,0
-330,29,1000000,57,United Kingdom,Public,Prem,Yes,1,92%,0,1,0,0,0,1,1,0,0
-331,61,225000,88,America,Own,Prem,Yes,0,15%,1,0,0,1,0,0,0,0,1
-332,48,500000,97,United Kingdom,Own,Non-Prem,Yes,0,29%,1,0,0,0,0,1,0,1,0
-333,55,75000,60,America,Government,Non-Prem,Yes,0,27%,0,0,1,1,0,0,0,0,1
-334,50,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,23%,0,1,0,0,0,1,0,1,0
-335,45,750000,80,America,Own,Non-Prem,Yes,0,55%,1,0,0,1,0,0,0,1,0
-336,58,500000,60,United Kingdom,Government,Prem,Yes,0,19%,0,0,1,0,0,1,0,0,1
-337,62,125000,85,India,Own,Non-Prem,Yes,0,18%,1,0,0,0,1,0,0,0,1
-338,48,1000000,93,India,Own,Prem,Yes,0,28%,1,0,0,0,1,0,0,1,0
-339,52,125000,57,India,Public,Non-Prem,Yes,0,21%,0,1,0,0,1,0,0,0,1
-340,54,125000,60,America,Government,Prem,Yes,0,28%,0,0,1,1,0,0,0,0,1
-341,58,175000,83,India,Own,Non-Prem,Yes,0,15%,1,0,0,0,1,0,0,0,1
-342,47,275000,88,America,Own,Non-Prem,Yes,0,22%,1,0,0,1,0,0,0,1,0
-343,25,275000,91,America,Own,Prem,Yes,1,89%,1,0,0,1,0,0,1,0,0
-344,44,500000,57,United Kingdom,Public,Prem,Yes,0,69%,0,1,0,0,0,1,0,1,0
-345,61,75000,57,India,Public,Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1
-346,42,275000,60,India,Government,Non-Prem,Yes,0,48%,0,0,1,0,1,0,0,1,0
-347,45,175000,60,India,Government,Prem,Yes,0,66%,0,0,1,0,1,0,0,1,0
-348,28,125000,90,India,Own,Prem,Yes,1,87%,1,0,0,0,1,0,1,0,0
-349,26,750000,90,America,Own,Non-Prem,Yes,1,93%,1,0,0,1,0,0,1,0,0
-350,45,225000,84,United Kingdom,Own,Non-Prem,Yes,0,61%,1,0,0,0,0,1,0,1,0
-351,61,75000,57,America,Public,Prem,Yes,0,16%,0,1,0,1,0,0,0,0,1
-352,29,225000,60,India,Government,Prem,Yes,1,87%,0,0,1,0,1,0,1,0,0
-353,41,125000,85,America,Own,Prem,Yes,0,65%,1,0,0,1,0,0,0,1,0
-354,35,500000,60,India,Government,Non-Prem,Yes,0,43%,0,0,1,0,1,0,1,0,0
-355,65,125000,57,America,Public,Prem,Yes,0,10%,0,1,0,1,0,0,0,0,1
-356,55,225000,60,India,Government,Non-Prem,Yes,0,29%,0,0,1,0,1,0,0,0,1
-357,52,1000000,57,United Kingdom,Public,Prem,Yes,0,29%,0,1,0,0,0,1,0,0,1
-358,56,125000,89,United Kingdom,Own,Non-Prem,Yes,0,25%,1,0,0,0,0,1,0,0,1
-359,45,125000,57,United Kingdom,Public,Non-Prem,Yes,0,60%,0,1,0,0,0,1,0,1,0
-360,52,275000,57,America,Public,Prem,Yes,0,28%,0,1,0,1,0,0,0,0,1
-361,60,500000,86,United Kingdom,Own,Prem,Yes,0,20%,1,0,0,0,0,1,0,0,1
-362,44,275000,60,America,Government,Prem,Yes,0,67%,0,0,1,1,0,0,0,1,0
-363,37,175000,81,America,Own,Prem,Yes,0,64%,1,0,0,1,0,0,0,1,0
-364,43,225000,95,United Kingdom,Own,Non-Prem,Yes,0,68%,1,0,0,0,0,1,0,1,0
-365,35,75000,57,United Kingdom,Public,Non-Prem,Yes,0,65%,0,1,0,0,0,1,1,0,0
-366,59,225000,87,America,Own,Prem,Yes,0,15%,1,0,0,1,0,0,0,0,1
-367,58,225000,57,America,Public,Non-Prem,Yes,0,19%,0,1,0,1,0,0,0,0,1
-368,28,175000,60,India,Government,Non-Prem,Yes,1,85%,0,0,1,0,1,0,1,0,0
-369,37,500000,57,United Kingdom,Public,Non-Prem,Yes,0,60%,0,1,0,0,0,1,0,1,0
-370,61,275000,60,India,Government,Non-Prem,Yes,0,14%,0,0,1,0,1,0,0,0,1
-371,26,75000,89,America,Own,Prem,Yes,1,81%,1,0,0,1,0,0,1,0,0
-372,25,75000,57,United Kingdom,Public,Prem,Yes,1,87%,0,1,0,0,0,1,1,0,0
-373,64,175000,60,United Kingdom,Government,Prem,Yes,0,14%,0,0,1,0,0,1,0,0,1
-374,49,125000,87,United Kingdom,Own,Prem,Yes,0,22%,1,0,0,0,0,1,0,1,0
-375,61,225000,60,United Kingdom,Government,Non-Prem,Yes,0,14%,0,0,1,0,0,1,0,0,1
-376,60,225000,57,India,Public,Prem,Yes,0,12%,0,1,0,0,1,0,0,0,1
-377,30,75000,60,United Kingdom,Government,Non-Prem,Yes,1,95%,0,0,1,0,0,1,1,0,0
-378,28,750000,60,United Kingdom,Government,Prem,Yes,1,86%,0,0,1,0,0,1,1,0,0
-379,59,75000,98,India,Own,Non-Prem,Yes,0,13%,1,0,0,0,1,0,0,0,1
-380,65,275000,60,America,Government,Non-Prem,Yes,0,19%,0,0,1,1,0,0,0,0,1
-381,58,275000,60,America,Government,Non-Prem,Yes,0,17%,0,0,1,1,0,0,0,0,1
-382,53,75000,60,United Kingdom,Government,Non-Prem,Yes,0,25%,0,0,1,0,0,1,0,0,1
-383,29,175000,60,America,Government,Non-Prem,Yes,1,89%,0,0,1,1,0,0,1,0,0
-384,51,225000,57,India,Public,Non-Prem,Yes,0,31%,0,1,0,0,1,0,0,0,1
-385,57,500000,57,United Kingdom,Public,Prem,Yes,0,18%,0,1,0,0,0,1,0,0,1
-386,30,75000,60,United Kingdom,Government,Prem,Yes,1,98%,0,0,1,0,0,1,1,0,0
-387,58,175000,90,America,Own,Prem,Yes,0,16%,1,0,0,1,0,0,0,0,1
-388,55,500000,57,India,Public,Prem,Yes,0,30%,0,1,0,0,1,0,0,0,1
-389,45,275000,81,India,Own,Prem,Yes,0,53%,1,0,0,0,1,0,0,1,0
-390,28,225000,57,India,Public,Non-Prem,Yes,1,84%,0,1,0,0,1,0,1,0,0
-391,46,275000,99,India,Own,Prem,Yes,0,26%,1,0,0,0,1,0,0,1,0
-392,52,750000,60,United Kingdom,Government,Prem,Yes,0,29%,0,0,1,0,0,1,0,0,1
-393,28,1000000,57,United Kingdom,Public,Prem,Yes,1,98%,0,1,0,0,0,1,1,0,0
-394,63,125000,60,United Kingdom,Government,Prem,Yes,0,17%,0,0,1,0,0,1,0,0,1
-395,45,75000,57,India,Public,Non-Prem,Yes,0,43%,0,1,0,0,1,0,0,1,0
-396,44,175000,91,India,Own,Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0
-397,56,750000,60,India,Government,Non-Prem,Yes,0,29%,0,0,1,0,1,0,0,0,1
-398,25,500000,57,India,Public,Prem,Yes,1,83%,0,1,0,0,1,0,1,0,0
-399,30,1000000,87,America,Own,Non-Prem,Yes,1,85%,1,0,0,1,0,0,1,0,0
-400,52,1000000,60,America,Government,Non-Prem,Yes,0,24%,0,0,1,1,0,0,0,0,1
-401,55,500000,60,United Kingdom,Government,Non-Prem,Yes,0,31%,0,0,1,0,0,1,0,0,1
-402,44,175000,57,America,Public,Prem,Yes,0,61%,0,1,0,1,0,0,0,1,0
-403,46,225000,57,United Kingdom,Public,Prem,Yes,0,27%,0,1,0,0,0,1,0,1,0
-404,62,75000,60,America,Government,Prem,Yes,0,18%,0,0,1,1,0,0,0,0,1
-405,53,1000000,57,India,Public,Non-Prem,Yes,0,21%,0,1,0,0,1,0,0,0,1
-406,25,1000000,60,United Kingdom,Government,Non-Prem,Yes,1,97%,0,0,1,0,0,1,1,0,0
-407,65,1000000,57,America,Public,Non-Prem,Yes,0,11%,0,1,0,1,0,0,0,0,1
-408,63,275000,93,India,Own,Non-Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1
-409,50,500000,88,India,Own,Non-Prem,Yes,0,31%,1,0,0,0,1,0,0,1,0
-410,35,225000,86,America,Own,Non-Prem,Yes,0,69%,1,0,0,1,0,0,1,0,0
-411,59,125000,57,United Kingdom,Public,Non-Prem,Yes,0,18%,0,1,0,0,0,1,0,0,1
-412,48,75000,90,America,Own,Prem,Yes,0,33%,1,0,0,1,0,0,0,1,0
-413,57,125000,60,United Kingdom,Government,Non-Prem,Yes,0,19%,0,0,1,0,0,1,0,0,1
-414,44,75000,57,United Kingdom,Public,Non-Prem,Yes,0,44%,0,1,0,0,0,1,0,1,0
-415,51,75000,89,India,Own,Prem,Yes,0,34%,1,0,0,0,1,0,0,0,1
-416,39,1000000,60,India,Government,Non-Prem,Yes,0,49%,0,0,1,0,1,0,0,1,0
-417,57,75000,60,United Kingdom,Government,Prem,Yes,0,11%,0,0,1,0,0,1,0,0,1
-418,58,500000,85,United Kingdom,Own,Non-Prem,Yes,0,11%,1,0,0,0,0,1,0,0,1
-419,29,225000,60,United Kingdom,Government,Prem,Yes,1,83%,0,0,1,0,0,1,1,0,0
-420,54,175000,99,United Kingdom,Own,Prem,Yes,0,24%,1,0,0,0,0,1,0,0,1
-421,52,500000,60,United Kingdom,Government,Prem,Yes,0,20%,0,0,1,0,0,1,0,0,1
-422,42,175000,60,America,Government,Non-Prem,Yes,0,64%,0,0,1,1,0,0,0,1,0
-423,60,225000,57,America,Public,Prem,Yes,0,17%,0,1,0,1,0,0,0,0,1
-424,27,125000,100,America,Own,Non-Prem,Yes,1,82%,1,0,0,1,0,0,1,0,0
-425,45,500000,60,United Kingdom,Government,Non-Prem,Yes,0,60%,0,0,1,0,0,1,0,1,0
-426,40,75000,97,America,Own,Non-Prem,Yes,0,66%,1,0,0,1,0,0,0,1,0
-427,61,750000,87,United Kingdom,Own,Prem,Yes,0,19%,1,0,0,0,0,1,0,0,1
-428,29,750000,81,India,Own,Non-Prem,Yes,1,84%,1,0,0,0,1,0,1,0,0
-429,38,125000,57,United Kingdom,Public,Non-Prem,Yes,0,57%,0,1,0,0,0,1,0,1,0
-430,55,750000,60,India,Government,Non-Prem,Yes,0,26%,0,0,1,0,1,0,0,0,1
-431,48,125000,98,India,Own,Non-Prem,Yes,0,21%,1,0,0,0,1,0,0,1,0
-432,59,500000,57,India,Public,Non-Prem,Yes,0,16%,0,1,0,0,1,0,0,0,1
-433,60,275000,88,America,Own,Prem,Yes,0,14%,1,0,0,1,0,0,0,0,1
-434,51,175000,96,United Kingdom,Own,Non-Prem,Yes,0,28%,1,0,0,0,0,1,0,0,1
-435,51,1000000,94,United Kingdom,Own,Non-Prem,Yes,0,23%,1,0,0,0,0,1,0,0,1
-436,47,75000,94,America,Own,Prem,Yes,0,29%,1,0,0,1,0,0,0,1,0
-437,37,225000,57,United Kingdom,Public,Prem,Yes,0,43%,0,1,0,0,0,1,0,1,0
-438,40,125000,57,India,Public,Prem,Yes,0,60%,0,1,0,0,1,0,0,1,0
-439,59,275000,60,United Kingdom,Government,Prem,Yes,0,11%,0,0,1,0,0,1,0,0,1
-440,51,275000,60,America,Government,Non-Prem,Yes,0,24%,0,0,1,1,0,0,0,0,1
-441,63,125000,57,America,Public,Non-Prem,Yes,0,12%,0,1,0,1,0,0,0,0,1
-442,41,750000,60,United Kingdom,Government,Prem,Yes,0,49%,0,0,1,0,0,1,0,1,0
-443,65,500000,57,United Kingdom,Public,Non-Prem,Yes,0,14%,0,1,0,0,0,1,0,0,1
-444,25,500000,57,America,Public,Prem,Yes,1,92%,0,1,0,1,0,0,1,0,0
-445,35,500000,57,America,Public,Non-Prem,Yes,0,55%,0,1,0,1,0,0,1,0,0
-446,36,125000,60,India,Government,Non-Prem,Yes,0,50%,0,0,1,0,1,0,0,1,0
-447,38,500000,82,America,Own,Non-Prem,Yes,0,55%,1,0,0,1,0,0,0,1,0
-448,55,275000,95,India,Own,Prem,Yes,0,22%,1,0,0,0,1,0,0,0,1
-449,55,500000,95,United Kingdom,Own,Non-Prem,Yes,0,22%,1,0,0,0,0,1,0,0,1
-450,40,275000,87,United Kingdom,Own,Prem,Yes,0,47%,1,0,0,0,0,1,0,1,0
-451,63,275000,57,United Kingdom,Public,Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1
-452,43,275000,60,America,Government,Non-Prem,Yes,0,52%,0,0,1,1,0,0,0,1,0
-453,53,175000,60,India,Government,Prem,Yes,0,31%,0,0,1,0,1,0,0,0,1
-454,26,175000,57,United Kingdom,Public,Prem,Yes,1,83%,0,1,0,0,0,1,1,0,0
-455,27,750000,57,United Kingdom,Public,Prem,Yes,1,89%,0,1,0,0,0,1,1,0,0
-456,53,500000,88,America,Own,Non-Prem,Yes,0,21%,1,0,0,1,0,0,0,0,1
-457,39,175000,57,India,Public,Non-Prem,Yes,0,69%,0,1,0,0,1,0,0,1,0
-458,62,225000,60,India,Government,Prem,Yes,0,12%,0,0,1,0,1,0,0,0,1
-459,52,225000,57,India,Public,Non-Prem,Yes,0,26%,0,1,0,0,1,0,0,0,1
-460,61,750000,57,India,Public,Prem,Yes,0,15%,0,1,0,0,1,0,0,0,1
-461,56,225000,57,America,Public,Non-Prem,Yes,0,22%,0,1,0,1,0,0,0,0,1
-462,54,750000,57,United Kingdom,Public,Prem,Yes,0,24%,0,1,0,0,0,1,0,0,1
-463,54,225000,60,America,Government,Non-Prem,Yes,0,30%,0,0,1,1,0,0,0,0,1
-464,58,75000,60,India,Government,Non-Prem,Yes,0,14%,0,0,1,0,1,0,0,0,1
-465,37,75000,98,United Kingdom,Own,Prem,Yes,0,52%,1,0,0,0,0,1,0,1,0
-466,57,500000,57,United Kingdom,Public,Non-Prem,Yes,0,11%,0,1,0,0,0,1,0,0,1
-467,41,75000,81,India,Own,Non-Prem,Yes,0,56%,1,0,0,0,1,0,0,1,0
-468,27,125000,84,America,Own,Non-Prem,Yes,1,90%,1,0,0,1,0,0,1,0,0
-469,35,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,52%,0,1,0,0,0,1,1,0,0
-470,51,500000,57,United Kingdom,Public,Non-Prem,Yes,0,27%,0,1,0,0,0,1,0,0,1
-471,52,1000000,60,India,Government,Prem,Yes,0,31%,0,0,1,0,1,0,0,0,1
-472,26,1000000,60,America,Government,Non-Prem,Yes,1,91%,0,0,1,1,0,0,1,0,0
-473,25,125000,60,India,Government,Non-Prem,Yes,1,97%,0,0,1,0,1,0,1,0,0
-474,30,275000,57,India,Public,Prem,Yes,1,93%,0,1,0,0,1,0,1,0,0
-475,49,75000,84,India,Own,Non-Prem,Yes,0,24%,1,0,0,0,1,0,0,1,0
-476,59,1000000,91,India,Own,Non-Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1
-477,40,750000,57,United Kingdom,Public,Non-Prem,Yes,0,55%,0,1,0,0,0,1,0,1,0
-478,28,175000,86,India,Own,Prem,Yes,1,90%,1,0,0,0,1,0,1,0,0
-479,62,500000,57,India,Public,Non-Prem,Yes,0,16%,0,1,0,0,1,0,0,0,1
-480,44,225000,57,America,Public,Prem,Yes,0,57%,0,1,0,1,0,0,0,1,0
-481,49,125000,60,America,Government,Prem,Yes,0,23%,0,0,1,1,0,0,0,1,0
-482,45,275000,60,United Kingdom,Government,Non-Prem,Yes,0,62%,0,0,1,0,0,1,0,1,0
-483,53,225000,96,United Kingdom,Own,Non-Prem,Yes,0,27%,1,0,0,0,0,1,0,0,1
-484,27,275000,80,India,Own,Prem,Yes,1,93%,1,0,0,0,1,0,1,0,0
-485,53,500000,57,America,Public,Non-Prem,Yes,0,24%,0,1,0,1,0,0,0,0,1
-486,53,175000,86,America,Own,Prem,Yes,0,32%,1,0,0,1,0,0,0,0,1
-487,63,75000,82,America,Own,Non-Prem,Yes,0,15%,1,0,0,1,0,0,0,0,1
-488,62,125000,99,India,Own,Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1
-489,30,275000,57,America,Public,Prem,Yes,1,82%,0,1,0,1,0,0,1,0,0
-490,61,75000,60,United Kingdom,Government,Non-Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-491,38,125000,57,United Kingdom,Public,Non-Prem,Yes,0,67%,0,1,0,0,0,1,0,1,0
-492,46,125000,60,India,Government,Non-Prem,Yes,0,27%,0,0,1,0,1,0,0,1,0
-493,56,75000,57,India,Public,Prem,Yes,0,22%,0,1,0,0,1,0,0,0,1
-494,42,125000,84,India,Own,Prem,Yes,0,53%,1,0,0,0,1,0,0,1,0
-495,60,275000,60,India,Government,Prem,Yes,0,18%,0,0,1,0,1,0,0,0,1
-496,50,750000,57,America,Public,Non-Prem,Yes,0,27%,0,1,0,1,0,0,0,1,0
-497,46,125000,57,United Kingdom,Public,Non-Prem,Yes,0,30%,0,1,0,0,0,1,0,1,0
-498,62,275000,90,America,Own,Prem,Yes,0,12%,1,0,0,1,0,0,0,0,1
-499,47,75000,60,America,Government,Prem,Yes,0,28%,0,0,1,1,0,0,0,1,0
-500,41,225000,60,United Kingdom,Government,Prem,Yes,0,57%,0,0,1,0,0,1,0,1,0
-501,50,75000,60,America,Government,Non-Prem,Yes,0,26%,0,0,1,1,0,0,0,1,0
-502,62,750000,57,India,Public,Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1
-503,26,500000,60,America,Government,Non-Prem,Yes,1,93%,0,0,1,1,0,0,1,0,0
-504,30,1000000,60,India,Government,Non-Prem,Yes,1,85%,0,0,1,0,1,0,1,0,0
-505,37,75000,57,America,Public,Non-Prem,Yes,0,44%,0,1,0,1,0,0,0,1,0
-506,51,275000,57,India,Public,Prem,Yes,0,31%,0,1,0,0,1,0,0,0,1
-507,35,225000,57,India,Public,Non-Prem,Yes,0,54%,0,1,0,0,1,0,1,0,0
-508,39,125000,95,America,Own,Non-Prem,Yes,0,58%,1,0,0,1,0,0,0,1,0
-509,30,275000,83,United Kingdom,Own,Non-Prem,Yes,1,91%,1,0,0,0,0,1,1,0,0
-510,28,75000,57,United Kingdom,Public,Prem,Yes,1,90%,0,1,0,0,0,1,1,0,0
-511,35,500000,86,America,Own,Prem,Yes,0,65%,1,0,0,1,0,0,1,0,0
-512,52,75000,57,America,Public,Non-Prem,Yes,0,34%,0,1,0,1,0,0,0,0,1
-513,50,175000,85,India,Own,Prem,Yes,0,26%,1,0,0,0,1,0,0,1,0
-514,28,125000,57,America,Public,Prem,Yes,1,97%,0,1,0,1,0,0,1,0,0
-515,39,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,57%,0,0,1,0,0,1,0,1,0
-516,43,225000,60,America,Government,Non-Prem,Yes,0,64%,0,0,1,1,0,0,0,1,0
-517,30,500000,98,America,Own,Non-Prem,Yes,1,83%,1,0,0,1,0,0,1,0,0
-518,29,75000,57,United Kingdom,Public,Prem,Yes,1,89%,0,1,0,0,0,1,1,0,0
-519,42,175000,60,United Kingdom,Government,Prem,Yes,0,62%,0,0,1,0,0,1,0,1,0
-520,30,500000,57,United Kingdom,Public,Prem,Yes,1,97%,0,1,0,0,0,1,1,0,0
-521,55,500000,90,United Kingdom,Own,Non-Prem,Yes,0,33%,1,0,0,0,0,1,0,0,1
-522,49,75000,57,America,Public,Prem,Yes,0,20%,0,1,0,1,0,0,0,1,0
-523,28,750000,57,America,Public,Prem,Yes,1,80%,0,1,0,1,0,0,1,0,0
-524,30,175000,85,India,Own,Prem,Yes,1,98%,1,0,0,0,1,0,1,0,0
-525,65,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-526,61,1000000,88,America,Own,Prem,Yes,0,16%,1,0,0,1,0,0,0,0,1
-527,49,125000,57,America,Public,Non-Prem,Yes,0,33%,0,1,0,1,0,0,0,1,0
-528,58,175000,91,United Kingdom,Own,Prem,Yes,0,11%,1,0,0,0,0,1,0,0,1
-529,43,75000,81,United Kingdom,Own,Prem,Yes,0,54%,1,0,0,0,0,1,0,1,0
-530,58,275000,57,America,Public,Non-Prem,Yes,0,15%,0,1,0,1,0,0,0,0,1
-531,39,500000,85,America,Own,Prem,Yes,0,64%,1,0,0,1,0,0,0,1,0
-532,58,175000,60,America,Government,Prem,Yes,0,12%,0,0,1,1,0,0,0,0,1
-533,42,275000,87,America,Own,Prem,Yes,0,59%,1,0,0,1,0,0,0,1,0
-534,54,225000,57,America,Public,Prem,Yes,0,25%,0,1,0,1,0,0,0,0,1
-535,37,1000000,98,United Kingdom,Own,Non-Prem,Yes,0,67%,1,0,0,0,0,1,0,1,0
-536,57,225000,95,United Kingdom,Own,Non-Prem,Yes,0,13%,1,0,0,0,0,1,0,0,1
-537,59,750000,60,India,Government,Prem,Yes,0,13%,0,0,1,0,1,0,0,0,1
-538,48,175000,60,United Kingdom,Government,Non-Prem,Yes,0,24%,0,0,1,0,0,1,0,1,0
-539,50,125000,57,India,Public,Prem,Yes,0,27%,0,1,0,0,1,0,0,1,0
-540,25,75000,57,America,Public,Non-Prem,Yes,1,97%,0,1,0,1,0,0,1,0,0
-541,37,225000,57,America,Public,Prem,Yes,0,55%,0,1,0,1,0,0,0,1,0
-542,43,750000,99,United Kingdom,Own,Non-Prem,Yes,0,56%,1,0,0,0,0,1,0,1,0
-543,29,275000,80,United Kingdom,Own,Non-Prem,Yes,1,95%,1,0,0,0,0,1,1,0,0
-544,28,275000,57,America,Public,Prem,Yes,1,94%,0,1,0,1,0,0,1,0,0
-545,37,225000,57,America,Public,Prem,Yes,0,44%,0,1,0,1,0,0,0,1,0
-546,62,175000,57,America,Public,Prem,Yes,0,18%,0,1,0,1,0,0,0,0,1
-547,43,500000,82,America,Own,Non-Prem,Yes,0,59%,1,0,0,1,0,0,0,1,0
-548,51,125000,57,United Kingdom,Public,Non-Prem,Yes,0,33%,0,1,0,0,0,1,0,0,1
-549,54,1000000,60,America,Government,Prem,Yes,0,25%,0,0,1,1,0,0,0,0,1
-550,28,125000,57,United Kingdom,Public,Non-Prem,Yes,1,87%,0,1,0,0,0,1,1,0,0
-551,35,175000,90,India,Own,Non-Prem,Yes,0,51%,1,0,0,0,1,0,1,0,0
-552,45,275000,89,America,Own,Non-Prem,Yes,0,44%,1,0,0,1,0,0,0,1,0
-553,26,1000000,57,America,Public,Prem,Yes,1,87%,0,1,0,1,0,0,1,0,0
-554,45,225000,60,India,Government,Prem,Yes,0,42%,0,0,1,0,1,0,0,1,0
-555,41,1000000,60,United Kingdom,Government,Prem,Yes,0,54%,0,0,1,0,0,1,0,1,0
-556,53,175000,86,India,Own,Prem,Yes,0,22%,1,0,0,0,1,0,0,0,1
-557,51,1000000,97,India,Own,Non-Prem,Yes,0,26%,1,0,0,0,1,0,0,0,1
-558,48,750000,85,America,Own,Non-Prem,Yes,0,25%,1,0,0,1,0,0,0,1,0
-559,27,500000,57,United Kingdom,Public,Non-Prem,Yes,1,80%,0,1,0,0,0,1,1,0,0
-560,63,75000,93,America,Own,Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1
-561,27,75000,88,America,Own,Prem,Yes,1,96%,1,0,0,1,0,0,1,0,0
-562,50,75000,60,United Kingdom,Government,Non-Prem,Yes,0,31%,0,0,1,0,0,1,0,1,0
-563,61,500000,60,America,Government,Non-Prem,Yes,0,12%,0,0,1,1,0,0,0,0,1
-564,51,1000000,81,America,Own,Non-Prem,Yes,0,34%,1,0,0,1,0,0,0,0,1
-565,29,225000,60,America,Government,Non-Prem,Yes,1,86%,0,0,1,1,0,0,1,0,0
-566,35,500000,60,India,Government,Prem,Yes,0,44%,0,0,1,0,1,0,1,0,0
-567,37,175000,60,United Kingdom,Government,Non-Prem,Yes,0,56%,0,0,1,0,0,1,0,1,0
-568,65,75000,60,United Kingdom,Government,Non-Prem,Yes,0,17%,0,0,1,0,0,1,0,0,1
-569,58,75000,57,United Kingdom,Public,Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1
-570,62,275000,60,America,Government,Prem,Yes,0,17%,0,0,1,1,0,0,0,0,1
-571,64,275000,60,America,Government,Non-Prem,Yes,0,17%,0,0,1,1,0,0,0,0,1
-572,57,75000,60,United Kingdom,Government,Non-Prem,Yes,0,18%,0,0,1,0,0,1,0,0,1
-573,58,225000,60,India,Government,Non-Prem,Yes,0,16%,0,0,1,0,1,0,0,0,1
-574,51,750000,57,United Kingdom,Public,Non-Prem,Yes,0,31%,0,1,0,0,0,1,0,0,1
-575,60,75000,57,United Kingdom,Public,Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-576,50,750000,81,America,Own,Non-Prem,Yes,0,25%,1,0,0,1,0,0,0,1,0
-577,49,125000,60,America,Government,Prem,Yes,0,29%,0,0,1,1,0,0,0,1,0
-578,43,175000,60,America,Government,Prem,Yes,0,65%,0,0,1,1,0,0,0,1,0
-579,45,225000,80,India,Own,Prem,Yes,0,54%,1,0,0,0,1,0,0,1,0
-580,55,750000,57,America,Public,Non-Prem,Yes,0,22%,0,1,0,1,0,0,0,0,1
-581,53,750000,86,India,Own,Prem,Yes,0,32%,1,0,0,0,1,0,0,0,1
-582,43,275000,94,United Kingdom,Own,Non-Prem,Yes,0,59%,1,0,0,0,0,1,0,1,0
-583,50,750000,86,America,Own,Prem,Yes,0,26%,1,0,0,1,0,0,0,1,0
-584,49,1000000,60,United Kingdom,Government,Prem,Yes,0,31%,0,0,1,0,0,1,0,1,0
-585,64,500000,97,America,Own,Prem,Yes,0,17%,1,0,0,1,0,0,0,0,1
-586,53,750000,57,United Kingdom,Public,Prem,Yes,0,29%,0,1,0,0,0,1,0,0,1
-587,49,175000,57,India,Public,Non-Prem,Yes,0,22%,0,1,0,0,1,0,0,1,0
-588,43,125000,100,United Kingdom,Own,Non-Prem,Yes,0,53%,1,0,0,0,0,1,0,1,0
-589,28,225000,57,America,Public,Prem,Yes,1,91%,0,1,0,1,0,0,1,0,0
-590,44,1000000,100,United Kingdom,Own,Prem,Yes,0,64%,1,0,0,0,0,1,0,1,0
-591,25,225000,60,India,Government,Non-Prem,Yes,1,98%,0,0,1,0,1,0,1,0,0
-592,35,750000,60,America,Government,Non-Prem,Yes,0,67%,0,0,1,1,0,0,1,0,0
-593,28,750000,60,United Kingdom,Government,Non-Prem,Yes,1,86%,0,0,1,0,0,1,1,0,0
-594,52,275000,86,America,Own,Prem,Yes,0,22%,1,0,0,1,0,0,0,0,1
-595,60,1000000,57,India,Public,Non-Prem,Yes,0,16%,0,1,0,0,1,0,0,0,1
-596,44,175000,57,America,Public,Non-Prem,Yes,0,48%,0,1,0,1,0,0,0,1,0
-597,59,125000,86,United Kingdom,Own,Prem,Yes,0,15%,1,0,0,0,0,1,0,0,1
-598,63,500000,57,America,Public,Non-Prem,Yes,0,19%,0,1,0,1,0,0,0,0,1
-599,45,75000,57,India,Public,Prem,Yes,0,42%,0,1,0,0,1,0,0,1,0
-600,25,75000,86,India,Own,Prem,Yes,1,98%,1,0,0,0,1,0,1,0,0
-601,61,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,15%,0,0,1,0,0,1,0,0,1
-602,27,75000,96,America,Own,Prem,Yes,1,87%,1,0,0,1,0,0,1,0,0
-603,58,750000,60,America,Government,Prem,Yes,0,13%,0,0,1,1,0,0,0,0,1
-604,37,750000,85,India,Own,Non-Prem,Yes,0,43%,1,0,0,0,1,0,0,1,0
-605,40,175000,57,India,Public,Non-Prem,Yes,0,66%,0,1,0,0,1,0,0,1,0
-606,58,750000,60,United Kingdom,Government,Non-Prem,Yes,0,14%,0,0,1,0,0,1,0,0,1
-607,48,750000,57,India,Public,Non-Prem,Yes,0,24%,0,1,0,0,1,0,0,1,0
-608,37,1000000,57,India,Public,Non-Prem,Yes,0,56%,0,1,0,0,1,0,0,1,0
-609,30,750000,57,America,Public,Non-Prem,Yes,1,97%,0,1,0,1,0,0,1,0,0
-610,63,225000,80,America,Own,Prem,Yes,0,14%,1,0,0,1,0,0,0,0,1
-611,26,125000,57,United Kingdom,Public,Non-Prem,Yes,1,85%,0,1,0,0,0,1,1,0,0
-612,35,500000,99,America,Own,Prem,Yes,0,57%,1,0,0,1,0,0,1,0,0
-613,63,500000,60,United Kingdom,Government,Non-Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-614,63,225000,60,United Kingdom,Government,Prem,Yes,0,17%,0,0,1,0,0,1,0,0,1
-615,36,1000000,82,America,Own,Prem,Yes,0,65%,1,0,0,1,0,0,0,1,0
-616,46,1000000,60,India,Government,Prem,Yes,0,27%,0,0,1,0,1,0,0,1,0
-617,27,275000,96,United Kingdom,Own,Prem,Yes,1,88%,1,0,0,0,0,1,1,0,0
-618,37,225000,82,America,Own,Non-Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0
-619,54,75000,60,India,Government,Prem,Yes,0,29%,0,0,1,0,1,0,0,0,1
-620,30,75000,97,United Kingdom,Own,Non-Prem,Yes,1,96%,1,0,0,0,0,1,1,0,0
-621,26,125000,100,United Kingdom,Own,Non-Prem,Yes,1,84%,1,0,0,0,0,1,1,0,0
-622,40,125000,60,United Kingdom,Government,Non-Prem,Yes,0,58%,0,0,1,0,0,1,0,1,0
-623,37,1000000,91,America,Own,Non-Prem,Yes,0,52%,1,0,0,1,0,0,0,1,0
-624,37,500000,60,India,Government,Prem,Yes,0,62%,0,0,1,0,1,0,0,1,0
-625,46,275000,97,United Kingdom,Own,Prem,Yes,0,34%,1,0,0,0,0,1,0,1,0
-626,43,275000,82,India,Own,Non-Prem,Yes,0,49%,1,0,0,0,1,0,0,1,0
-627,50,175000,57,America,Public,Prem,Yes,0,26%,0,1,0,1,0,0,0,1,0
-628,38,175000,57,India,Public,Prem,Yes,0,53%,0,1,0,0,1,0,0,1,0
-629,55,275000,60,India,Government,Prem,Yes,0,25%,0,0,1,0,1,0,0,0,1
-630,53,125000,57,America,Public,Non-Prem,Yes,0,30%,0,1,0,1,0,0,0,0,1
-631,46,75000,98,America,Own,Prem,Yes,0,29%,1,0,0,1,0,0,0,1,0
-632,61,750000,57,America,Public,Prem,Yes,0,10%,0,1,0,1,0,0,0,0,1
-633,65,175000,60,United Kingdom,Government,Prem,Yes,0,13%,0,0,1,0,0,1,0,0,1
-634,51,125000,60,United Kingdom,Government,Non-Prem,Yes,0,27%,0,0,1,0,0,1,0,0,1
-635,55,75000,84,America,Own,Prem,Yes,0,29%,1,0,0,1,0,0,0,0,1
-636,30,750000,57,America,Public,Prem,Yes,1,90%,0,1,0,1,0,0,1,0,0
-637,40,500000,87,America,Own,Non-Prem,Yes,0,68%,1,0,0,1,0,0,0,1,0
-638,62,175000,60,India,Government,Non-Prem,Yes,0,12%,0,0,1,0,1,0,0,0,1
-639,62,125000,60,India,Government,Non-Prem,Yes,0,12%,0,0,1,0,1,0,0,0,1
-640,56,750000,60,America,Government,Prem,Yes,0,25%,0,0,1,1,0,0,0,0,1
-641,57,1000000,57,America,Public,Prem,Yes,0,16%,0,1,0,1,0,0,0,0,1
-642,41,750000,85,United Kingdom,Own,Non-Prem,Yes,0,40%,1,0,0,0,0,1,0,1,0
-643,57,275000,81,India,Own,Non-Prem,Yes,0,14%,1,0,0,0,1,0,0,0,1
-644,35,125000,57,United Kingdom,Public,Non-Prem,Yes,0,50%,0,1,0,0,0,1,1,0,0
-645,37,500000,80,America,Own,Non-Prem,Yes,0,46%,1,0,0,1,0,0,0,1,0
-646,54,175000,87,India,Own,Non-Prem,Yes,0,23%,1,0,0,0,1,0,0,0,1
-647,25,75000,60,India,Government,Non-Prem,Yes,1,95%,0,0,1,0,1,0,1,0,0
-648,54,175000,60,India,Government,Prem,Yes,0,29%,0,0,1,0,1,0,0,0,1
-649,51,750000,60,India,Government,Prem,Yes,0,35%,0,0,1,0,1,0,0,0,1
-650,64,750000,57,America,Public,Non-Prem,Yes,0,16%,0,1,0,1,0,0,0,0,1
-651,47,225000,60,United Kingdom,Government,Non-Prem,Yes,0,33%,0,0,1,0,0,1,0,1,0
-652,44,500000,89,India,Own,Prem,Yes,0,55%,1,0,0,0,1,0,0,1,0
-653,30,275000,57,India,Public,Non-Prem,Yes,1,82%,0,1,0,0,1,0,1,0,0
-654,61,1000000,91,United Kingdom,Own,Prem,Yes,0,14%,1,0,0,0,0,1,0,0,1
-655,44,225000,57,India,Public,Prem,Yes,0,55%,0,1,0,0,1,0,0,1,0
-656,61,175000,90,India,Own,Non-Prem,Yes,0,14%,1,0,0,0,1,0,0,0,1
-657,30,175000,57,America,Public,Non-Prem,Yes,1,95%,0,1,0,1,0,0,1,0,0
-658,53,750000,87,United Kingdom,Own,Prem,Yes,0,26%,1,0,0,0,0,1,0,0,1
-659,37,125000,60,United Kingdom,Government,Non-Prem,Yes,0,48%,0,0,1,0,0,1,0,1,0
-660,51,750000,57,United Kingdom,Public,Prem,Yes,0,35%,0,1,0,0,0,1,0,0,1
-661,44,1000000,99,India,Own,Non-Prem,Yes,0,55%,1,0,0,0,1,0,0,1,0
-662,37,125000,86,United Kingdom,Own,Prem,Yes,0,68%,1,0,0,0,0,1,0,1,0
-663,63,225000,93,America,Own,Prem,Yes,0,10%,1,0,0,1,0,0,0,0,1
-664,41,125000,60,America,Government,Non-Prem,Yes,0,58%,0,0,1,1,0,0,0,1,0
-665,54,125000,60,America,Government,Non-Prem,Yes,0,29%,0,0,1,1,0,0,0,0,1
-666,25,225000,57,India,Public,Prem,Yes,1,80%,0,1,0,0,1,0,1,0,0
-667,48,125000,57,United Kingdom,Public,Prem,Yes,0,20%,0,1,0,0,0,1,0,1,0
-668,40,225000,82,India,Own,Non-Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0
-669,35,75000,57,India,Public,Prem,Yes,0,54%,0,1,0,0,1,0,1,0,0
-670,28,1000000,82,United Kingdom,Own,Non-Prem,Yes,1,93%,1,0,0,0,0,1,1,0,0
-671,28,225000,57,India,Public,Non-Prem,Yes,1,80%,0,1,0,0,1,0,1,0,0
-672,41,125000,57,United Kingdom,Public,Non-Prem,Yes,0,58%,0,1,0,0,0,1,0,1,0
-673,45,750000,60,America,Government,Prem,Yes,0,41%,0,0,1,1,0,0,0,1,0
-674,62,275000,88,America,Own,Non-Prem,Yes,0,18%,1,0,0,1,0,0,0,0,1
-675,42,275000,60,India,Government,Prem,Yes,0,41%,0,0,1,0,1,0,0,1,0
-676,40,225000,60,America,Government,Non-Prem,Yes,0,45%,0,0,1,1,0,0,0,1,0
-677,63,1000000,86,United Kingdom,Own,Non-Prem,Yes,0,19%,1,0,0,0,0,1,0,0,1
-678,39,500000,57,America,Public,Prem,Yes,0,63%,0,1,0,1,0,0,0,1,0
-679,58,275000,60,United Kingdom,Government,Prem,Yes,0,20%,0,0,1,0,0,1,0,0,1
-680,29,500000,60,America,Government,Prem,Yes,1,83%,0,0,1,1,0,0,1,0,0
-681,41,750000,86,America,Own,Prem,Yes,0,53%,1,0,0,1,0,0,0,1,0
-682,61,275000,57,America,Public,Prem,Yes,0,13%,0,1,0,1,0,0,0,0,1
-683,48,75000,60,United Kingdom,Government,Non-Prem,Yes,0,24%,0,0,1,0,0,1,0,1,0
-684,52,75000,60,America,Government,Non-Prem,Yes,0,26%,0,0,1,1,0,0,0,0,1
-685,47,500000,57,India,Public,Non-Prem,Yes,0,23%,0,1,0,0,1,0,0,1,0
-686,59,75000,60,America,Government,Prem,Yes,0,13%,0,0,1,1,0,0,0,0,1
-687,55,750000,60,India,Government,Non-Prem,Yes,0,32%,0,0,1,0,1,0,0,0,1
-688,41,225000,57,India,Public,Non-Prem,Yes,0,50%,0,1,0,0,1,0,0,1,0
-689,52,75000,57,India,Public,Non-Prem,Yes,0,20%,0,1,0,0,1,0,0,0,1
-690,36,750000,80,America,Own,Non-Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0
-691,48,275000,57,America,Public,Non-Prem,Yes,0,25%,0,1,0,1,0,0,0,1,0
-692,39,125000,57,United Kingdom,Public,Non-Prem,Yes,0,46%,0,1,0,0,0,1,0,1,0
-693,64,175000,95,United Kingdom,Own,Prem,Yes,0,12%,1,0,0,0,0,1,0,0,1
-694,55,750000,57,India,Public,Non-Prem,Yes,0,31%,0,1,0,0,1,0,0,0,1
-695,51,275000,96,India,Own,Prem,Yes,0,30%,1,0,0,0,1,0,0,0,1
-696,59,1000000,57,America,Public,Non-Prem,Yes,0,15%,0,1,0,1,0,0,0,0,1
-697,42,275000,88,India,Own,Non-Prem,Yes,0,45%,1,0,0,0,1,0,0,1,0
-698,60,225000,60,United Kingdom,Government,Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-699,62,225000,60,India,Government,Prem,Yes,0,16%,0,0,1,0,1,0,0,0,1
-700,29,125000,94,India,Own,Prem,Yes,1,84%,1,0,0,0,1,0,1,0,0
-701,38,1000000,60,America,Government,Non-Prem,Yes,0,64%,0,0,1,1,0,0,0,1,0
-702,62,1000000,57,India,Public,Non-Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1
-703,44,750000,100,America,Own,Non-Prem,Yes,0,64%,1,0,0,1,0,0,0,1,0
-704,57,175000,57,United Kingdom,Public,Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-705,42,500000,57,India,Public,Prem,Yes,0,50%,0,1,0,0,1,0,0,1,0
-706,30,125000,91,United Kingdom,Own,Non-Prem,Yes,1,95%,1,0,0,0,0,1,1,0,0
-707,61,75000,57,America,Public,Non-Prem,Yes,0,13%,0,1,0,1,0,0,0,0,1
-708,26,275000,60,United Kingdom,Government,Non-Prem,Yes,1,80%,0,0,1,0,0,1,1,0,0
-709,54,75000,90,India,Own,Non-Prem,Yes,0,21%,1,0,0,0,1,0,0,0,1
-710,30,125000,60,America,Government,Non-Prem,Yes,1,97%,0,0,1,1,0,0,1,0,0
-711,41,225000,86,India,Own,Prem,Yes,0,54%,1,0,0,0,1,0,0,1,0
-712,63,750000,57,United Kingdom,Public,Non-Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-713,65,500000,60,America,Government,Non-Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1
-714,47,1000000,83,India,Own,Prem,Yes,0,27%,1,0,0,0,1,0,0,1,0
-715,55,275000,57,United Kingdom,Public,Non-Prem,Yes,0,31%,0,1,0,0,0,1,0,0,1
-716,44,750000,57,United Kingdom,Public,Non-Prem,Yes,0,54%,0,1,0,0,0,1,0,1,0
-717,29,275000,84,America,Own,Non-Prem,Yes,1,94%,1,0,0,1,0,0,1,0,0
-718,45,175000,89,America,Own,Prem,Yes,0,67%,1,0,0,1,0,0,0,1,0
-719,35,1000000,84,India,Own,Non-Prem,Yes,0,58%,1,0,0,0,1,0,1,0,0
-720,28,500000,81,India,Own,Non-Prem,Yes,1,88%,1,0,0,0,1,0,1,0,0
-721,47,75000,60,America,Government,Prem,Yes,0,24%,0,0,1,1,0,0,0,1,0
-722,62,500000,90,America,Own,Prem,Yes,0,20%,1,0,0,1,0,0,0,0,1
-723,54,1000000,57,America,Public,Prem,Yes,0,22%,0,1,0,1,0,0,0,0,1
-724,65,1000000,60,India,Government,Prem,Yes,0,19%,0,0,1,0,1,0,0,0,1
-725,42,1000000,57,United Kingdom,Public,Prem,Yes,0,63%,0,1,0,0,0,1,0,1,0
-726,65,125000,57,America,Public,Prem,Yes,0,17%,0,1,0,1,0,0,0,0,1
-727,55,125000,85,America,Own,Prem,Yes,0,29%,1,0,0,1,0,0,0,0,1
-728,54,750000,60,America,Government,Non-Prem,Yes,0,31%,0,0,1,1,0,0,0,0,1
-729,58,125000,80,United Kingdom,Own,Non-Prem,Yes,0,18%,1,0,0,0,0,1,0,0,1
-730,55,125000,57,United Kingdom,Public,Non-Prem,Yes,0,22%,0,1,0,0,0,1,0,0,1
-731,62,225000,87,United Kingdom,Own,Non-Prem,Yes,0,18%,1,0,0,0,0,1,0,0,1
-732,49,750000,96,India,Own,Prem,Yes,0,31%,1,0,0,0,1,0,0,1,0
-733,41,500000,94,India,Own,Prem,Yes,0,47%,1,0,0,0,1,0,0,1,0
-734,60,125000,99,United Kingdom,Own,Non-Prem,Yes,0,15%,1,0,0,0,0,1,0,0,1
-735,64,225000,85,United Kingdom,Own,Non-Prem,Yes,0,13%,1,0,0,0,0,1,0,0,1
-736,54,500000,92,America,Own,Prem,Yes,0,26%,1,0,0,1,0,0,0,0,1
-737,26,225000,60,India,Government,Non-Prem,Yes,1,94%,0,0,1,0,1,0,1,0,0
-738,48,175000,99,America,Own,Non-Prem,Yes,0,33%,1,0,0,1,0,0,0,1,0
-739,25,1000000,90,America,Own,Prem,Yes,1,87%,1,0,0,1,0,0,1,0,0
-740,48,175000,60,America,Government,Prem,Yes,0,21%,0,0,1,1,0,0,0,1,0
-741,62,75000,57,India,Public,Prem,Yes,0,12%,0,1,0,0,1,0,0,0,1
-742,51,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,30%,0,0,1,0,0,1,0,0,1
-743,50,125000,60,India,Government,Non-Prem,Yes,0,27%,0,0,1,0,1,0,0,1,0
-744,50,225000,57,United Kingdom,Public,Non-Prem,Yes,0,28%,0,1,0,0,0,1,0,1,0
-745,49,125000,90,America,Own,Non-Prem,Yes,0,33%,1,0,0,1,0,0,0,1,0
-746,40,750000,60,India,Government,Prem,Yes,0,53%,0,0,1,0,1,0,0,1,0
-747,62,1000000,89,America,Own,Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1
-748,42,175000,99,United Kingdom,Own,Prem,Yes,0,47%,1,0,0,0,0,1,0,1,0
-749,41,175000,57,United Kingdom,Public,Non-Prem,Yes,0,52%,0,1,0,0,0,1,0,1,0
-750,30,75000,94,America,Own,Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0
-751,44,1000000,95,America,Own,Prem,Yes,0,63%,1,0,0,1,0,0,0,1,0
-752,47,1000000,60,America,Government,Prem,Yes,0,33%,0,0,1,1,0,0,0,1,0
-753,36,225000,80,United Kingdom,Own,Non-Prem,Yes,0,63%,1,0,0,0,0,1,0,1,0
-754,36,225000,95,United Kingdom,Own,Prem,Yes,0,64%,1,0,0,0,0,1,0,1,0
-755,58,500000,60,United Kingdom,Government,Prem,Yes,0,14%,0,0,1,0,0,1,0,0,1
-756,51,1000000,60,America,Government,Prem,Yes,0,31%,0,0,1,1,0,0,0,0,1
-757,57,1000000,90,United Kingdom,Own,Non-Prem,Yes,0,14%,1,0,0,0,0,1,0,0,1
-758,61,175000,90,India,Own,Non-Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1
-759,43,1000000,97,India,Own,Prem,Yes,0,63%,1,0,0,0,1,0,0,1,0
-760,48,125000,87,America,Own,Prem,Yes,0,24%,1,0,0,1,0,0,0,1,0
-761,46,500000,82,India,Own,Prem,Yes,0,21%,1,0,0,0,1,0,0,1,0
-762,27,750000,60,United Kingdom,Government,Non-Prem,Yes,1,83%,0,0,1,0,0,1,1,0,0
-763,35,500000,92,India,Own,Non-Prem,Yes,0,45%,1,0,0,0,1,0,1,0,0
-764,30,75000,57,United Kingdom,Public,Prem,Yes,1,95%,0,1,0,0,0,1,1,0,0
-765,63,225000,60,America,Government,Non-Prem,Yes,0,10%,0,0,1,1,0,0,0,0,1
-766,63,75000,81,America,Own,Prem,Yes,0,10%,1,0,0,1,0,0,0,0,1
-767,61,125000,60,India,Government,Prem,Yes,0,13%,0,0,1,0,1,0,0,0,1
-768,26,500000,57,America,Public,Prem,Yes,1,82%,0,1,0,1,0,0,1,0,0
-769,61,750000,60,America,Government,Prem,Yes,0,17%,0,0,1,1,0,0,0,0,1
-770,30,175000,60,India,Government,Prem,Yes,1,93%,0,0,1,0,1,0,1,0,0
-771,30,1000000,60,India,Government,Prem,Yes,1,82%,0,0,1,0,1,0,1,0,0
-772,63,125000,60,India,Government,Non-Prem,Yes,0,18%,0,0,1,0,1,0,0,0,1
-773,60,500000,95,America,Own,Non-Prem,Yes,0,17%,1,0,0,1,0,0,0,0,1
-774,49,500000,57,United Kingdom,Public,Non-Prem,Yes,0,32%,0,1,0,0,0,1,0,1,0
-775,40,125000,98,United Kingdom,Own,Prem,Yes,0,49%,1,0,0,0,0,1,0,1,0
-776,45,75000,60,United Kingdom,Government,Non-Prem,Yes,0,51%,0,0,1,0,0,1,0,1,0
-777,29,175000,60,America,Government,Prem,Yes,1,82%,0,0,1,1,0,0,1,0,0
-778,49,1000000,57,India,Public,Prem,Yes,0,30%,0,1,0,0,1,0,0,1,0
-779,55,1000000,57,India,Public,Prem,Yes,0,29%,0,1,0,0,1,0,0,0,1
-780,27,225000,84,United Kingdom,Own,Prem,Yes,1,80%,1,0,0,0,0,1,1,0,0
-781,44,75000,60,America,Government,Non-Prem,Yes,0,44%,0,0,1,1,0,0,0,1,0
-782,28,500000,57,India,Public,Non-Prem,Yes,1,94%,0,1,0,0,1,0,1,0,0
-783,38,1000000,60,America,Government,Non-Prem,Yes,0,46%,0,0,1,1,0,0,0,1,0
-784,36,750000,81,India,Own,Non-Prem,Yes,0,50%,1,0,0,0,1,0,0,1,0
-785,38,75000,94,United Kingdom,Own,Non-Prem,Yes,0,65%,1,0,0,0,0,1,0,1,0
-786,61,125000,57,America,Public,Non-Prem,Yes,0,12%,0,1,0,1,0,0,0,0,1
-787,42,125000,95,United Kingdom,Own,Prem,Yes,0,56%,1,0,0,0,0,1,0,1,0
-788,51,500000,57,United Kingdom,Public,Non-Prem,Yes,0,30%,0,1,0,0,0,1,0,0,1
-789,59,275000,57,India,Public,Non-Prem,Yes,0,17%,0,1,0,0,1,0,0,0,1
-790,46,175000,85,India,Own,Non-Prem,Yes,0,29%,1,0,0,0,1,0,0,1,0
-791,45,125000,60,America,Government,Prem,Yes,0,52%,0,0,1,1,0,0,0,1,0
-792,42,275000,89,United Kingdom,Own,Non-Prem,Yes,0,50%,1,0,0,0,0,1,0,1,0
-793,62,75000,60,India,Government,Prem,Yes,0,12%,0,0,1,0,1,0,0,0,1
-794,50,175000,60,India,Government,Prem,Yes,0,34%,0,0,1,0,1,0,0,1,0
-795,46,275000,60,India,Government,Non-Prem,Yes,0,29%,0,0,1,0,1,0,0,1,0
-796,61,75000,60,United Kingdom,Government,Non-Prem,Yes,0,10%,0,0,1,0,0,1,0,0,1
-797,29,225000,89,America,Own,Prem,Yes,1,93%,1,0,0,1,0,0,1,0,0
-798,59,225000,57,India,Public,Prem,Yes,0,14%,0,1,0,0,1,0,0,0,1
-799,36,175000,60,India,Government,Non-Prem,Yes,0,44%,0,0,1,0,1,0,0,1,0
-800,59,1000000,93,United Kingdom,Own,Non-Prem,Yes,0,16%,1,0,0,0,0,1,0,0,1
-801,58,275000,88,India,Own,Non-Prem,Yes,0,13%,1,0,0,0,1,0,0,0,1
-802,44,275000,93,United Kingdom,Own,Prem,Yes,0,50%,1,0,0,0,0,1,0,1,0
-803,36,750000,57,America,Public,Non-Prem,Yes,0,52%,0,1,0,1,0,0,0,1,0
-804,58,75000,100,United Kingdom,Own,Non-Prem,Yes,0,17%,1,0,0,0,0,1,0,0,1
-805,50,750000,80,United Kingdom,Own,Non-Prem,Yes,0,31%,1,0,0,0,0,1,0,1,0
-806,58,225000,57,United Kingdom,Public,Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1
-807,56,225000,96,India,Own,Non-Prem,Yes,0,26%,1,0,0,0,1,0,0,0,1
-808,50,1000000,57,United Kingdom,Public,Prem,Yes,0,28%,0,1,0,0,0,1,0,1,0
-809,49,500000,57,India,Public,Non-Prem,Yes,0,32%,0,1,0,0,1,0,0,1,0
-810,63,500000,57,United Kingdom,Public,Prem,Yes,0,14%,0,1,0,0,0,1,0,0,1
-811,41,500000,60,India,Government,Non-Prem,Yes,0,57%,0,0,1,0,1,0,0,1,0
-812,48,275000,57,India,Public,Prem,Yes,0,27%,0,1,0,0,1,0,0,1,0
-813,51,500000,60,India,Government,Non-Prem,Yes,0,32%,0,0,1,0,1,0,0,0,1
-814,28,1000000,60,United Kingdom,Government,Prem,Yes,1,94%,0,0,1,0,0,1,1,0,0
-815,51,175000,57,United Kingdom,Public,Prem,Yes,0,27%,0,1,0,0,0,1,0,0,1
-816,54,1000000,60,India,Government,Prem,Yes,0,34%,0,0,1,0,1,0,0,0,1
-817,27,750000,91,India,Own,Non-Prem,Yes,1,86%,1,0,0,0,1,0,1,0,0
-818,30,1000000,87,United Kingdom,Own,Non-Prem,Yes,1,82%,1,0,0,0,0,1,1,0,0
-819,40,225000,60,India,Government,Non-Prem,Yes,0,42%,0,0,1,0,1,0,0,1,0
-820,39,175000,85,America,Own,Non-Prem,Yes,0,53%,1,0,0,1,0,0,0,1,0
-821,60,500000,60,United Kingdom,Government,Non-Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1
-822,64,175000,60,India,Government,Non-Prem,Yes,0,15%,0,0,1,0,1,0,0,0,1
-823,63,225000,57,United Kingdom,Public,Prem,Yes,0,11%,0,1,0,0,0,1,0,0,1
-824,54,175000,60,United Kingdom,Government,Non-Prem,Yes,0,23%,0,0,1,0,0,1,0,0,1
-825,36,750000,88,America,Own,Non-Prem,Yes,0,62%,1,0,0,1,0,0,0,1,0
-826,28,225000,57,America,Public,Non-Prem,Yes,1,85%,0,1,0,1,0,0,1,0,0
-827,38,125000,60,United Kingdom,Government,Non-Prem,Yes,0,53%,0,0,1,0,0,1,0,1,0
-828,49,500000,60,America,Government,Non-Prem,Yes,0,21%,0,0,1,1,0,0,0,1,0
-829,29,75000,60,America,Government,Prem,Yes,1,80%,0,0,1,1,0,0,1,0,0
-830,47,75000,60,India,Government,Non-Prem,Yes,0,24%,0,0,1,0,1,0,0,1,0
-831,54,75000,57,America,Public,Prem,Yes,0,32%,0,1,0,1,0,0,0,0,1
-832,63,175000,60,America,Government,Prem,Yes,0,17%,0,0,1,1,0,0,0,0,1
-833,36,175000,83,America,Own,Prem,Yes,0,51%,1,0,0,1,0,0,0,1,0
-834,39,175000,81,United Kingdom,Own,Prem,Yes,0,68%,1,0,0,0,0,1,0,1,0
-835,43,225000,83,India,Own,Non-Prem,Yes,0,54%,1,0,0,0,1,0,0,1,0
-836,50,275000,57,America,Public,Prem,Yes,0,30%,0,1,0,1,0,0,0,1,0
-837,28,225000,83,India,Own,Non-Prem,Yes,1,87%,1,0,0,0,1,0,1,0,0
-838,62,75000,60,America,Government,Non-Prem,Yes,0,18%,0,0,1,1,0,0,0,0,1
-839,54,750000,80,India,Own,Non-Prem,Yes,0,24%,1,0,0,0,1,0,0,0,1
-840,39,125000,57,United Kingdom,Public,Non-Prem,Yes,0,54%,0,1,0,0,0,1,0,1,0
-841,36,275000,57,America,Public,Non-Prem,Yes,0,50%,0,1,0,1,0,0,0,1,0
-842,36,1000000,60,United Kingdom,Government,Prem,Yes,0,52%,0,0,1,0,0,1,0,1,0
-843,41,175000,87,America,Own,Prem,Yes,0,50%,1,0,0,1,0,0,0,1,0
-844,64,75000,57,India,Public,Prem,Yes,0,16%,0,1,0,0,1,0,0,0,1
-845,26,175000,82,India,Own,Non-Prem,Yes,1,87%,1,0,0,0,1,0,1,0,0
-846,43,225000,60,United Kingdom,Government,Non-Prem,Yes,0,68%,0,0,1,0,0,1,0,1,0
-847,53,500000,60,America,Government,Non-Prem,Yes,0,29%,0,0,1,1,0,0,0,0,1
-848,25,175000,83,India,Own,Non-Prem,Yes,1,92%,1,0,0,0,1,0,1,0,0
-849,46,175000,57,United Kingdom,Public,Non-Prem,Yes,0,32%,0,1,0,0,0,1,0,1,0
-850,49,275000,60,United Kingdom,Government,Non-Prem,Yes,0,34%,0,0,1,0,0,1,0,1,0
-851,43,75000,60,America,Government,Non-Prem,Yes,0,48%,0,0,1,1,0,0,0,1,0
-852,36,175000,57,America,Public,Non-Prem,Yes,0,62%,0,1,0,1,0,0,0,1,0
-853,53,175000,57,United Kingdom,Public,Non-Prem,Yes,0,24%,0,1,0,0,0,1,0,0,1
-854,42,125000,60,India,Government,Non-Prem,Yes,0,41%,0,0,1,0,1,0,0,1,0
-855,40,1000000,96,America,Own,Prem,Yes,0,56%,1,0,0,1,0,0,0,1,0
-856,28,225000,60,India,Government,Non-Prem,Yes,1,97%,0,0,1,0,1,0,1,0,0
-857,49,750000,60,United Kingdom,Government,Prem,Yes,0,22%,0,0,1,0,0,1,0,1,0
-858,46,225000,60,India,Government,Prem,Yes,0,30%,0,0,1,0,1,0,0,1,0
-859,53,275000,60,United Kingdom,Government,Prem,Yes,0,20%,0,0,1,0,0,1,0,0,1
-860,46,125000,94,India,Own,Prem,Yes,0,21%,1,0,0,0,1,0,0,1,0
-861,39,175000,89,America,Own,Non-Prem,Yes,0,47%,1,0,0,1,0,0,0,1,0
-862,26,225000,84,United Kingdom,Own,Prem,Yes,1,95%,1,0,0,0,0,1,1,0,0
-863,37,225000,57,America,Public,Non-Prem,Yes,0,64%,0,1,0,1,0,0,0,1,0
-864,36,75000,98,United Kingdom,Own,Prem,Yes,0,66%,1,0,0,0,0,1,0,1,0
-865,50,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,32%,0,1,0,0,0,1,0,1,0
-866,64,75000,60,India,Government,Prem,Yes,0,10%,0,0,1,0,1,0,0,0,1
-867,36,500000,84,India,Own,Prem,Yes,0,61%,1,0,0,0,1,0,0,1,0
-868,51,750000,87,America,Own,Non-Prem,Yes,0,32%,1,0,0,1,0,0,0,0,1
-869,59,275000,97,United Kingdom,Own,Non-Prem,Yes,0,18%,1,0,0,0,0,1,0,0,1
-870,26,225000,91,United Kingdom,Own,Prem,Yes,1,93%,1,0,0,0,0,1,1,0,0
-871,41,225000,89,America,Own,Prem,Yes,0,59%,1,0,0,1,0,0,0,1,0
-872,26,125000,60,India,Government,Non-Prem,Yes,1,90%,0,0,1,0,1,0,1,0,0
-873,41,75000,100,America,Own,Non-Prem,Yes,0,48%,1,0,0,1,0,0,0,1,0
-874,58,750000,57,United Kingdom,Public,Non-Prem,Yes,0,13%,0,1,0,0,0,1,0,0,1
-875,58,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,18%,0,1,0,0,0,1,0,0,1
-876,63,75000,84,United Kingdom,Own,Non-Prem,Yes,0,14%,1,0,0,0,0,1,0,0,1
-877,65,225000,57,America,Public,Non-Prem,Yes,0,11%,0,1,0,1,0,0,0,0,1
-878,38,275000,60,United Kingdom,Government,Non-Prem,Yes,0,69%,0,0,1,0,0,1,0,1,0
-879,44,225000,57,America,Public,Non-Prem,Yes,0,55%,0,1,0,1,0,0,0,1,0
-880,57,175000,91,America,Own,Non-Prem,Yes,0,15%,1,0,0,1,0,0,0,0,1
-881,48,75000,57,United Kingdom,Public,Prem,Yes,0,28%,0,1,0,0,0,1,0,1,0
-882,29,75000,96,India,Own,Non-Prem,Yes,1,95%,1,0,0,0,1,0,1,0,0
-883,56,125000,57,America,Public,Non-Prem,Yes,0,27%,0,1,0,1,0,0,0,0,1
-884,47,750000,60,United Kingdom,Government,Prem,Yes,0,34%,0,0,1,0,0,1,0,1,0
-885,25,275000,57,America,Public,Non-Prem,Yes,1,95%,0,1,0,1,0,0,1,0,0
-886,62,125000,57,United Kingdom,Public,Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1
-887,56,75000,57,India,Public,Prem,Yes,0,21%,0,1,0,0,1,0,0,0,1
-888,40,1000000,57,India,Public,Non-Prem,Yes,0,48%,0,1,0,0,1,0,0,1,0
-889,44,500000,89,America,Own,Prem,Yes,0,59%,1,0,0,1,0,0,0,1,0
-890,40,275000,60,United Kingdom,Government,Prem,Yes,0,48%,0,0,1,0,0,1,0,1,0
-891,37,1000000,60,America,Government,Non-Prem,Yes,0,40%,0,0,1,1,0,0,0,1,0
-892,35,225000,57,America,Public,Prem,Yes,0,61%,0,1,0,1,0,0,1,0,0
-893,41,225000,57,India,Public,Prem,Yes,0,46%,0,1,0,0,1,0,0,1,0
-894,46,1000000,60,India,Government,Prem,Yes,0,27%,0,0,1,0,1,0,0,1,0
-895,55,750000,60,America,Government,Non-Prem,Yes,0,33%,0,0,1,1,0,0,0,0,1
-896,28,275000,60,America,Government,Non-Prem,Yes,1,90%,0,0,1,1,0,0,1,0,0
-897,41,175000,57,United Kingdom,Public,Non-Prem,Yes,0,44%,0,1,0,0,0,1,0,1,0
-898,25,225000,60,United Kingdom,Government,Non-Prem,Yes,1,85%,0,0,1,0,0,1,1,0,0
-899,26,1000000,57,India,Public,Prem,Yes,1,86%,0,1,0,0,1,0,1,0,0
-900,57,750000,57,United Kingdom,Public,Prem,Yes,0,17%,0,1,0,0,0,1,0,0,1
-901,43,125000,60,America,Government,Non-Prem,Yes,0,57%,0,0,1,1,0,0,0,1,0
-902,43,225000,97,United Kingdom,Own,Prem,Yes,0,50%,1,0,0,0,0,1,0,1,0
-903,47,225000,57,India,Public,Prem,Yes,0,32%,0,1,0,0,1,0,0,1,0
+Client ID,Age,Income,Retirement Age,Location,Client Work,Premium Client,Existing User,Risk Tolerance,Risk Tolerance_%,Work Sector_OHE_Own,Work Sector_OHE_Public,Work Sector_OHE_Government,Location_OHE_America,Location_OHE_India,Location_OHE_United Kingdom,Investment Plan_OHE_Aggressive,Investment Plan_OHE_Neutral,Investment Plan_OHE_Passive,free_profit%,Prem_profit%,non-prem to prem_client%
+1,25,1000000,93,India,Own,Prem,No,1,94%,1,0,0,0,1,0,1,0,0,0%,9%,0%
+2,28,1000000,60,United Kingdom,Government,Prem,No,1,87%,0,0,1,0,0,1,1,0,0,0%,10%,0%
+3,28,275000,60,India,Government,Prem,No,1,89%,0,0,1,0,1,0,1,0,0,0%,10%,0%
+4,64,1000000,60,India,Government,Prem,No,0,11%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+5,44,75000,60,America,Government,Non-Prem,Yes,0,52%,0,0,1,1,0,0,0,1,0,6%,0%,47%
+6,46,125000,57,United Kingdom,Public,Prem,No,0,22%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+7,61,175000,57,United Kingdom,Public,Non-Prem,Yes,0,12%,0,1,0,0,0,1,0,0,1,3%,0%,19%
+8,48,75000,96,United Kingdom,Own,Prem,No,0,21%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+9,49,500000,60,India,Government,Non-Prem,No,0,30%,0,0,1,0,1,0,0,1,0,6%,0%,52%
+10,49,175000,60,United Kingdom,Government,Prem,Yes,0,22%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+11,37,750000,57,America,Public,Prem,No,0,41%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+12,26,750000,98,America,Own,Non-Prem,No,1,97%,1,0,0,1,0,0,1,0,0,9%,0%,0%
+13,63,275000,90,America,Own,Non-Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1,3%,0%,29%
+14,64,1000000,57,India,Public,Prem,No,0,12%,0,1,0,0,1,0,0,0,1,0%,4%,0%
+15,48,1000000,60,United Kingdom,Government,Prem,Yes,0,21%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+16,49,275000,60,India,Government,Non-Prem,Yes,0,22%,0,0,1,0,1,0,0,1,0,6%,0%,49%
+17,42,225000,95,India,Own,Non-Prem,Yes,0,46%,1,0,0,0,1,0,0,1,0,6%,0%,51%
+18,62,500000,57,United Kingdom,Public,Non-Prem,Yes,0,14%,0,1,0,0,0,1,0,0,1,3%,0%,27%
+19,50,225000,60,India,Government,Non-Prem,Yes,0,24%,0,0,1,0,1,0,0,1,0,6%,0%,55%
+20,38,275000,100,United Kingdom,Own,Non-Prem,No,0,65%,1,0,0,0,0,1,0,1,0,5%,0%,74%
+21,45,1000000,81,America,Own,Non-Prem,No,0,69%,1,0,0,1,0,0,0,1,0,6%,0%,49%
+22,41,225000,60,America,Government,Non-Prem,Yes,0,70%,0,0,1,1,0,0,0,1,0,5%,0%,59%
+23,30,500000,88,India,Own,Non-Prem,No,1,80%,1,0,0,0,1,0,1,0,0,9%,0%,96%
+24,40,750000,89,America,Own,Non-Prem,Yes,0,54%,1,0,0,1,0,0,0,1,0,7%,0%,51%
+25,25,500000,88,United Kingdom,Own,Prem,Yes,1,86%,1,0,0,0,0,1,1,0,0,0%,8%,0%
+26,43,1000000,57,America,Public,Non-Prem,Yes,0,61%,0,1,0,1,0,0,0,1,0,5%,0%,54%
+27,60,750000,60,United Kingdom,Government,Non-Prem,No,0,14%,0,0,1,0,0,1,0,0,1,2%,0%,35%
+28,49,175000,89,America,Own,Prem,No,0,21%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+29,54,275000,57,America,Public,Non-Prem,No,0,30%,0,1,0,1,0,0,0,0,1,2%,0%,17%
+30,44,275000,83,America,Own,Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+31,44,125000,60,United Kingdom,Government,Prem,Yes,0,50%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+32,39,125000,82,America,Own,Non-Prem,Yes,0,64%,1,0,0,1,0,0,0,1,0,5%,0%,75%
+33,64,125000,57,India,Public,Prem,No,0,10%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+34,57,1000000,100,America,Own,Prem,No,0,16%,1,0,0,1,0,0,0,0,1,0%,2%,0%
+35,26,125000,83,India,Own,Non-Prem,Yes,1,82%,1,0,0,0,1,0,1,0,0,9%,0%,97%
+36,57,125000,57,India,Public,Prem,No,0,19%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+37,56,175000,82,India,Own,Prem,Yes,0,22%,1,0,0,0,1,0,0,0,1,0%,4%,0%
+38,35,75000,90,America,Own,Prem,Yes,0,56%,1,0,0,1,0,0,1,0,0,0%,9%,0%
+39,48,175000,57,America,Public,Non-Prem,No,0,29%,0,1,0,1,0,0,0,1,0,6%,0%,54%
+40,60,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,13%,0,1,0,0,0,1,0,0,1,3%,0%,19%
+41,36,125000,60,United Kingdom,Government,Non-Prem,No,0,54%,0,0,1,0,0,1,0,1,0,6%,0%,61%
+42,53,275000,57,India,Public,Non-Prem,No,0,31%,0,1,0,0,1,0,0,0,1,3%,0%,13%
+43,59,750000,83,India,Own,Prem,No,0,14%,1,0,0,0,1,0,0,0,1,0%,2%,0%
+44,25,75000,87,America,Own,Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0,0%,9%,0%
+45,25,750000,57,India,Public,Non-Prem,No,1,91%,0,1,0,0,1,0,1,0,0,9%,0%,0%
+46,61,275000,60,United Kingdom,Government,Prem,Yes,0,12%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+47,30,750000,57,India,Public,Prem,Yes,1,89%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+48,63,1000000,60,India,Government,Prem,No,0,13%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+49,65,175000,57,America,Public,Non-Prem,Yes,0,18%,0,1,0,1,0,0,0,0,1,3%,0%,12%
+50,42,175000,60,India,Government,Prem,No,0,47%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+51,40,75000,60,America,Government,Prem,Yes,0,47%,0,0,1,1,0,0,0,1,0,0%,5%,0%
+52,29,750000,97,United Kingdom,Own,Prem,Yes,1,94%,1,0,0,0,0,1,1,0,0,0%,9%,0%
+53,56,750000,60,India,Government,Prem,Yes,0,22%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+54,26,500000,90,United Kingdom,Own,Non-Prem,Yes,1,90%,1,0,0,0,0,1,1,0,0,10%,0%,97%
+55,26,175000,57,America,Public,Prem,Yes,1,95%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+56,64,500000,57,United Kingdom,Public,Prem,Yes,0,11%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+57,60,75000,57,India,Public,Prem,No,0,12%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+58,63,175000,57,America,Public,Prem,No,0,18%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+59,36,1000000,57,India,Public,Non-Prem,No,0,42%,0,1,0,0,1,0,0,1,0,7%,0%,67%
+60,43,275000,89,United Kingdom,Own,Prem,No,0,45%,1,0,0,0,0,1,0,1,0,0%,7%,0%
+61,52,225000,57,America,Public,Prem,No,0,27%,0,1,0,1,0,0,0,0,1,0%,2%,0%
+62,25,125000,60,India,Government,Non-Prem,Yes,1,97%,0,0,1,0,1,0,1,0,0,9%,0%,0%
+63,39,125000,92,United Kingdom,Own,Prem,No,0,59%,1,0,0,0,0,1,0,1,0,0%,7%,0%
+64,60,1000000,60,United Kingdom,Government,Prem,No,0,16%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+65,37,225000,93,America,Own,Prem,No,0,64%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+66,45,225000,60,America,Government,Prem,No,0,50%,0,0,1,1,0,0,0,1,0,0%,7%,0%
+67,36,75000,80,India,Own,Prem,Yes,0,60%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+68,29,1000000,57,India,Public,Prem,Yes,1,82%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+69,29,275000,80,America,Own,Non-Prem,No,1,95%,1,0,0,1,0,0,1,0,0,9%,0%,0%
+70,28,125000,60,America,Government,Prem,Yes,1,92%,0,0,1,1,0,0,1,0,0,0%,10%,0%
+71,37,225000,80,America,Own,Prem,No,0,46%,1,0,0,1,0,0,0,1,0,0%,7%,0%
+72,61,500000,100,India,Own,Non-Prem,Yes,0,18%,1,0,0,0,1,0,0,0,1,3%,0%,28%
+73,65,750000,57,United Kingdom,Public,Prem,No,0,18%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+74,39,1000000,60,America,Government,Non-Prem,Yes,0,44%,0,0,1,1,0,0,0,1,0,5%,0%,78%
+75,40,500000,85,America,Own,Prem,No,0,68%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+76,45,750000,60,America,Government,Non-Prem,Yes,0,58%,0,0,1,1,0,0,0,1,0,7%,0%,72%
+77,60,225000,90,United Kingdom,Own,Non-Prem,No,0,19%,1,0,0,0,0,1,0,0,1,2%,0%,36%
+78,48,750000,96,United Kingdom,Own,Prem,No,0,30%,1,0,0,0,0,1,0,1,0,0%,5%,0%
+79,40,225000,60,United Kingdom,Government,Prem,Yes,0,65%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+80,38,175000,57,India,Public,Non-Prem,No,0,68%,0,1,0,0,1,0,0,1,0,7%,0%,46%
+81,46,500000,89,India,Own,Prem,No,0,28%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+82,30,275000,89,United Kingdom,Own,Non-Prem,Yes,1,82%,1,0,0,0,0,1,1,0,0,8%,0%,92%
+83,60,1000000,92,United Kingdom,Own,Prem,No,0,20%,1,0,0,0,0,1,0,0,1,0%,4%,0%
+84,25,225000,60,America,Government,Non-Prem,No,1,82%,0,0,1,1,0,0,1,0,0,8%,0%,95%
+85,56,275000,57,India,Public,Non-Prem,No,0,22%,0,1,0,0,1,0,0,0,1,3%,0%,22%
+86,30,125000,93,America,Own,Non-Prem,No,1,88%,1,0,0,1,0,0,1,0,0,8%,0%,93%
+87,55,1000000,96,America,Own,Non-Prem,Yes,0,21%,1,0,0,1,0,0,0,0,1,4%,0%,14%
+88,25,75000,91,America,Own,Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0,0%,8%,0%
+89,61,75000,60,India,Government,Non-Prem,No,0,14%,0,0,1,0,1,0,0,0,1,3%,0%,12%
+90,59,125000,60,United Kingdom,Government,Prem,Yes,0,18%,0,0,1,0,0,1,0,0,1,0%,2%,0%
+91,54,75000,60,India,Government,Non-Prem,Yes,0,30%,0,0,1,0,1,0,0,0,1,4%,0%,23%
+92,28,225000,60,United Kingdom,Government,Prem,No,1,86%,0,0,1,0,0,1,1,0,0,0%,8%,0%
+93,59,500000,57,America,Public,Prem,Yes,0,11%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+94,38,750000,60,India,Government,Non-Prem,Yes,0,49%,0,0,1,0,1,0,0,1,0,6%,0%,43%
+95,64,175000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+96,46,1000000,95,United Kingdom,Own,Non-Prem,Yes,0,24%,1,0,0,0,0,1,0,1,0,7%,0%,45%
+97,25,125000,57,United Kingdom,Public,Non-Prem,Yes,1,83%,0,1,0,0,0,1,1,0,0,8%,0%,97%
+98,35,175000,57,America,Public,Non-Prem,No,0,45%,0,1,0,1,0,0,1,0,0,9%,0%,81%
+99,48,125000,92,America,Own,Non-Prem,Yes,0,32%,1,0,0,1,0,0,0,1,0,6%,0%,53%
+100,27,225000,57,America,Public,Prem,No,1,85%,0,1,0,1,0,0,1,0,0,0%,10%,0%
+101,59,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,10%,0,0,1,0,0,1,0,0,1,2%,0%,25%
+102,60,125000,60,United Kingdom,Government,Prem,No,0,16%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+103,55,500000,57,United Kingdom,Public,Prem,Yes,0,24%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+104,28,225000,57,America,Public,Prem,Yes,1,82%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+105,43,1000000,60,United Kingdom,Government,Prem,Yes,0,46%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+106,60,75000,95,India,Own,Prem,No,0,14%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+107,45,175000,60,India,Government,Prem,Yes,0,50%,0,0,1,0,1,0,0,1,0,0%,7%,0%
+108,42,275000,84,America,Own,Prem,Yes,0,58%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+109,52,500000,89,India,Own,Prem,Yes,0,20%,1,0,0,0,1,0,0,0,1,0%,2%,0%
+110,39,175000,57,United Kingdom,Public,Prem,No,0,59%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+111,26,275000,80,India,Own,Prem,Yes,1,89%,1,0,0,0,1,0,1,0,0,0%,9%,0%
+112,61,750000,60,United Kingdom,Government,Prem,No,0,19%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+113,35,75000,60,America,Government,Non-Prem,No,0,52%,0,0,1,1,0,0,1,0,0,10%,0%,96%
+114,47,125000,57,America,Public,Prem,Yes,0,30%,0,1,0,1,0,0,0,1,0,0%,7%,0%
+115,65,1000000,97,India,Own,Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+116,36,750000,60,America,Government,Prem,No,0,66%,0,0,1,1,0,0,0,1,0,0%,7%,0%
+117,27,500000,85,America,Own,Prem,No,1,92%,1,0,0,1,0,0,1,0,0,0%,10%,0%
+118,41,500000,60,India,Government,Prem,No,0,47%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+119,57,1000000,60,India,Government,Non-Prem,Yes,0,20%,0,0,1,0,1,0,0,0,1,2%,0%,23%
+120,25,225000,60,India,Government,Non-Prem,No,1,86%,0,0,1,0,1,0,1,0,0,9%,0%,94%
+121,63,225000,60,America,Government,Prem,No,0,13%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+122,44,750000,57,United Kingdom,Public,Non-Prem,Yes,0,54%,0,1,0,0,0,1,0,1,0,6%,0%,67%
+123,65,225000,57,United Kingdom,Public,Non-Prem,No,0,14%,0,1,0,0,0,1,0,0,1,4%,0%,21%
+124,38,750000,83,United Kingdom,Own,Non-Prem,No,0,54%,1,0,0,0,0,1,0,1,0,6%,0%,67%
+125,55,1000000,85,America,Own,Non-Prem,Yes,0,28%,1,0,0,1,0,0,0,0,1,3%,0%,21%
+126,49,75000,57,India,Public,Prem,No,0,26%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+127,27,75000,60,India,Government,Prem,Yes,1,85%,0,0,1,0,1,0,1,0,0,0%,10%,0%
+128,28,500000,87,United Kingdom,Own,Non-Prem,No,1,80%,1,0,0,0,0,1,1,0,0,9%,0%,94%
+129,55,275000,87,America,Own,Prem,No,0,26%,1,0,0,1,0,0,0,0,1,0%,4%,0%
+130,59,1000000,57,India,Public,Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+131,38,175000,89,America,Own,Non-Prem,Yes,0,41%,1,0,0,1,0,0,0,1,0,6%,0%,75%
+132,65,175000,57,India,Public,Prem,No,0,19%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+133,44,750000,80,United Kingdom,Own,Prem,Yes,0,41%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+134,56,125000,60,America,Government,Prem,No,0,31%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+135,51,1000000,57,United Kingdom,Public,Prem,No,0,33%,0,1,0,0,0,1,0,0,1,0%,4%,0%
+136,27,75000,60,United Kingdom,Government,Non-Prem,Yes,1,98%,0,0,1,0,0,1,1,0,0,9%,0%,0%
+137,28,75000,57,India,Public,Non-Prem,No,1,86%,0,1,0,0,1,0,1,0,0,8%,0%,96%
+138,39,225000,57,India,Public,Non-Prem,Yes,0,45%,0,1,0,0,1,0,0,1,0,5%,0%,73%
+139,57,1000000,95,America,Own,Non-Prem,Yes,0,17%,1,0,0,1,0,0,0,0,1,2%,0%,29%
+140,29,275000,60,United Kingdom,Government,Prem,Yes,1,82%,0,0,1,0,0,1,1,0,0,0%,9%,0%
+141,28,1000000,57,India,Public,Non-Prem,No,1,87%,0,1,0,0,1,0,1,0,0,10%,0%,98%
+142,36,275000,96,India,Own,Prem,No,0,53%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+143,47,75000,57,India,Public,Non-Prem,No,0,25%,0,1,0,0,1,0,0,1,0,7%,0%,70%
+144,38,275000,60,United Kingdom,Government,Non-Prem,No,0,42%,0,0,1,0,0,1,0,1,0,6%,0%,56%
+145,36,225000,60,America,Government,Non-Prem,No,0,61%,0,0,1,1,0,0,0,1,0,7%,0%,42%
+146,41,225000,97,India,Own,Non-Prem,No,0,56%,1,0,0,0,1,0,0,1,0,7%,0%,77%
+147,49,500000,98,India,Own,Non-Prem,No,0,33%,1,0,0,0,1,0,0,1,0,6%,0%,43%
+148,54,75000,81,United Kingdom,Own,Prem,No,0,21%,1,0,0,0,0,1,0,0,1,0%,2%,0%
+149,46,75000,80,India,Own,Non-Prem,No,0,24%,1,0,0,0,1,0,0,1,0,6%,0%,49%
+150,50,275000,81,United Kingdom,Own,Non-Prem,Yes,0,30%,1,0,0,0,0,1,0,1,0,7%,0%,49%
+151,41,500000,60,America,Government,Non-Prem,Yes,0,53%,0,0,1,1,0,0,0,1,0,7%,0%,45%
+152,44,275000,84,United Kingdom,Own,Non-Prem,No,0,60%,1,0,0,0,0,1,0,1,0,7%,0%,73%
+153,58,500000,84,United Kingdom,Own,Prem,No,0,15%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+154,65,500000,95,United Kingdom,Own,Non-Prem,No,0,16%,1,0,0,0,0,1,0,0,1,3%,0%,20%
+155,57,1000000,99,India,Own,Non-Prem,Yes,0,12%,1,0,0,0,1,0,0,0,1,3%,0%,32%
+156,61,500000,60,United Kingdom,Government,Non-Prem,No,0,15%,0,0,1,0,0,1,0,0,1,4%,0%,12%
+157,46,175000,57,India,Public,Non-Prem,Yes,0,34%,0,1,0,0,1,0,0,1,0,6%,0%,43%
+158,56,275000,82,United Kingdom,Own,Prem,No,0,31%,1,0,0,0,0,1,0,0,1,0%,4%,0%
+159,38,750000,94,India,Own,Prem,Yes,0,57%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+160,49,125000,60,India,Government,Non-Prem,Yes,0,26%,0,0,1,0,1,0,0,1,0,6%,0%,73%
+161,40,1000000,60,India,Government,Prem,No,0,49%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+162,43,500000,87,United Kingdom,Own,Prem,No,0,52%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+163,65,75000,57,United Kingdom,Public,Prem,No,0,13%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+164,40,275000,57,India,Public,Non-Prem,Yes,0,66%,0,1,0,0,1,0,0,1,0,6%,0%,61%
+165,36,125000,60,India,Government,Non-Prem,Yes,0,65%,0,0,1,0,1,0,0,1,0,7%,0%,46%
+166,63,275000,60,United Kingdom,Government,Non-Prem,No,0,18%,0,0,1,0,0,1,0,0,1,2%,0%,22%
+167,54,75000,60,India,Government,Non-Prem,Yes,0,28%,0,0,1,0,1,0,0,0,1,3%,0%,19%
+168,26,175000,60,America,Government,Prem,Yes,1,97%,0,0,1,1,0,0,1,0,0,0%,9%,0%
+169,56,500000,57,United Kingdom,Public,Prem,No,0,29%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+170,49,750000,57,India,Public,Non-Prem,No,0,30%,0,1,0,0,1,0,0,1,0,6%,0%,73%
+171,49,500000,60,United Kingdom,Government,Prem,No,0,33%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+172,28,750000,57,United Kingdom,Public,Prem,No,1,85%,0,1,0,0,0,1,1,0,0,0%,9%,0%
+173,43,225000,60,America,Government,Prem,Yes,0,55%,0,0,1,1,0,0,0,1,0,0%,5%,0%
+174,28,75000,57,America,Public,Non-Prem,Yes,1,86%,0,1,0,1,0,0,1,0,0,10%,0%,91%
+175,37,75000,82,United Kingdom,Own,Prem,No,0,46%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+176,63,125000,100,America,Own,Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1,0%,2%,0%
+177,60,125000,57,America,Public,Prem,No,0,12%,0,1,0,1,0,0,0,0,1,0%,2%,0%
+178,47,125000,60,India,Government,Prem,No,0,35%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+179,30,175000,57,America,Public,Non-Prem,No,1,97%,0,1,0,1,0,0,1,0,0,10%,0%,0%
+180,48,125000,60,America,Government,Non-Prem,Yes,0,23%,0,0,1,1,0,0,0,1,0,6%,0%,62%
+181,57,75000,60,America,Government,Prem,Yes,0,13%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+182,36,125000,60,United Kingdom,Government,Prem,No,0,55%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+183,65,275000,60,India,Government,Prem,Yes,0,15%,0,0,1,0,1,0,0,0,1,0%,2%,0%
+184,45,750000,57,America,Public,Prem,No,0,49%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+185,35,275000,57,India,Public,Prem,Yes,0,42%,0,1,0,0,1,0,1,0,0,0%,10%,0%
+186,62,225000,99,America,Own,Prem,No,0,10%,1,0,0,1,0,0,0,0,1,0%,4%,0%
+187,53,275000,60,India,Government,Prem,No,0,24%,0,0,1,0,1,0,0,0,1,0%,2%,0%
+188,65,225000,87,United Kingdom,Own,Non-Prem,Yes,0,18%,1,0,0,0,0,1,0,0,1,2%,0%,23%
+189,27,750000,57,America,Public,Non-Prem,No,1,96%,0,1,0,1,0,0,1,0,0,9%,0%,0%
+190,52,275000,57,United Kingdom,Public,Prem,Yes,0,30%,0,1,0,0,0,1,0,0,1,0%,2%,0%
+191,44,750000,60,America,Government,Prem,Yes,0,45%,0,0,1,1,0,0,0,1,0,0%,7%,0%
+192,50,175000,57,India,Public,Prem,No,0,28%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+193,48,225000,60,India,Government,Non-Prem,Yes,0,27%,0,0,1,0,1,0,0,1,0,6%,0%,60%
+194,45,750000,95,United Kingdom,Own,Prem,Yes,0,47%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+195,54,275000,60,America,Government,Prem,No,0,28%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+196,28,225000,57,India,Public,Non-Prem,No,1,86%,0,1,0,0,1,0,1,0,0,10%,0%,91%
+197,60,750000,57,United Kingdom,Public,Non-Prem,No,0,16%,0,1,0,0,0,1,0,0,1,2%,0%,35%
+198,64,500000,57,United Kingdom,Public,Prem,Yes,0,14%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+199,48,75000,86,America,Own,Non-Prem,No,0,32%,1,0,0,1,0,0,0,1,0,7%,0%,40%
+200,28,125000,57,America,Public,Prem,No,1,91%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+201,51,225000,60,United Kingdom,Government,Non-Prem,Yes,0,35%,0,0,1,0,0,1,0,0,1,3%,0%,21%
+202,28,500000,99,India,Own,Prem,Yes,1,96%,1,0,0,0,1,0,1,0,0,0%,8%,0%
+203,56,225000,60,America,Government,Prem,No,0,26%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+204,35,125000,80,India,Own,Prem,Yes,0,58%,1,0,0,0,1,0,1,0,0,0%,10%,0%
+205,52,500000,60,United Kingdom,Government,Non-Prem,No,0,35%,0,0,1,0,0,1,0,0,1,4%,0%,29%
+206,64,750000,57,India,Public,Prem,No,0,13%,0,1,0,0,1,0,0,0,1,0%,4%,0%
+207,46,225000,57,United Kingdom,Public,Non-Prem,No,0,31%,0,1,0,0,0,1,0,1,0,6%,0%,50%
+208,58,275000,57,India,Public,Prem,Yes,0,17%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+209,59,75000,92,America,Own,Prem,Yes,0,14%,1,0,0,1,0,0,0,0,1,0%,2%,0%
+210,59,500000,80,United Kingdom,Own,Prem,No,0,17%,1,0,0,0,0,1,0,0,1,0%,4%,0%
+211,49,1000000,60,America,Government,Non-Prem,No,0,22%,0,0,1,1,0,0,0,1,0,7%,0%,75%
+212,58,175000,60,United Kingdom,Government,Prem,No,0,15%,0,0,1,0,0,1,0,0,1,0%,2%,0%
+213,30,175000,93,United Kingdom,Own,Prem,No,1,93%,1,0,0,0,0,1,1,0,0,0%,9%,0%
+214,65,500000,60,India,Government,Prem,No,0,11%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+215,61,125000,86,India,Own,Prem,Yes,0,18%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+216,25,500000,60,America,Government,Prem,No,1,97%,0,0,1,1,0,0,1,0,0,0%,8%,0%
+217,36,500000,86,United Kingdom,Own,Prem,No,0,48%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+218,59,175000,60,United Kingdom,Government,Prem,Yes,0,11%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+219,30,75000,60,America,Government,Non-Prem,Yes,1,87%,0,0,1,1,0,0,1,0,0,10%,0%,99%
+220,41,175000,95,India,Own,Prem,Yes,0,44%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+221,26,75000,94,America,Own,Prem,Yes,1,97%,1,0,0,1,0,0,1,0,0,0%,8%,0%
+222,42,275000,98,United Kingdom,Own,Non-Prem,Yes,0,50%,1,0,0,0,0,1,0,1,0,7%,0%,70%
+223,60,175000,57,United Kingdom,Public,Non-Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1,4%,0%,16%
+224,52,225000,60,United Kingdom,Government,Prem,No,0,23%,0,0,1,0,0,1,0,0,1,0%,2%,0%
+225,65,500000,57,America,Public,Prem,Yes,0,15%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+226,61,125000,57,United Kingdom,Public,Non-Prem,Yes,0,19%,0,1,0,0,0,1,0,0,1,4%,0%,27%
+227,50,225000,57,America,Public,Non-Prem,Yes,0,33%,0,1,0,1,0,0,0,1,0,6%,0%,66%
+228,28,175000,60,America,Government,Non-Prem,No,1,84%,0,0,1,1,0,0,1,0,0,8%,0%,94%
+229,64,175000,93,United Kingdom,Own,Non-Prem,No,0,11%,1,0,0,0,0,1,0,0,1,2%,0%,24%
+230,60,225000,57,India,Public,Prem,No,0,18%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+231,55,275000,60,America,Government,Prem,No,0,26%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+232,54,175000,60,United Kingdom,Government,Non-Prem,Yes,0,23%,0,0,1,0,0,1,0,0,1,2%,0%,13%
+233,58,275000,92,America,Own,Non-Prem,Yes,0,16%,1,0,0,1,0,0,0,0,1,3%,0%,25%
+234,43,750000,86,United Kingdom,Own,Prem,No,0,44%,1,0,0,0,0,1,0,1,0,0%,7%,0%
+235,42,1000000,57,India,Public,Prem,No,0,60%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+236,54,500000,60,India,Government,Prem,Yes,0,28%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+237,45,500000,83,America,Own,Non-Prem,No,0,48%,1,0,0,1,0,0,0,1,0,5%,0%,66%
+238,27,125000,57,United Kingdom,Public,Prem,Yes,1,97%,0,1,0,0,0,1,1,0,0,0%,9%,0%
+239,30,175000,60,America,Government,Non-Prem,Yes,1,97%,0,0,1,1,0,0,1,0,0,9%,0%,0%
+240,62,225000,60,America,Government,Prem,Yes,0,20%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+241,37,275000,83,India,Own,Non-Prem,Yes,0,40%,1,0,0,0,1,0,0,1,0,7%,0%,75%
+242,27,125000,60,India,Government,Prem,No,1,85%,0,0,1,0,1,0,1,0,0,0%,8%,0%
+243,52,75000,60,America,Government,Prem,Yes,0,30%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+244,46,125000,97,America,Own,Prem,Yes,0,26%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+245,64,275000,60,United Kingdom,Government,Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+246,64,175000,60,United Kingdom,Government,Non-Prem,No,0,16%,0,0,1,0,0,1,0,0,1,3%,0%,17%
+247,36,175000,57,India,Public,Prem,No,0,50%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+248,47,75000,60,United Kingdom,Government,Non-Prem,Yes,0,22%,0,0,1,0,0,1,0,1,0,6%,0%,53%
+249,55,750000,100,America,Own,Non-Prem,Yes,0,31%,1,0,0,1,0,0,0,0,1,2%,0%,27%
+250,42,275000,60,United Kingdom,Government,Prem,Yes,0,55%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+251,43,275000,60,India,Government,Prem,No,0,41%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+252,53,125000,87,United Kingdom,Own,Prem,No,0,27%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+253,44,500000,57,United Kingdom,Public,Prem,No,0,43%,0,1,0,0,0,1,0,1,0,0%,5%,0%
+254,54,225000,80,America,Own,Non-Prem,No,0,24%,1,0,0,1,0,0,0,0,1,2%,0%,14%
+255,46,1000000,57,United Kingdom,Public,Prem,No,0,31%,0,1,0,0,0,1,0,1,0,0%,5%,0%
+256,50,275000,60,United Kingdom,Government,Prem,Yes,0,32%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+257,57,1000000,85,America,Own,Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1,0%,2%,0%
+258,52,500000,87,United Kingdom,Own,Prem,Yes,0,20%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+259,53,125000,57,India,Public,Prem,No,0,27%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+260,42,1000000,57,United Kingdom,Public,Prem,No,0,41%,0,1,0,0,0,1,0,1,0,0%,5%,0%
+261,25,175000,57,India,Public,Non-Prem,Yes,1,81%,0,1,0,0,1,0,1,0,0,9%,0%,94%
+262,47,500000,57,America,Public,Prem,Yes,0,30%,0,1,0,1,0,0,0,1,0,0%,7%,0%
+263,41,500000,57,India,Public,Prem,No,0,52%,0,1,0,0,1,0,0,1,0,0%,7%,0%
+264,61,275000,60,India,Government,Non-Prem,Yes,0,18%,0,0,1,0,1,0,0,0,1,2%,0%,25%
+265,55,175000,91,India,Own,Non-Prem,No,0,21%,1,0,0,0,1,0,0,0,1,4%,0%,20%
+266,49,175000,83,United Kingdom,Own,Non-Prem,No,0,31%,1,0,0,0,0,1,0,1,0,7%,0%,43%
+267,28,175000,60,America,Government,Prem,Yes,1,81%,0,0,1,1,0,0,1,0,0,0%,10%,0%
+268,52,125000,60,United Kingdom,Government,Prem,No,0,22%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+269,54,225000,60,United Kingdom,Government,Prem,Yes,0,20%,0,0,1,0,0,1,0,0,1,0%,2%,0%
+270,48,75000,57,United Kingdom,Public,Non-Prem,No,0,32%,0,1,0,0,0,1,0,1,0,7%,0%,77%
+271,57,225000,91,India,Own,Prem,Yes,0,16%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+272,44,75000,60,America,Government,Prem,Yes,0,68%,0,0,1,1,0,0,0,1,0,0%,5%,0%
+273,48,225000,60,United Kingdom,Government,Non-Prem,No,0,33%,0,0,1,0,0,1,0,1,0,6%,0%,61%
+274,38,500000,57,America,Public,Prem,No,0,43%,0,1,0,1,0,0,0,1,0,0%,5%,0%
+275,42,75000,57,America,Public,Non-Prem,Yes,0,63%,0,1,0,1,0,0,0,1,0,6%,0%,68%
+276,25,175000,57,India,Public,Non-Prem,Yes,1,81%,0,1,0,0,1,0,1,0,0,9%,0%,98%
+277,36,275000,60,United Kingdom,Government,Non-Prem,Yes,0,44%,0,0,1,0,0,1,0,1,0,5%,0%,79%
+278,53,225000,90,America,Own,Non-Prem,Yes,0,20%,1,0,0,1,0,0,0,0,1,3%,0%,29%
+279,61,125000,60,United Kingdom,Government,Prem,No,0,12%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+280,50,275000,93,United Kingdom,Own,Non-Prem,Yes,0,30%,1,0,0,0,0,1,0,1,0,7%,0%,71%
+281,57,750000,57,United Kingdom,Public,Prem,Yes,0,15%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+282,39,175000,57,America,Public,Non-Prem,Yes,0,55%,0,1,0,1,0,0,0,1,0,6%,0%,60%
+283,47,175000,98,India,Own,Prem,No,0,34%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+284,53,500000,60,America,Government,Non-Prem,Yes,0,24%,0,0,1,1,0,0,0,0,1,3%,0%,26%
+285,45,175000,60,India,Government,Prem,No,0,69%,0,0,1,0,1,0,0,1,0,0%,7%,0%
+286,43,75000,60,India,Government,Prem,Yes,0,62%,0,0,1,0,1,0,0,1,0,0%,5%,0%
+287,29,1000000,57,America,Public,Non-Prem,Yes,1,95%,0,1,0,1,0,0,1,0,0,9%,0%,0%
+288,47,225000,60,America,Government,Prem,Yes,0,26%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+289,60,275000,99,United Kingdom,Own,Prem,Yes,0,15%,1,0,0,0,0,1,0,0,1,0%,2%,0%
+290,44,225000,60,India,Government,Prem,No,0,53%,0,0,1,0,1,0,0,1,0,0%,5%,0%
+291,38,225000,95,America,Own,Non-Prem,No,0,42%,1,0,0,1,0,0,0,1,0,7%,0%,79%
+292,30,750000,57,India,Public,Prem,No,1,84%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+293,25,1000000,57,India,Public,Prem,No,1,93%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+294,40,75000,60,America,Government,Prem,No,0,42%,0,0,1,1,0,0,0,1,0,0%,5%,0%
+295,40,1000000,57,India,Public,Prem,Yes,0,51%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+296,36,1000000,60,America,Government,Prem,Yes,0,42%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+297,29,175000,60,America,Government,Prem,Yes,1,81%,0,0,1,1,0,0,1,0,0,0%,8%,0%
+298,64,225000,81,America,Own,Non-Prem,Yes,0,13%,1,0,0,1,0,0,0,0,1,4%,0%,10%
+299,53,500000,60,United Kingdom,Government,Prem,Yes,0,24%,0,0,1,0,0,1,0,0,1,0%,2%,0%
+300,51,1000000,93,United Kingdom,Own,Prem,No,0,22%,1,0,0,0,0,1,0,0,1,0%,2%,0%
+301,35,75000,57,United Kingdom,Public,Non-Prem,Yes,0,44%,0,1,0,0,0,1,1,0,0,9%,0%,99%
+302,52,500000,60,India,Government,Prem,Yes,0,23%,0,0,1,0,1,0,0,0,1,0%,4%,0%
+303,60,1000000,89,United Kingdom,Own,Non-Prem,No,0,11%,1,0,0,0,0,1,0,0,1,3%,0%,29%
+304,43,175000,87,India,Own,Non-Prem,No,0,65%,1,0,0,0,1,0,0,1,0,5%,0%,48%
+305,59,1000000,83,America,Own,Prem,No,0,15%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+306,55,275000,95,India,Own,Non-Prem,No,0,34%,1,0,0,0,1,0,0,0,1,4%,0%,16%
+307,43,75000,60,America,Government,Non-Prem,No,0,49%,0,0,1,1,0,0,0,1,0,5%,0%,79%
+308,48,75000,57,America,Public,Non-Prem,No,0,24%,0,1,0,1,0,0,0,1,0,5%,0%,77%
+309,26,275000,91,America,Own,Prem,Yes,1,94%,1,0,0,1,0,0,1,0,0,0%,9%,0%
+310,55,275000,98,America,Own,Non-Prem,No,0,23%,1,0,0,1,0,0,0,0,1,3%,0%,20%
+311,41,75000,83,America,Own,Non-Prem,Yes,0,51%,1,0,0,1,0,0,0,1,0,6%,0%,67%
+312,51,750000,94,America,Own,Non-Prem,No,0,22%,1,0,0,1,0,0,0,0,1,3%,0%,14%
+313,60,1000000,57,United Kingdom,Public,Prem,Yes,0,10%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+314,38,275000,57,India,Public,Non-Prem,No,0,70%,0,1,0,0,1,0,0,1,0,5%,0%,71%
+315,63,75000,57,United Kingdom,Public,Non-Prem,No,0,20%,0,1,0,0,0,1,0,0,1,4%,0%,28%
+316,64,275000,60,United Kingdom,Government,Non-Prem,No,0,19%,0,0,1,0,0,1,0,0,1,2%,0%,21%
+317,38,75000,57,India,Public,Prem,Yes,0,58%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+318,41,750000,91,United Kingdom,Own,Non-Prem,No,0,46%,1,0,0,0,0,1,0,1,0,6%,0%,57%
+319,47,75000,60,United Kingdom,Government,Non-Prem,Yes,0,26%,0,0,1,0,0,1,0,1,0,5%,0%,60%
+320,40,750000,94,America,Own,Prem,Yes,0,66%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+321,50,275000,94,America,Own,Prem,No,0,33%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+322,60,1000000,57,United Kingdom,Public,Prem,No,0,15%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+323,42,225000,57,India,Public,Prem,No,0,60%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+324,45,1000000,60,America,Government,Non-Prem,Yes,0,48%,0,0,1,1,0,0,0,1,0,6%,0%,42%
+325,50,175000,99,United Kingdom,Own,Prem,No,0,22%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+326,27,225000,57,United Kingdom,Public,Prem,No,1,82%,0,1,0,0,0,1,1,0,0,0%,9%,0%
+327,41,500000,60,United Kingdom,Government,Prem,No,0,49%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+328,48,175000,60,America,Government,Non-Prem,Yes,0,31%,0,0,1,1,0,0,0,1,0,6%,0%,78%
+329,49,125000,60,United Kingdom,Government,Non-Prem,No,0,30%,0,0,1,0,0,1,0,1,0,6%,0%,74%
+330,29,1000000,57,United Kingdom,Public,Prem,Yes,1,92%,0,1,0,0,0,1,1,0,0,0%,8%,0%
+331,61,225000,88,United Kingdom,Own,Non-Prem,Yes,0,15%,1,0,0,0,0,1,0,0,1,2%,0%,38%
+332,48,500000,97,India,Own,Prem,No,0,29%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+333,55,75000,60,America,Government,Non-Prem,Yes,0,27%,0,0,1,1,0,0,0,0,1,3%,0%,31%
+334,50,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,23%,0,1,0,0,0,1,0,1,0,6%,0%,66%
+335,45,750000,80,India,Own,Non-Prem,No,0,55%,1,0,0,0,1,0,0,1,0,6%,0%,51%
+336,58,500000,60,United Kingdom,Government,Non-Prem,No,0,19%,0,0,1,0,0,1,0,0,1,2%,0%,27%
+337,62,125000,85,United Kingdom,Own,Non-Prem,Yes,0,18%,1,0,0,0,0,1,0,0,1,3%,0%,21%
+338,48,1000000,93,India,Own,Prem,Yes,0,28%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+339,52,125000,57,United Kingdom,Public,Prem,No,0,21%,0,1,0,0,0,1,0,0,1,0%,2%,0%
+340,54,125000,60,United Kingdom,Government,Prem,No,0,28%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+341,58,175000,83,India,Own,Non-Prem,No,0,15%,1,0,0,0,1,0,0,0,1,2%,0%,29%
+342,47,275000,88,United Kingdom,Own,Non-Prem,No,0,22%,1,0,0,0,0,1,0,1,0,6%,0%,48%
+343,25,275000,91,America,Own,Prem,Yes,1,89%,1,0,0,1,0,0,1,0,0,0%,9%,0%
+344,44,500000,57,India,Public,Prem,No,0,69%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+345,61,75000,57,United Kingdom,Public,Prem,Yes,0,11%,0,1,0,0,0,1,0,0,1,0%,4%,0%
+346,42,275000,60,America,Government,Non-Prem,No,0,48%,0,0,1,1,0,0,0,1,0,6%,0%,46%
+347,45,175000,60,United Kingdom,Government,Prem,Yes,0,66%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+348,28,125000,90,India,Own,Non-Prem,No,1,87%,1,0,0,0,1,0,1,0,0,8%,0%,99%
+349,26,750000,90,United Kingdom,Own,Non-Prem,No,1,93%,1,0,0,0,0,1,1,0,0,9%,0%,0%
+350,45,225000,84,America,Own,Prem,No,0,61%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+351,61,75000,57,United Kingdom,Public,Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+352,29,225000,60,United Kingdom,Government,Prem,Yes,1,87%,0,0,1,0,0,1,1,0,0,0%,9%,0%
+353,41,125000,85,United Kingdom,Own,Non-Prem,No,0,65%,1,0,0,0,0,1,0,1,0,6%,0%,63%
+354,35,500000,60,America,Government,Non-Prem,Yes,0,43%,0,0,1,1,0,0,1,0,0,8%,0%,82%
+355,65,125000,57,America,Public,Non-Prem,No,0,10%,0,1,0,1,0,0,0,0,1,2%,0%,35%
+356,55,225000,60,United Kingdom,Government,Prem,Yes,0,29%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+357,52,1000000,57,United Kingdom,Public,Prem,Yes,0,29%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+358,56,125000,89,India,Own,Non-Prem,No,0,25%,1,0,0,0,1,0,0,0,1,3%,0%,36%
+359,45,125000,57,India,Public,Prem,No,0,60%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+360,52,275000,57,America,Public,Non-Prem,No,0,28%,0,1,0,1,0,0,0,0,1,3%,0%,15%
+361,60,500000,86,India,Own,Prem,Yes,0,20%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+362,44,275000,60,United Kingdom,Government,Prem,Yes,0,67%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+363,37,175000,81,India,Own,Prem,Yes,0,64%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+364,43,225000,95,America,Own,Prem,No,0,68%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+365,35,75000,57,America,Public,Prem,Yes,0,65%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+366,59,225000,87,United Kingdom,Own,Non-Prem,No,0,15%,1,0,0,0,0,1,0,0,1,3%,0%,14%
+367,58,225000,57,America,Public,Non-Prem,No,0,19%,0,1,0,1,0,0,0,0,1,3%,0%,22%
+368,28,175000,60,India,Government,Prem,No,1,85%,0,0,1,0,1,0,1,0,0,0%,8%,0%
+369,37,500000,57,America,Public,Non-Prem,Yes,0,60%,0,1,0,1,0,0,0,1,0,5%,0%,45%
+370,61,275000,60,United Kingdom,Government,Non-Prem,No,0,14%,0,0,1,0,0,1,0,0,1,3%,0%,34%
+371,26,75000,89,India,Own,Prem,Yes,1,81%,1,0,0,0,1,0,1,0,0,0%,9%,0%
+372,25,75000,57,America,Public,Prem,Yes,1,87%,0,1,0,1,0,0,1,0,0,0%,10%,0%
+373,64,175000,60,India,Government,Non-Prem,Yes,0,14%,0,0,1,0,1,0,0,0,1,3%,0%,22%
+374,49,125000,87,India,Own,Prem,Yes,0,22%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+375,61,225000,60,India,Government,Prem,Yes,0,14%,0,0,1,0,1,0,0,0,1,0%,4%,0%
+376,60,225000,57,United Kingdom,Public,Non-Prem,No,0,12%,0,1,0,0,0,1,0,0,1,3%,0%,26%
+377,30,75000,60,America,Government,Non-Prem,Yes,1,95%,0,0,1,1,0,0,1,0,0,8%,0%,0%
+378,28,750000,60,United Kingdom,Government,Non-Prem,No,1,86%,0,0,1,0,0,1,1,0,0,9%,0%,92%
+379,59,75000,98,United Kingdom,Own,Prem,No,0,13%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+380,65,275000,60,America,Government,Prem,Yes,0,19%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+381,58,275000,60,America,Government,Non-Prem,No,0,17%,0,0,1,1,0,0,0,0,1,3%,0%,15%
+382,53,75000,60,India,Government,Non-Prem,No,0,25%,0,0,1,0,1,0,0,0,1,4%,0%,28%
+383,29,175000,60,America,Government,Prem,No,1,89%,0,0,1,1,0,0,1,0,0,0%,8%,0%
+384,51,225000,57,America,Public,Non-Prem,Yes,0,31%,0,1,0,1,0,0,0,0,1,3%,0%,24%
+385,57,500000,57,America,Public,Prem,Yes,0,18%,0,1,0,1,0,0,0,0,1,0%,4%,0%
+386,30,75000,60,America,Government,Non-Prem,No,1,98%,0,0,1,1,0,0,1,0,0,9%,0%,0%
+387,58,175000,90,United Kingdom,Own,Prem,No,0,16%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+388,55,500000,57,America,Public,Prem,Yes,0,30%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+389,45,275000,81,India,Own,Non-Prem,No,0,53%,1,0,0,0,1,0,0,1,0,6%,0%,41%
+390,28,225000,57,America,Public,Prem,No,1,84%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+391,46,275000,99,America,Own,Prem,No,0,26%,1,0,0,1,0,0,0,1,0,0%,7%,0%
+392,52,750000,60,India,Government,Prem,Yes,0,29%,0,0,1,0,1,0,0,0,1,0%,4%,0%
+393,28,1000000,57,United Kingdom,Public,Non-Prem,No,1,98%,0,1,0,0,0,1,1,0,0,9%,0%,0%
+394,63,125000,60,United Kingdom,Government,Non-Prem,Yes,0,17%,0,0,1,0,0,1,0,0,1,2%,0%,14%
+395,45,75000,57,America,Public,Non-Prem,Yes,0,43%,0,1,0,1,0,0,0,1,0,6%,0%,73%
+396,44,175000,91,India,Own,Non-Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0,7%,0%,75%
+397,56,750000,60,America,Government,Non-Prem,No,0,29%,0,0,1,1,0,0,0,0,1,2%,0%,21%
+398,25,500000,57,America,Public,Non-Prem,No,1,83%,0,1,0,1,0,0,1,0,0,9%,0%,93%
+399,30,1000000,87,United Kingdom,Own,Non-Prem,Yes,1,85%,1,0,0,0,0,1,1,0,0,10%,0%,96%
+400,52,1000000,60,America,Government,Non-Prem,No,0,24%,0,0,1,1,0,0,0,0,1,2%,0%,25%
+401,55,500000,60,India,Government,Prem,Yes,0,31%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+402,44,175000,57,India,Public,Non-Prem,No,0,61%,0,1,0,0,1,0,0,1,0,5%,0%,55%
+403,46,225000,57,United Kingdom,Public,Prem,No,0,27%,0,1,0,0,0,1,0,1,0,0%,5%,0%
+404,62,75000,60,United Kingdom,Government,Non-Prem,No,0,18%,0,0,1,0,0,1,0,0,1,4%,0%,29%
+405,53,1000000,57,America,Public,Prem,No,0,21%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+406,25,1000000,60,India,Government,Prem,Yes,1,97%,0,0,1,0,1,0,1,0,0,0%,10%,0%
+407,65,1000000,57,India,Public,Non-Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1,4%,0%,10%
+408,63,275000,93,India,Own,Prem,No,0,12%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+409,50,500000,88,America,Own,Prem,Yes,0,31%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+410,35,225000,86,United Kingdom,Own,Non-Prem,No,0,69%,1,0,0,0,0,1,1,0,0,9%,0%,82%
+411,59,125000,57,India,Public,Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1,0%,4%,0%
+412,48,75000,90,America,Own,Prem,No,0,33%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+413,57,125000,60,America,Government,Non-Prem,Yes,0,19%,0,0,1,1,0,0,0,0,1,3%,0%,37%
+414,44,75000,57,America,Public,Prem,Yes,0,44%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+415,51,75000,89,America,Own,Non-Prem,No,0,34%,1,0,0,1,0,0,0,0,1,3%,0%,14%
+416,39,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,49%,0,0,1,0,0,1,0,1,0,7%,0%,68%
+417,57,75000,60,India,Government,Non-Prem,No,0,11%,0,0,1,0,1,0,0,0,1,4%,0%,17%
+418,58,500000,85,India,Own,Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1,0%,2%,0%
+419,29,225000,60,India,Government,Non-Prem,No,1,83%,0,0,1,0,1,0,1,0,0,9%,0%,98%
+420,54,175000,99,United Kingdom,Own,Non-Prem,Yes,0,24%,1,0,0,0,0,1,0,0,1,3%,0%,26%
+421,52,500000,60,America,Government,Prem,Yes,0,20%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+422,42,175000,60,India,Government,Non-Prem,No,0,64%,0,0,1,0,1,0,0,1,0,6%,0%,77%
+423,60,225000,57,United Kingdom,Public,Non-Prem,Yes,0,17%,0,1,0,0,0,1,0,0,1,3%,0%,12%
+424,27,125000,100,United Kingdom,Own,Non-Prem,Yes,1,82%,1,0,0,0,0,1,1,0,0,9%,0%,92%
+425,45,500000,60,America,Government,Prem,No,0,60%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+426,40,75000,97,India,Own,Prem,No,0,66%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+427,61,750000,87,India,Own,Prem,Yes,0,19%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+428,29,750000,81,America,Own,Non-Prem,No,1,84%,1,0,0,1,0,0,1,0,0,9%,0%,90%
+429,38,125000,57,India,Public,Prem,No,0,57%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+430,55,750000,60,United Kingdom,Government,Non-Prem,No,0,26%,0,0,1,0,0,1,0,0,1,3%,0%,29%
+431,48,125000,98,United Kingdom,Own,Prem,No,0,21%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+432,59,500000,57,United Kingdom,Public,Non-Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1,2%,0%,12%
+433,60,275000,88,United Kingdom,Own,Non-Prem,No,0,14%,1,0,0,0,0,1,0,0,1,2%,0%,23%
+434,51,175000,96,America,Own,Prem,No,0,28%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+435,51,1000000,94,America,Own,Prem,No,0,23%,1,0,0,1,0,0,0,0,1,0%,2%,0%
+436,47,75000,94,America,Own,Prem,Yes,0,29%,1,0,0,1,0,0,0,1,0,0%,7%,0%
+437,37,225000,57,India,Public,Non-Prem,Yes,0,43%,0,1,0,0,1,0,0,1,0,6%,0%,69%
+438,40,125000,57,America,Public,Prem,No,0,60%,0,1,0,1,0,0,0,1,0,0%,7%,0%
+439,59,275000,60,United Kingdom,Government,Non-Prem,Yes,0,11%,0,0,1,0,0,1,0,0,1,3%,0%,30%
+440,51,275000,60,America,Government,Non-Prem,Yes,0,24%,0,0,1,1,0,0,0,0,1,2%,0%,37%
+441,63,125000,57,India,Public,Non-Prem,Yes,0,12%,0,1,0,0,1,0,0,0,1,2%,0%,37%
+442,41,750000,60,United Kingdom,Government,Non-Prem,No,0,49%,0,0,1,0,0,1,0,1,0,6%,0%,60%
+443,65,500000,57,America,Public,Non-Prem,Yes,0,14%,0,1,0,1,0,0,0,0,1,2%,0%,23%
+444,25,500000,57,United Kingdom,Public,Prem,No,1,92%,0,1,0,0,0,1,1,0,0,0%,8%,0%
+445,35,500000,57,India,Public,Prem,Yes,0,55%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+446,36,125000,60,America,Government,Prem,No,0,50%,0,0,1,1,0,0,0,1,0,0%,5%,0%
+447,38,500000,82,America,Own,Prem,No,0,55%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+448,55,275000,95,United Kingdom,Own,Non-Prem,No,0,22%,1,0,0,0,0,1,0,0,1,2%,0%,35%
+449,55,500000,95,India,Own,Prem,No,0,22%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+450,40,275000,87,America,Own,Prem,Yes,0,47%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+451,63,275000,57,America,Public,Prem,No,0,16%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+452,43,275000,60,America,Government,Prem,Yes,0,52%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+453,53,175000,60,United Kingdom,Government,Non-Prem,No,0,31%,0,0,1,0,0,1,0,0,1,4%,0%,15%
+454,26,175000,57,India,Public,Prem,No,1,83%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+455,27,750000,57,America,Public,Prem,Yes,1,89%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+456,53,500000,88,India,Own,Prem,Yes,0,21%,1,0,0,0,1,0,0,0,1,0%,4%,0%
+457,39,175000,57,America,Public,Prem,Yes,0,69%,0,1,0,1,0,0,0,1,0,0%,7%,0%
+458,62,225000,60,India,Government,Prem,No,0,12%,0,0,1,0,1,0,0,0,1,0%,4%,0%
+459,52,225000,57,India,Public,Prem,Yes,0,26%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+460,61,750000,57,India,Public,Prem,Yes,0,15%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+461,56,225000,57,India,Public,Non-Prem,No,0,22%,0,1,0,0,1,0,0,0,1,3%,0%,10%
+462,54,750000,57,America,Public,Prem,No,0,24%,0,1,0,1,0,0,0,0,1,0%,4%,0%
+463,54,225000,60,India,Government,Prem,No,0,30%,0,0,1,0,1,0,0,0,1,0%,4%,0%
+464,58,75000,60,America,Government,Non-Prem,Yes,0,14%,0,0,1,1,0,0,0,0,1,3%,0%,12%
+465,37,75000,98,America,Own,Non-Prem,Yes,0,52%,1,0,0,1,0,0,0,1,0,5%,0%,42%
+466,57,500000,57,India,Public,Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+467,41,75000,81,United Kingdom,Own,Non-Prem,No,0,56%,1,0,0,0,0,1,0,1,0,6%,0%,53%
+468,27,125000,84,United Kingdom,Own,Prem,No,1,90%,1,0,0,0,0,1,1,0,0,0%,10%,0%
+469,35,1000000,57,United Kingdom,Public,Prem,Yes,0,52%,0,1,0,0,0,1,1,0,0,0%,9%,0%
+470,51,500000,57,India,Public,Non-Prem,No,0,27%,0,1,0,0,1,0,0,0,1,4%,0%,28%
+471,52,1000000,60,America,Government,Prem,Yes,0,31%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+472,26,1000000,60,India,Government,Prem,No,1,91%,0,0,1,0,1,0,1,0,0,0%,9%,0%
+473,25,125000,60,India,Government,Non-Prem,No,1,97%,0,0,1,0,1,0,1,0,0,10%,0%,0%
+474,30,275000,57,United Kingdom,Public,Non-Prem,Yes,1,93%,0,1,0,0,0,1,1,0,0,10%,0%,0%
+475,49,75000,84,United Kingdom,Own,Non-Prem,No,0,24%,1,0,0,0,0,1,0,1,0,7%,0%,47%
+476,59,1000000,91,America,Own,Prem,No,0,12%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+477,40,750000,57,India,Public,Non-Prem,Yes,0,55%,0,1,0,0,1,0,0,1,0,7%,0%,47%
+478,28,175000,86,United Kingdom,Own,Prem,Yes,1,90%,1,0,0,0,0,1,1,0,0,0%,10%,0%
+479,62,500000,57,India,Public,Prem,Yes,0,16%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+480,44,225000,57,India,Public,Non-Prem,Yes,0,57%,0,1,0,0,1,0,0,1,0,6%,0%,56%
+481,49,125000,60,America,Government,Prem,No,0,23%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+482,45,275000,60,America,Government,Non-Prem,No,0,62%,0,0,1,1,0,0,0,1,0,6%,0%,67%
+483,53,225000,96,America,Own,Prem,No,0,27%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+484,27,275000,80,United Kingdom,Own,Non-Prem,Yes,1,93%,1,0,0,0,0,1,1,0,0,9%,0%,0%
+485,53,500000,57,America,Public,Non-Prem,No,0,24%,0,1,0,1,0,0,0,0,1,3%,0%,30%
+486,53,175000,86,United Kingdom,Own,Prem,No,0,32%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+487,63,75000,82,America,Own,Non-Prem,No,0,15%,1,0,0,1,0,0,0,0,1,2%,0%,36%
+488,62,125000,99,India,Own,Non-Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1,3%,0%,16%
+489,30,275000,57,America,Public,Non-Prem,No,1,82%,0,1,0,1,0,0,1,0,0,8%,0%,97%
+490,61,75000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+491,38,125000,57,India,Public,Prem,Yes,0,67%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+492,46,125000,60,America,Government,Non-Prem,Yes,0,27%,0,0,1,1,0,0,0,1,0,6%,0%,50%
+493,56,75000,57,America,Public,Non-Prem,No,0,22%,0,1,0,1,0,0,0,0,1,3%,0%,35%
+494,42,125000,84,United Kingdom,Own,Prem,No,0,53%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+495,60,275000,60,America,Government,Prem,No,0,18%,0,0,1,1,0,0,0,0,1,0%,4%,0%
+496,50,750000,57,United Kingdom,Public,Prem,Yes,0,27%,0,1,0,0,0,1,0,1,0,0%,7%,0%
+497,46,125000,57,America,Public,Prem,No,0,30%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+498,62,275000,90,America,Own,Non-Prem,Yes,0,12%,1,0,0,1,0,0,0,0,1,3%,0%,31%
+499,47,75000,60,United Kingdom,Government,Prem,No,0,28%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+500,41,225000,60,United Kingdom,Government,Prem,Yes,0,57%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+501,50,75000,60,United Kingdom,Government,Prem,No,0,26%,0,0,1,0,0,1,0,1,0,0%,6%,0%
+502,62,750000,57,America,Public,Prem,No,0,11%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+503,26,500000,60,United Kingdom,Government,Prem,Yes,1,93%,0,0,1,0,0,1,1,0,0,0%,10%,0%
+504,30,1000000,60,America,Government,Prem,No,1,85%,0,0,1,1,0,0,1,0,0,0%,8%,0%
+505,37,75000,57,United Kingdom,Public,Non-Prem,No,0,44%,0,1,0,0,0,1,0,1,0,7%,0%,52%
+506,51,275000,57,India,Public,Prem,Yes,0,31%,0,1,0,0,1,0,0,0,1,0%,4%,0%
+507,35,225000,57,United Kingdom,Public,Prem,Yes,0,54%,0,1,0,0,0,1,1,0,0,0%,8%,0%
+508,39,125000,95,America,Own,Prem,No,0,58%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+509,30,275000,83,America,Own,Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0,0%,9%,0%
+510,28,75000,57,America,Public,Non-Prem,No,1,90%,0,1,0,1,0,0,1,0,0,9%,0%,95%
+511,35,500000,86,India,Own,Non-Prem,Yes,0,65%,1,0,0,0,1,0,1,0,0,9%,0%,91%
+512,52,75000,57,India,Public,Prem,No,0,34%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+513,50,175000,85,United Kingdom,Own,Prem,No,0,26%,1,0,0,0,0,1,0,1,0,0%,5%,0%
+514,28,125000,57,India,Public,Prem,No,1,97%,0,1,0,0,1,0,1,0,0,0%,9%,0%
+515,39,1000000,60,India,Government,Non-Prem,Yes,0,57%,0,0,1,0,1,0,0,1,0,6%,0%,58%
+516,43,225000,60,India,Government,Prem,No,0,64%,0,0,1,0,1,0,0,1,0,0%,7%,0%
+517,30,500000,98,America,Own,Prem,No,1,83%,1,0,0,1,0,0,1,0,0,0%,10%,0%
+518,29,75000,57,United Kingdom,Public,Prem,No,1,89%,0,1,0,0,0,1,1,0,0,0%,10%,0%
+519,42,175000,60,India,Government,Prem,No,0,62%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+520,30,500000,57,America,Public,Prem,No,1,97%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+521,55,500000,90,India,Own,Non-Prem,Yes,0,33%,1,0,0,0,1,0,0,0,1,3%,0%,23%
+522,49,75000,57,United Kingdom,Public,Non-Prem,No,0,20%,0,1,0,0,0,1,0,1,0,6%,0%,66%
+523,28,750000,57,United Kingdom,Public,Non-Prem,Yes,1,80%,0,1,0,0,0,1,1,0,0,10%,0%,91%
+524,30,175000,85,America,Own,Prem,No,1,98%,1,0,0,1,0,0,1,0,0,0%,8%,0%
+525,65,1000000,60,United Kingdom,Government,Non-Prem,No,0,16%,0,0,1,0,0,1,0,0,1,3%,0%,25%
+526,61,1000000,88,America,Own,Non-Prem,No,0,16%,1,0,0,1,0,0,0,0,1,4%,0%,19%
+527,49,125000,57,India,Public,Non-Prem,No,0,33%,0,1,0,0,1,0,0,1,0,5%,0%,45%
+528,58,175000,91,America,Own,Prem,Yes,0,11%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+529,43,75000,81,United Kingdom,Own,Non-Prem,No,0,54%,1,0,0,0,0,1,0,1,0,6%,0%,59%
+530,58,275000,57,India,Public,Prem,Yes,0,15%,0,1,0,0,1,0,0,0,1,0%,4%,0%
+531,39,500000,85,United Kingdom,Own,Non-Prem,Yes,0,64%,1,0,0,0,0,1,0,1,0,7%,0%,66%
+532,58,175000,60,India,Government,Non-Prem,No,0,12%,0,0,1,0,1,0,0,0,1,3%,0%,13%
+533,42,275000,87,America,Own,Prem,No,0,59%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+534,54,225000,57,America,Public,Prem,Yes,0,25%,0,1,0,1,0,0,0,0,1,0%,2%,0%
+535,37,1000000,98,India,Own,Non-Prem,Yes,0,67%,1,0,0,0,1,0,0,1,0,6%,0%,49%
+536,57,225000,95,America,Own,Non-Prem,Yes,0,13%,1,0,0,1,0,0,0,0,1,3%,0%,27%
+537,59,750000,60,United Kingdom,Government,Prem,Yes,0,13%,0,0,1,0,0,1,0,0,1,0%,4%,0%
+538,48,175000,60,India,Government,Prem,Yes,0,24%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+539,50,125000,57,United Kingdom,Public,Prem,Yes,0,27%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+540,25,75000,57,India,Public,Prem,Yes,1,97%,0,1,0,0,1,0,1,0,0,0%,10%,0%
+541,37,225000,57,United Kingdom,Public,Non-Prem,Yes,0,55%,0,1,0,0,0,1,0,1,0,7%,0%,61%
+542,43,750000,99,America,Own,Prem,No,0,56%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+543,29,275000,80,United Kingdom,Own,Non-Prem,No,1,95%,1,0,0,0,0,1,1,0,0,8%,0%,0%
+544,28,275000,57,America,Public,Prem,Yes,1,94%,0,1,0,1,0,0,1,0,0,0%,8%,0%
+545,37,225000,57,United Kingdom,Public,Non-Prem,No,0,44%,0,1,0,0,0,1,0,1,0,7%,0%,50%
+546,62,175000,57,India,Public,Non-Prem,Yes,0,18%,0,1,0,0,1,0,0,0,1,2%,0%,16%
+547,43,500000,82,United Kingdom,Own,Non-Prem,Yes,0,59%,1,0,0,0,0,1,0,1,0,6%,0%,65%
+548,51,125000,57,United Kingdom,Public,Non-Prem,No,0,33%,0,1,0,0,0,1,0,0,1,3%,0%,12%
+549,54,1000000,60,India,Government,Non-Prem,Yes,0,25%,0,0,1,0,1,0,0,0,1,2%,0%,19%
+550,28,125000,57,America,Public,Prem,No,1,87%,0,1,0,1,0,0,1,0,0,0%,10%,0%
+551,35,175000,90,United Kingdom,Own,Prem,No,0,51%,1,0,0,0,0,1,1,0,0,0%,9%,0%
+552,45,275000,89,United Kingdom,Own,Prem,No,0,44%,1,0,0,0,0,1,0,1,0,0%,7%,0%
+553,26,1000000,57,India,Public,Prem,No,1,87%,0,1,0,0,1,0,1,0,0,0%,8%,0%
+554,45,225000,60,India,Government,Non-Prem,Yes,0,42%,0,0,1,0,1,0,0,1,0,7%,0%,58%
+555,41,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,54%,0,0,1,0,0,1,0,1,0,5%,0%,44%
+556,53,175000,86,India,Own,Prem,Yes,0,22%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+557,51,1000000,97,America,Own,Non-Prem,Yes,0,26%,1,0,0,1,0,0,0,0,1,3%,0%,33%
+558,48,750000,85,America,Own,Prem,Yes,0,25%,1,0,0,1,0,0,0,1,0,0%,7%,0%
+559,27,500000,57,United Kingdom,Public,Prem,Yes,1,80%,0,1,0,0,0,1,1,0,0,0%,10%,0%
+560,63,75000,93,India,Own,Prem,Yes,0,11%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+561,27,75000,88,United Kingdom,Own,Prem,Yes,1,96%,1,0,0,0,0,1,1,0,0,0%,9%,0%
+562,50,75000,60,America,Government,Prem,Yes,0,31%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+563,61,500000,60,America,Government,Prem,Yes,0,12%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+564,51,1000000,81,America,Own,Prem,Yes,0,34%,1,0,0,1,0,0,0,0,1,0%,2%,0%
+565,29,225000,60,America,Government,Prem,No,1,86%,0,0,1,1,0,0,1,0,0,0%,10%,0%
+566,35,500000,60,America,Government,Prem,No,0,44%,0,0,1,1,0,0,1,0,0,0%,9%,0%
+567,37,175000,60,United Kingdom,Government,Prem,No,0,56%,0,0,1,0,0,1,0,1,0,0%,7%,0%
+568,65,75000,60,America,Government,Non-Prem,Yes,0,17%,0,0,1,1,0,0,0,0,1,2%,0%,27%
+569,58,75000,57,United Kingdom,Public,Non-Prem,No,0,16%,0,1,0,0,0,1,0,0,1,3%,0%,28%
+570,62,275000,60,America,Government,Prem,No,0,17%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+571,64,275000,60,India,Government,Prem,Yes,0,17%,0,0,1,0,1,0,0,0,1,0%,3%,0%
+572,57,75000,60,America,Government,Prem,No,0,18%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+573,58,225000,60,India,Government,Non-Prem,Yes,0,16%,0,0,1,0,1,0,0,0,1,3%,0%,27%
+574,51,750000,57,United Kingdom,Public,Non-Prem,Yes,0,31%,0,1,0,0,0,1,0,0,1,2%,0%,27%
+575,60,75000,57,India,Public,Prem,No,0,19%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+576,50,750000,81,America,Own,Prem,Yes,0,25%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+577,49,125000,60,India,Government,Non-Prem,No,0,29%,0,0,1,0,1,0,0,1,0,6%,0%,46%
+578,43,175000,60,America,Government,Prem,Yes,0,65%,0,0,1,1,0,0,0,1,0,0%,5%,0%
+579,45,225000,80,America,Own,Prem,No,0,54%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+580,55,750000,57,United Kingdom,Public,Prem,No,0,22%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+581,53,750000,86,America,Own,Non-Prem,No,0,32%,1,0,0,1,0,0,0,0,1,3%,0%,29%
+582,43,275000,94,America,Own,Prem,Yes,0,59%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+583,50,750000,86,India,Own,Non-Prem,No,0,26%,1,0,0,0,1,0,0,1,0,7%,0%,42%
+584,49,1000000,60,America,Government,Prem,No,0,31%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+585,64,500000,97,India,Own,Non-Prem,No,0,17%,1,0,0,0,1,0,0,0,1,3%,0%,15%
+586,53,750000,57,United Kingdom,Public,Non-Prem,Yes,0,29%,0,1,0,0,0,1,0,0,1,2%,0%,29%
+587,49,175000,57,United Kingdom,Public,Non-Prem,Yes,0,22%,0,1,0,0,0,1,0,1,0,5%,0%,77%
+588,43,125000,100,United Kingdom,Own,Non-Prem,Yes,0,53%,1,0,0,0,0,1,0,1,0,7%,0%,77%
+589,28,225000,57,America,Public,Non-Prem,Yes,1,91%,0,1,0,1,0,0,1,0,0,10%,0%,0%
+590,44,1000000,100,India,Own,Non-Prem,Yes,0,64%,1,0,0,0,1,0,0,1,0,7%,0%,73%
+591,25,225000,60,America,Government,Prem,Yes,1,98%,0,0,1,1,0,0,1,0,0,0%,10%,0%
+592,35,750000,60,India,Government,Non-Prem,Yes,0,67%,0,0,1,0,1,0,1,0,0,9%,0%,96%
+593,28,750000,60,America,Government,Prem,Yes,1,86%,0,0,1,1,0,0,1,0,0,0%,9%,0%
+594,52,275000,86,United Kingdom,Own,Prem,No,0,22%,1,0,0,0,0,1,0,0,1,0%,2%,0%
+595,60,1000000,57,United Kingdom,Public,Prem,Yes,0,16%,0,1,0,0,0,1,0,0,1,0%,2%,0%
+596,44,175000,57,United Kingdom,Public,Prem,No,0,48%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+597,59,125000,86,India,Own,Prem,No,0,15%,1,0,0,0,1,0,0,0,1,0%,2%,0%
+598,63,500000,57,India,Public,Non-Prem,No,0,19%,0,1,0,0,1,0,0,0,1,3%,0%,24%
+599,45,75000,57,United Kingdom,Public,Non-Prem,No,0,42%,0,1,0,0,0,1,0,1,0,6%,0%,56%
+600,25,75000,86,America,Own,Non-Prem,Yes,1,98%,1,0,0,1,0,0,1,0,0,10%,0%,0%
+601,61,1000000,60,United Kingdom,Government,Non-Prem,No,0,15%,0,0,1,0,0,1,0,0,1,2%,0%,28%
+602,27,75000,96,United Kingdom,Own,Prem,No,1,87%,1,0,0,0,0,1,1,0,0,0%,10%,0%
+603,58,750000,60,India,Government,Non-Prem,Yes,0,13%,0,0,1,0,1,0,0,0,1,2%,0%,10%
+604,37,750000,85,America,Own,Prem,Yes,0,43%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+605,40,175000,57,United Kingdom,Public,Prem,Yes,0,66%,0,1,0,0,0,1,0,1,0,0%,5%,0%
+606,58,750000,60,America,Government,Prem,Yes,0,14%,0,0,1,1,0,0,0,0,1,0%,4%,0%
+607,48,750000,57,America,Public,Non-Prem,No,0,24%,0,1,0,1,0,0,0,1,0,7%,0%,70%
+608,37,1000000,57,America,Public,Non-Prem,Yes,0,56%,0,1,0,1,0,0,0,1,0,6%,0%,72%
+609,30,750000,57,United Kingdom,Public,Prem,No,1,97%,0,1,0,0,0,1,1,0,0,0%,8%,0%
+610,63,225000,80,America,Own,Prem,No,0,14%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+611,26,125000,57,India,Public,Non-Prem,No,1,85%,0,1,0,0,1,0,1,0,0,9%,0%,92%
+612,35,500000,99,America,Own,Prem,Yes,0,57%,1,0,0,1,0,0,1,0,0,0%,10%,0%
+613,63,500000,60,India,Government,Prem,No,0,16%,0,0,1,0,1,0,0,0,1,0%,2%,0%
+614,63,225000,60,India,Government,Non-Prem,No,0,17%,0,0,1,0,1,0,0,0,1,4%,0%,31%
+615,36,1000000,82,India,Own,Non-Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0,5%,0%,49%
+616,46,1000000,60,India,Government,Non-Prem,Yes,0,27%,0,0,1,0,1,0,0,1,0,5%,0%,52%
+617,27,275000,96,America,Own,Non-Prem,No,1,88%,1,0,0,1,0,0,1,0,0,9%,0%,95%
+618,37,225000,82,India,Own,Non-Prem,Yes,0,41%,1,0,0,0,1,0,0,1,0,6%,0%,76%
+619,54,75000,60,America,Government,Non-Prem,Yes,0,29%,0,0,1,1,0,0,0,0,1,2%,0%,25%
+620,30,75000,97,United Kingdom,Own,Non-Prem,No,1,96%,1,0,0,0,0,1,1,0,0,8%,0%,0%
+621,26,125000,100,United Kingdom,Own,Non-Prem,Yes,1,84%,1,0,0,0,0,1,1,0,0,9%,0%,91%
+622,40,125000,60,America,Government,Non-Prem,No,0,58%,0,0,1,1,0,0,0,1,0,6%,0%,59%
+623,37,1000000,91,America,Own,Non-Prem,No,0,52%,1,0,0,1,0,0,0,1,0,7%,0%,49%
+624,37,500000,60,India,Government,Non-Prem,Yes,0,62%,0,0,1,0,1,0,0,1,0,6%,0%,53%
+625,46,275000,97,United Kingdom,Own,Prem,Yes,0,34%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+626,43,275000,82,United Kingdom,Own,Prem,No,0,49%,1,0,0,0,0,1,0,1,0,0%,5%,0%
+627,50,175000,57,America,Public,Non-Prem,No,0,26%,0,1,0,1,0,0,0,1,0,6%,0%,63%
+628,38,175000,57,India,Public,Prem,No,0,53%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+629,55,275000,60,India,Government,Prem,No,0,25%,0,0,1,0,1,0,0,0,1,0%,4%,0%
+630,53,125000,57,India,Public,Prem,Yes,0,30%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+631,46,75000,98,America,Own,Prem,No,0,29%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+632,61,750000,57,India,Public,Prem,No,0,10%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+633,65,175000,60,America,Government,Non-Prem,Yes,0,13%,0,0,1,1,0,0,0,0,1,2%,0%,20%
+634,51,125000,60,United Kingdom,Government,Prem,Yes,0,27%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+635,55,75000,84,America,Own,Non-Prem,Yes,0,29%,1,0,0,1,0,0,0,0,1,3%,0%,31%
+636,30,750000,57,America,Public,Non-Prem,Yes,1,90%,0,1,0,1,0,0,1,0,0,10%,0%,97%
+637,40,500000,87,United Kingdom,Own,Non-Prem,No,0,68%,1,0,0,0,0,1,0,1,0,7%,0%,58%
+638,62,175000,60,United Kingdom,Government,Non-Prem,Yes,0,12%,0,0,1,0,0,1,0,0,1,4%,0%,20%
+639,62,125000,60,America,Government,Prem,No,0,12%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+640,56,750000,60,United Kingdom,Government,Prem,Yes,0,25%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+641,57,1000000,57,India,Public,Prem,Yes,0,16%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+642,41,750000,85,America,Own,Prem,No,0,40%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+643,57,275000,81,America,Own,Non-Prem,No,0,14%,1,0,0,1,0,0,0,0,1,3%,0%,11%
+644,35,125000,57,America,Public,Non-Prem,Yes,0,50%,0,1,0,1,0,0,1,0,0,8%,0%,83%
+645,37,500000,80,United Kingdom,Own,Prem,Yes,0,46%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+646,54,175000,87,India,Own,Prem,No,0,23%,1,0,0,0,1,0,0,0,1,0%,4%,0%
+647,25,75000,60,India,Government,Prem,Yes,1,95%,0,0,1,0,1,0,1,0,0,0%,9%,0%
+648,54,175000,60,India,Government,Non-Prem,Yes,0,29%,0,0,1,0,1,0,0,0,1,2%,0%,14%
+649,51,750000,60,United Kingdom,Government,Non-Prem,No,0,35%,0,0,1,0,0,1,0,0,1,3%,0%,34%
+650,64,750000,57,United Kingdom,Public,Prem,No,0,16%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+651,47,225000,60,America,Government,Non-Prem,Yes,0,33%,0,0,1,1,0,0,0,1,0,5%,0%,46%
+652,44,500000,89,India,Own,Prem,No,0,55%,1,0,0,0,1,0,0,1,0,0%,7%,0%
+653,30,275000,57,America,Public,Prem,No,1,82%,0,1,0,1,0,0,1,0,0,0%,10%,0%
+654,61,1000000,91,United Kingdom,Own,Non-Prem,Yes,0,14%,1,0,0,0,0,1,0,0,1,4%,0%,29%
+655,44,225000,57,United Kingdom,Public,Non-Prem,No,0,55%,0,1,0,0,0,1,0,1,0,7%,0%,57%
+656,61,175000,90,America,Own,Non-Prem,Yes,0,14%,1,0,0,1,0,0,0,0,1,3%,0%,32%
+657,30,175000,57,United Kingdom,Public,Non-Prem,Yes,1,95%,0,1,0,0,0,1,1,0,0,9%,0%,0%
+658,53,750000,87,United Kingdom,Own,Non-Prem,No,0,26%,1,0,0,0,0,1,0,0,1,3%,0%,21%
+659,37,125000,60,United Kingdom,Government,Non-Prem,Yes,0,48%,0,0,1,0,0,1,0,1,0,7%,0%,75%
+660,51,750000,57,India,Public,Non-Prem,No,0,35%,0,1,0,0,1,0,0,0,1,3%,0%,18%
+661,44,1000000,99,America,Own,Non-Prem,Yes,0,55%,1,0,0,1,0,0,0,1,0,6%,0%,67%
+662,37,125000,86,America,Own,Non-Prem,No,0,68%,1,0,0,1,0,0,0,1,0,6%,0%,65%
+663,63,225000,93,United Kingdom,Own,Non-Prem,Yes,0,10%,1,0,0,0,0,1,0,0,1,3%,0%,22%
+664,41,125000,60,United Kingdom,Government,Prem,Yes,0,58%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+665,54,125000,60,India,Government,Prem,No,0,29%,0,0,1,0,1,0,0,0,1,0%,2%,0%
+666,25,225000,57,United Kingdom,Public,Prem,Yes,1,80%,0,1,0,0,0,1,1,0,0,0%,9%,0%
+667,48,125000,57,India,Public,Prem,Yes,0,20%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+668,40,225000,82,India,Own,Non-Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0,5%,0%,73%
+669,35,75000,57,America,Public,Prem,Yes,0,54%,0,1,0,1,0,0,1,0,0,0%,8%,0%
+670,28,1000000,82,America,Own,Non-Prem,Yes,1,93%,1,0,0,1,0,0,1,0,0,9%,0%,0%
+671,28,225000,57,United Kingdom,Public,Non-Prem,Yes,1,80%,0,1,0,0,0,1,1,0,0,10%,0%,94%
+672,41,125000,57,America,Public,Prem,Yes,0,58%,0,1,0,1,0,0,0,1,0,0%,5%,0%
+673,45,750000,60,America,Government,Non-Prem,No,0,41%,0,0,1,1,0,0,0,1,0,7%,0%,70%
+674,62,275000,88,India,Own,Non-Prem,No,0,18%,1,0,0,0,1,0,0,0,1,3%,0%,14%
+675,42,275000,60,India,Government,Non-Prem,No,0,41%,0,0,1,0,1,0,0,1,0,7%,0%,57%
+676,40,225000,60,United Kingdom,Government,Prem,No,0,45%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+677,63,1000000,86,India,Own,Non-Prem,Yes,0,19%,1,0,0,0,1,0,0,0,1,2%,0%,14%
+678,39,500000,57,America,Public,Prem,Yes,0,63%,0,1,0,1,0,0,0,1,0,0%,7%,0%
+679,58,275000,60,America,Government,Non-Prem,No,0,20%,0,0,1,1,0,0,0,0,1,3%,0%,16%
+680,29,500000,60,America,Government,Prem,Yes,1,83%,0,0,1,1,0,0,1,0,0,0%,9%,0%
+681,41,750000,86,India,Own,Prem,No,0,53%,1,0,0,0,1,0,0,1,0,0%,7%,0%
+682,61,275000,57,United Kingdom,Public,Non-Prem,No,0,13%,0,1,0,0,0,1,0,0,1,2%,0%,39%
+683,48,75000,60,America,Government,Prem,No,0,24%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+684,52,75000,60,America,Government,Non-Prem,No,0,26%,0,0,1,1,0,0,0,0,1,2%,0%,31%
+685,47,500000,57,America,Public,Non-Prem,Yes,0,23%,0,1,0,1,0,0,0,1,0,6%,0%,58%
+686,59,75000,60,India,Government,Non-Prem,No,0,13%,0,0,1,0,1,0,0,0,1,3%,0%,23%
+687,55,750000,60,America,Government,Prem,Yes,0,32%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+688,41,225000,57,America,Public,Prem,No,0,50%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+689,52,75000,57,India,Public,Prem,No,0,20%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+690,36,750000,80,United Kingdom,Own,Non-Prem,Yes,0,41%,1,0,0,0,0,1,0,1,0,6%,0%,43%
+691,48,275000,57,America,Public,Prem,Yes,0,25%,0,1,0,1,0,0,0,1,0,0%,5%,0%
+692,39,125000,57,America,Public,Prem,Yes,0,46%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+693,64,175000,95,America,Own,Prem,No,0,12%,1,0,0,1,0,0,0,0,1,0%,4%,0%
+694,55,750000,57,United Kingdom,Public,Prem,Yes,0,31%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+695,51,275000,96,America,Own,Prem,No,0,30%,1,0,0,1,0,0,0,0,1,0%,4%,0%
+696,59,1000000,57,United Kingdom,Public,Non-Prem,Yes,0,15%,0,1,0,0,0,1,0,0,1,3%,0%,29%
+697,42,275000,88,United Kingdom,Own,Prem,No,0,45%,1,0,0,0,0,1,0,1,0,0%,7%,0%
+698,60,225000,60,India,Government,Non-Prem,No,0,16%,0,0,1,0,1,0,0,0,1,4%,0%,30%
+699,62,225000,60,United Kingdom,Government,Prem,Yes,0,16%,0,0,1,0,0,1,0,0,1,0%,2%,0%
+700,29,125000,94,America,Own,Non-Prem,No,1,84%,1,0,0,1,0,0,1,0,0,9%,0%,94%
+701,38,1000000,60,India,Government,Prem,No,0,64%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+702,62,1000000,57,India,Public,Non-Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1,2%,0%,14%
+703,44,750000,100,United Kingdom,Own,Prem,No,0,64%,1,0,0,0,0,1,0,1,0,0%,6%,0%
+704,57,175000,57,India,Public,Prem,No,0,19%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+705,42,500000,57,America,Public,Non-Prem,No,0,50%,0,1,0,1,0,0,0,1,0,5%,0%,69%
+706,30,125000,91,America,Own,Non-Prem,No,1,95%,1,0,0,1,0,0,1,0,0,8%,0%,0%
+707,61,75000,57,United Kingdom,Public,Non-Prem,No,0,13%,0,1,0,0,0,1,0,0,1,3%,0%,20%
+708,26,275000,60,United Kingdom,Government,Prem,Yes,1,80%,0,0,1,0,0,1,1,0,0,0%,8%,0%
+709,54,75000,90,America,Own,Non-Prem,No,0,21%,1,0,0,1,0,0,0,0,1,3%,0%,23%
+710,30,125000,60,India,Government,Prem,No,1,97%,0,0,1,0,1,0,1,0,0,0%,9%,0%
+711,41,225000,86,America,Own,Prem,Yes,0,54%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+712,63,750000,57,United Kingdom,Public,Prem,No,0,19%,0,1,0,0,0,1,0,0,1,0%,2%,0%
+713,65,500000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+714,47,1000000,83,United Kingdom,Own,Non-Prem,Yes,0,27%,1,0,0,0,0,1,0,1,0,6%,0%,50%
+715,55,275000,57,India,Public,Non-Prem,No,0,31%,0,1,0,0,1,0,0,0,1,2%,0%,12%
+716,44,750000,57,America,Public,Prem,Yes,0,54%,0,1,0,1,0,0,0,1,0,0%,7%,0%
+717,29,275000,84,United Kingdom,Own,Non-Prem,No,1,94%,1,0,0,0,0,1,1,0,0,9%,0%,0%
+718,45,175000,89,India,Own,Prem,Yes,0,67%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+719,35,1000000,84,America,Own,Non-Prem,No,0,58%,1,0,0,1,0,0,1,0,0,8%,0%,87%
+720,28,500000,81,America,Own,Prem,No,1,88%,1,0,0,1,0,0,1,0,0,0%,8%,0%
+721,47,75000,60,America,Government,Non-Prem,Yes,0,24%,0,0,1,1,0,0,0,1,0,6%,0%,48%
+722,62,500000,90,India,Own,Prem,No,0,20%,1,0,0,0,1,0,0,0,1,0%,2%,0%
+723,54,1000000,57,United Kingdom,Public,Non-Prem,No,0,22%,0,1,0,0,0,1,0,0,1,3%,0%,32%
+724,65,1000000,60,United Kingdom,Government,Non-Prem,Yes,0,19%,0,0,1,0,0,1,0,0,1,3%,0%,35%
+725,42,1000000,57,United Kingdom,Public,Prem,No,0,63%,0,1,0,0,0,1,0,1,0,0%,7%,0%
+726,65,125000,57,India,Public,Prem,No,0,17%,0,1,0,0,1,0,0,0,1,0%,4%,0%
+727,55,125000,85,United Kingdom,Own,Prem,No,0,29%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+728,54,750000,60,United Kingdom,Government,Prem,Yes,0,31%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+729,58,125000,80,America,Own,Non-Prem,Yes,0,18%,1,0,0,1,0,0,0,0,1,4%,0%,22%
+730,55,125000,57,America,Public,Prem,Yes,0,22%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+731,62,225000,87,India,Own,Non-Prem,Yes,0,18%,1,0,0,0,1,0,0,0,1,2%,0%,28%
+732,49,750000,96,India,Own,Non-Prem,No,0,31%,1,0,0,0,1,0,0,1,0,6%,0%,75%
+733,41,500000,94,America,Own,Prem,No,0,47%,1,0,0,1,0,0,0,1,0,0%,7%,0%
+734,60,125000,99,United Kingdom,Own,Non-Prem,Yes,0,15%,1,0,0,0,0,1,0,0,1,2%,0%,29%
+735,64,225000,85,India,Own,Prem,No,0,13%,1,0,0,0,1,0,0,0,1,0%,4%,0%
+736,54,500000,92,United Kingdom,Own,Non-Prem,No,0,26%,1,0,0,0,0,1,0,0,1,2%,0%,39%
+737,26,225000,60,America,Government,Non-Prem,No,1,94%,0,0,1,1,0,0,1,0,0,10%,0%,0%
+738,48,175000,99,India,Own,Prem,Yes,0,33%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+739,25,1000000,90,United Kingdom,Own,Non-Prem,No,1,87%,1,0,0,0,0,1,1,0,0,10%,0%,91%
+740,48,175000,60,United Kingdom,Government,Non-Prem,No,0,21%,0,0,1,0,0,1,0,1,0,6%,0%,42%
+741,62,75000,57,America,Public,Prem,Yes,0,12%,0,1,0,1,0,0,0,0,1,0%,4%,0%
+742,51,1000000,60,United Kingdom,Government,Prem,Yes,0,30%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+743,50,125000,60,United Kingdom,Government,Prem,No,0,27%,0,0,1,0,0,1,0,1,0,0%,7%,0%
+744,50,225000,57,America,Public,Non-Prem,No,0,28%,0,1,0,1,0,0,0,1,0,6%,0%,48%
+745,49,125000,90,America,Own,Non-Prem,No,0,33%,1,0,0,1,0,0,0,1,0,6%,0%,74%
+746,40,750000,60,United Kingdom,Government,Non-Prem,No,0,53%,0,0,1,0,0,1,0,1,0,6%,0%,42%
+747,62,1000000,89,United Kingdom,Own,Prem,No,0,11%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+748,42,175000,99,America,Own,Non-Prem,No,0,47%,1,0,0,1,0,0,0,1,0,7%,0%,46%
+749,41,175000,57,America,Public,Non-Prem,No,0,52%,0,1,0,1,0,0,0,1,0,5%,0%,51%
+750,30,75000,94,America,Own,Non-Prem,Yes,1,91%,1,0,0,1,0,0,1,0,0,8%,0%,0%
+751,44,1000000,95,America,Own,Prem,Yes,0,63%,1,0,0,1,0,0,0,1,0,0%,7%,0%
+752,47,1000000,60,America,Government,Prem,Yes,0,33%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+753,36,225000,80,India,Own,Prem,Yes,0,63%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+754,36,225000,95,India,Own,Prem,Yes,0,64%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+755,58,500000,60,America,Government,Non-Prem,No,0,14%,0,0,1,1,0,0,0,0,1,2%,0%,23%
+756,51,1000000,60,United Kingdom,Government,Non-Prem,No,0,31%,0,0,1,0,0,1,0,0,1,2%,0%,19%
+757,57,1000000,90,India,Own,Non-Prem,No,0,14%,1,0,0,0,1,0,0,0,1,3%,0%,32%
+758,61,175000,90,United Kingdom,Own,Prem,Yes,0,12%,1,0,0,0,0,1,0,0,1,0%,3%,0%
+759,43,1000000,97,America,Own,Prem,Yes,0,63%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+760,48,125000,87,United Kingdom,Own,Non-Prem,No,0,24%,1,0,0,0,0,1,0,1,0,6%,0%,76%
+761,46,500000,82,United Kingdom,Own,Non-Prem,No,0,21%,1,0,0,0,0,1,0,1,0,5%,0%,69%
+762,27,750000,60,United Kingdom,Government,Non-Prem,No,1,83%,0,0,1,0,0,1,1,0,0,10%,0%,93%
+763,35,500000,92,United Kingdom,Own,Non-Prem,No,0,45%,1,0,0,0,0,1,1,0,0,9%,0%,84%
+764,30,75000,57,India,Public,Non-Prem,No,1,95%,0,1,0,0,1,0,1,0,0,8%,0%,0%
+765,63,225000,60,India,Government,Prem,No,0,10%,0,0,1,0,1,0,0,0,1,0%,2%,0%
+766,63,75000,81,America,Own,Prem,No,0,10%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+767,61,125000,60,United Kingdom,Government,Prem,No,0,13%,0,0,1,0,0,1,0,0,1,0%,3%,0%
+768,26,500000,57,America,Public,Prem,Yes,1,82%,0,1,0,1,0,0,1,0,0,0%,8%,0%
+769,61,750000,60,America,Government,Non-Prem,No,0,17%,0,0,1,1,0,0,0,0,1,4%,0%,29%
+770,30,175000,60,United Kingdom,Government,Prem,Yes,1,93%,0,0,1,0,0,1,1,0,0,0%,10%,0%
+771,30,1000000,60,America,Government,Prem,Yes,1,82%,0,0,1,1,0,0,1,0,0,0%,10%,0%
+772,63,125000,60,United Kingdom,Government,Non-Prem,No,0,18%,0,0,1,0,0,1,0,0,1,3%,0%,12%
+773,60,500000,95,America,Own,Prem,No,0,17%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+774,49,500000,57,India,Public,Non-Prem,No,0,32%,0,1,0,0,1,0,0,1,0,6%,0%,66%
+775,40,125000,98,India,Own,Non-Prem,No,0,49%,1,0,0,0,1,0,0,1,0,7%,0%,50%
+776,45,75000,60,United Kingdom,Government,Non-Prem,Yes,0,51%,0,0,1,0,0,1,0,1,0,6%,0%,45%
+777,29,175000,60,United Kingdom,Government,Non-Prem,Yes,1,82%,0,0,1,0,0,1,1,0,0,9%,0%,95%
+778,49,1000000,57,United Kingdom,Public,Prem,Yes,0,30%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+779,55,1000000,57,America,Public,Non-Prem,Yes,0,29%,0,1,0,1,0,0,0,0,1,4%,0%,35%
+780,27,225000,84,America,Own,Prem,No,1,80%,1,0,0,1,0,0,1,0,0,0%,9%,0%
+781,44,75000,60,United Kingdom,Government,Non-Prem,Yes,0,44%,0,0,1,0,0,1,0,1,0,6%,0%,45%
+782,28,500000,57,America,Public,Prem,No,1,94%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+783,38,1000000,60,America,Government,Non-Prem,No,0,46%,0,0,1,1,0,0,0,1,0,7%,0%,65%
+784,36,750000,81,America,Own,Prem,No,0,50%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+785,38,75000,94,India,Own,Non-Prem,Yes,0,65%,1,0,0,0,1,0,0,1,0,5%,0%,52%
+786,61,125000,57,America,Public,Prem,No,0,12%,0,1,0,1,0,0,0,0,1,0%,2%,0%
+787,42,125000,95,India,Own,Prem,No,0,56%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+788,51,500000,57,America,Public,Non-Prem,No,0,30%,0,1,0,1,0,0,0,0,1,4%,0%,13%
+789,59,275000,57,United Kingdom,Public,Prem,No,0,17%,0,1,0,0,0,1,0,0,1,0%,3%,0%
+790,46,175000,85,India,Own,Non-Prem,No,0,29%,1,0,0,0,1,0,0,1,0,7%,0%,61%
+791,45,125000,60,United Kingdom,Government,Non-Prem,Yes,0,52%,0,0,1,0,0,1,0,1,0,6%,0%,57%
+792,42,275000,89,India,Own,Prem,Yes,0,50%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+793,62,75000,60,India,Government,Non-Prem,Yes,0,12%,0,0,1,0,1,0,0,0,1,2%,0%,36%
+794,50,175000,60,America,Government,Non-Prem,No,0,34%,0,0,1,1,0,0,0,1,0,7%,0%,57%
+795,46,275000,60,United Kingdom,Government,Prem,Yes,0,29%,0,0,1,0,0,1,0,1,0,0%,7%,0%
+796,61,75000,60,America,Government,Prem,No,0,10%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+797,29,225000,89,United Kingdom,Own,Prem,No,1,93%,1,0,0,0,0,1,1,0,0,0%,10%,0%
+798,59,225000,57,America,Public,Prem,Yes,0,14%,0,1,0,1,0,0,0,0,1,0%,2%,0%
+799,36,175000,60,India,Government,Non-Prem,Yes,0,44%,0,0,1,0,1,0,0,1,0,6%,0%,59%
+800,59,1000000,93,America,Own,Prem,Yes,0,16%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+801,58,275000,88,America,Own,Prem,No,0,13%,1,0,0,1,0,0,0,0,1,0%,4%,0%
+802,44,275000,93,United Kingdom,Own,Prem,No,0,50%,1,0,0,0,0,1,0,1,0,0%,7%,0%
+803,36,750000,57,India,Public,Prem,Yes,0,52%,0,1,0,0,1,0,0,1,0,0%,6%,0%
+804,58,75000,100,United Kingdom,Own,Non-Prem,No,0,17%,1,0,0,0,0,1,0,0,1,4%,0%,17%
+805,50,750000,80,India,Own,Non-Prem,No,0,31%,1,0,0,0,1,0,0,1,0,5%,0%,57%
+806,58,225000,57,India,Public,Non-Prem,No,0,16%,0,1,0,0,1,0,0,0,1,3%,0%,19%
+807,56,225000,96,India,Own,Prem,Yes,0,26%,1,0,0,0,1,0,0,0,1,0%,3%,0%
+808,50,1000000,57,India,Public,Non-Prem,No,0,28%,0,1,0,0,1,0,0,1,0,7%,0%,69%
+809,49,500000,57,America,Public,Non-Prem,Yes,0,32%,0,1,0,1,0,0,0,1,0,6%,0%,55%
+810,63,500000,57,United Kingdom,Public,Non-Prem,Yes,0,14%,0,1,0,0,0,1,0,0,1,4%,0%,35%
+811,41,500000,60,United Kingdom,Government,Non-Prem,No,0,57%,0,0,1,0,0,1,0,1,0,5%,0%,75%
+812,48,275000,57,America,Public,Prem,Yes,0,27%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+813,51,500000,60,America,Government,Non-Prem,No,0,32%,0,0,1,1,0,0,0,0,1,4%,0%,16%
+814,28,1000000,60,India,Government,Non-Prem,No,1,94%,0,0,1,0,1,0,1,0,0,10%,0%,0%
+815,51,175000,57,America,Public,Non-Prem,No,0,27%,0,1,0,1,0,0,0,0,1,4%,0%,10%
+816,54,1000000,60,America,Government,Prem,No,0,34%,0,0,1,1,0,0,0,0,1,0%,4%,0%
+817,27,750000,91,India,Own,Non-Prem,Yes,1,86%,1,0,0,0,1,0,1,0,0,8%,0%,92%
+818,30,1000000,87,United Kingdom,Own,Non-Prem,Yes,1,82%,1,0,0,0,0,1,1,0,0,9%,0%,92%
+819,40,225000,60,India,Government,Non-Prem,Yes,0,42%,0,0,1,0,1,0,0,1,0,6%,0%,54%
+820,39,175000,85,America,Own,Non-Prem,No,0,53%,1,0,0,1,0,0,0,1,0,7%,0%,58%
+821,60,500000,60,America,Government,Prem,Yes,0,16%,0,0,1,1,0,0,0,0,1,0%,2%,0%
+822,64,175000,60,United Kingdom,Government,Non-Prem,No,0,15%,0,0,1,0,0,1,0,0,1,2%,0%,21%
+823,63,225000,57,India,Public,Non-Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1,4%,0%,29%
+824,54,175000,60,United Kingdom,Government,Non-Prem,No,0,23%,0,0,1,0,0,1,0,0,1,3%,0%,16%
+825,36,750000,88,America,Own,Prem,Yes,0,62%,1,0,0,1,0,0,0,1,0,0%,5%,0%
+826,28,225000,57,United Kingdom,Public,Non-Prem,No,1,85%,0,1,0,0,0,1,1,0,0,8%,0%,92%
+827,38,125000,60,United Kingdom,Government,Non-Prem,Yes,0,53%,0,0,1,0,0,1,0,1,0,5%,0%,67%
+828,49,500000,60,India,Government,Non-Prem,No,0,21%,0,0,1,0,1,0,0,1,0,5%,0%,46%
+829,29,75000,60,America,Government,Non-Prem,Yes,1,80%,0,0,1,1,0,0,1,0,0,8%,0%,96%
+830,47,75000,60,United Kingdom,Government,Non-Prem,No,0,24%,0,0,1,0,0,1,0,1,0,6%,0%,74%
+831,54,75000,57,India,Public,Prem,No,0,32%,0,1,0,0,1,0,0,0,1,0%,2%,0%
+832,63,175000,60,United Kingdom,Government,Non-Prem,Yes,0,17%,0,0,1,0,0,1,0,0,1,3%,0%,26%
+833,36,175000,83,America,Own,Prem,No,0,51%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+834,39,175000,81,America,Own,Prem,Yes,0,68%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+835,43,225000,83,India,Own,Prem,Yes,0,54%,1,0,0,0,1,0,0,1,0,0%,5%,0%
+836,50,275000,57,India,Public,Prem,No,0,30%,0,1,0,0,1,0,0,1,0,0%,7%,0%
+837,28,225000,83,United Kingdom,Own,Non-Prem,No,1,87%,1,0,0,0,0,1,1,0,0,9%,0%,91%
+838,62,75000,60,America,Government,Prem,Yes,0,18%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+839,54,750000,80,United Kingdom,Own,Non-Prem,Yes,0,24%,1,0,0,0,0,1,0,0,1,3%,0%,29%
+840,39,125000,57,America,Public,Non-Prem,No,0,54%,0,1,0,1,0,0,0,1,0,6%,0%,67%
+841,36,275000,57,India,Public,Non-Prem,Yes,0,50%,0,1,0,0,1,0,0,1,0,5%,0%,77%
+842,36,1000000,60,United Kingdom,Government,Prem,Yes,0,52%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+843,41,175000,87,United Kingdom,Own,Non-Prem,Yes,0,50%,1,0,0,0,0,1,0,1,0,5%,0%,60%
+844,64,75000,57,India,Public,Non-Prem,No,0,16%,0,1,0,0,1,0,0,0,1,3%,0%,34%
+845,26,175000,82,United Kingdom,Own,Non-Prem,No,1,87%,1,0,0,0,0,1,1,0,0,8%,0%,93%
+846,43,225000,60,United Kingdom,Government,Non-Prem,Yes,0,68%,0,0,1,0,0,1,0,1,0,7%,0%,42%
+847,53,500000,60,America,Government,Non-Prem,No,0,29%,0,0,1,1,0,0,0,0,1,3%,0%,18%
+848,25,175000,83,America,Own,Non-Prem,Yes,1,92%,1,0,0,1,0,0,1,0,0,10%,0%,0%
+849,46,175000,57,United Kingdom,Public,Non-Prem,Yes,0,32%,0,1,0,0,0,1,0,1,0,5%,0%,54%
+850,49,275000,60,America,Government,Non-Prem,No,0,34%,0,0,1,1,0,0,0,1,0,6%,0%,57%
+851,43,75000,60,United Kingdom,Government,Prem,Yes,0,48%,0,0,1,0,0,1,0,1,0,0%,5%,0%
+852,36,175000,57,United Kingdom,Public,Prem,Yes,0,62%,0,1,0,0,0,1,0,1,0,0%,7%,0%
+853,53,175000,57,United Kingdom,Public,Non-Prem,No,0,24%,0,1,0,0,0,1,0,0,1,3%,0%,11%
+854,42,125000,60,United Kingdom,Government,Non-Prem,Yes,0,41%,0,0,1,0,0,1,0,1,0,7%,0%,42%
+855,40,1000000,96,America,Own,Non-Prem,Yes,0,56%,1,0,0,1,0,0,0,1,0,6%,0%,69%
+856,28,225000,60,America,Government,Non-Prem,Yes,1,97%,0,0,1,1,0,0,1,0,0,9%,0%,0%
+857,49,750000,60,America,Government,Prem,Yes,0,22%,0,0,1,1,0,0,0,1,0,0%,7%,0%
+858,46,225000,60,America,Government,Non-Prem,No,0,30%,0,0,1,1,0,0,0,1,0,5%,0%,69%
+859,53,275000,60,India,Government,Non-Prem,Yes,0,20%,0,0,1,0,1,0,0,0,1,3%,0%,10%
+860,46,125000,94,America,Own,Prem,No,0,21%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+861,39,175000,89,America,Own,Non-Prem,Yes,0,47%,1,0,0,1,0,0,0,1,0,5%,0%,69%
+862,26,225000,84,America,Own,Prem,Yes,1,95%,1,0,0,1,0,0,1,0,0,0%,10%,0%
+863,37,225000,57,United Kingdom,Public,Prem,No,0,64%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+864,36,75000,98,America,Own,Prem,No,0,66%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+865,50,1000000,57,India,Public,Non-Prem,No,0,32%,0,1,0,0,1,0,0,1,0,7%,0%,42%
+866,64,75000,60,United Kingdom,Government,Non-Prem,No,0,10%,0,0,1,0,0,1,0,0,1,4%,0%,17%
+867,36,500000,84,America,Own,Prem,No,0,61%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+868,51,750000,87,America,Own,Prem,Yes,0,32%,1,0,0,1,0,0,0,0,1,0%,3%,0%
+869,59,275000,97,United Kingdom,Own,Non-Prem,Yes,0,18%,1,0,0,0,0,1,0,0,1,3%,0%,24%
+870,26,225000,91,India,Own,Prem,No,1,93%,1,0,0,0,1,0,1,0,0,0%,9%,0%
+871,41,225000,89,America,Own,Prem,No,0,59%,1,0,0,1,0,0,0,1,0,0%,6%,0%
+872,26,125000,60,India,Government,Prem,No,1,90%,0,0,1,0,1,0,1,0,0,0%,8%,0%
+873,41,75000,100,America,Own,Non-Prem,No,0,48%,1,0,0,1,0,0,0,1,0,6%,0%,42%
+874,58,750000,57,India,Public,Prem,No,0,13%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+875,58,1000000,57,America,Public,Prem,No,0,18%,0,1,0,1,0,0,0,0,1,0%,4%,0%
+876,63,75000,84,India,Own,Non-Prem,No,0,14%,1,0,0,0,1,0,0,0,1,3%,0%,25%
+877,65,225000,57,India,Public,Non-Prem,Yes,0,11%,0,1,0,0,1,0,0,0,1,3%,0%,23%
+878,38,275000,60,India,Government,Prem,Yes,0,69%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+879,44,225000,57,United Kingdom,Public,Prem,No,0,55%,0,1,0,0,0,1,0,1,0,0%,6%,0%
+880,57,175000,91,United Kingdom,Own,Non-Prem,No,0,15%,1,0,0,0,0,1,0,0,1,3%,0%,17%
+881,48,75000,57,India,Public,Prem,No,0,28%,0,1,0,0,1,0,0,1,0,0%,5%,0%
+882,29,75000,96,America,Own,Non-Prem,No,1,95%,1,0,0,1,0,0,1,0,0,10%,0%,0%
+883,56,125000,57,America,Public,Prem,No,0,27%,0,1,0,1,0,0,0,0,1,0%,3%,0%
+884,47,750000,60,United Kingdom,Government,Prem,No,0,34%,0,0,1,0,0,1,0,1,0,0%,7%,0%
+885,25,275000,57,America,Public,Prem,Yes,1,95%,0,1,0,1,0,0,1,0,0,0%,9%,0%
+886,62,125000,57,America,Public,Non-Prem,Yes,0,19%,0,1,0,1,0,0,0,0,1,2%,0%,21%
+887,56,75000,57,India,Public,Prem,No,0,21%,0,1,0,0,1,0,0,0,1,0%,3%,0%
+888,40,1000000,57,America,Public,Prem,No,0,48%,0,1,0,1,0,0,0,1,0,0%,6%,0%
+889,44,500000,89,India,Own,Prem,No,0,59%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+890,40,275000,60,India,Government,Prem,No,0,48%,0,0,1,0,1,0,0,1,0,0%,6%,0%
+891,37,1000000,60,India,Government,Non-Prem,Yes,0,40%,0,0,1,0,1,0,0,1,0,6%,0%,45%
+892,35,225000,57,India,Public,Prem,Yes,0,61%,0,1,0,0,1,0,1,0,0,0%,8%,0%
+893,41,225000,57,America,Public,Prem,Yes,0,46%,0,1,0,1,0,0,0,1,0,0%,5%,0%
+894,46,1000000,60,India,Government,Non-Prem,No,0,27%,0,0,1,0,1,0,0,1,0,7%,0%,50%
+895,55,750000,60,America,Government,Prem,Yes,0,33%,0,0,1,1,0,0,0,0,1,0%,3%,0%
+896,28,275000,60,America,Government,Prem,No,1,90%,0,0,1,1,0,0,1,0,0,0%,9%,0%
+897,41,175000,57,America,Public,Non-Prem,Yes,0,44%,0,1,0,1,0,0,0,1,0,5%,0%,46%
+898,25,225000,60,India,Government,Non-Prem,Yes,1,85%,0,0,1,0,1,0,1,0,0,8%,0%,98%
+899,26,1000000,57,United Kingdom,Public,Prem,Yes,1,86%,0,1,0,0,0,1,1,0,0,0%,9%,0%
+900,57,750000,57,India,Public,Non-Prem,No,0,17%,0,1,0,0,1,0,0,0,1,4%,0%,18%
+901,43,125000,60,America,Government,Prem,No,0,57%,0,0,1,1,0,0,0,1,0,0%,6%,0%
+902,43,225000,97,India,Own,Prem,Yes,0,50%,1,0,0,0,1,0,0,1,0,0%,6%,0%
+903,47,225000,57,America,Public,Prem,Yes,0,32%,0,1,0,1,0,0,0,1,0,0%,6%,0%
