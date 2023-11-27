@@ -1,9 +1,8 @@
 # RetireWise
 https://github.com/leygen02/tiaa_hackathon
 
-RetireWise, an innovative WhatsApp chatbot, is designed to effortlessly address a wide range of retirement-related inquiries. Additionally, users can conveniently manage their profiles and access an intuitive admin panel through the accompanying website.
+RetireWise, an innovative WhatsApp chatbot, is designed to effortlessly address a wide range of retirement-related quiries. Additionally, users can conveniently manage their profiles and client can access an intuitive admin panel through the accompanying website.
 
-Demo Website (ChatBot can be accessed from the website) :- 
 
 # ChatBot
 
@@ -39,12 +38,13 @@ Web App
 1. Login 
 2. Register 
 3. Welcome Screen
+4. Features
 6. Pricing
 7. Chatbot
 
-Admin App :- Admin Panel for managing and controlling system settings, user accounts, and content
+Admin App :- Admin Panel for managing and controlling system settings, user accounts, and content.
 
-# Backend & Technologies Used
+# Technologies Used
 1. Google PaLM 2 API (Generative AI)
 2. MongoDB
 3. ReactJS
@@ -52,6 +52,7 @@ Admin App :- Admin Panel for managing and controlling system settings, user acco
 5. Tailwind CSS
 6. RazorPay
 7. Twilio
+8. Google Looker Studio
 
 # Purpose
 
