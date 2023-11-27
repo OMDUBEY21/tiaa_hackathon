@@ -20,7 +20,7 @@ portfolio_type =  sys.argv[3]
 
 age = 52
 user_investment_amount = 10000
-portfolio_type = "low moderate risk portfolio"
+portfolio_type = "low risk portfolio"
 portfolio_list = []
 weights_list = []
 user_buying_power_allocation = []
@@ -507,3 +507,5 @@ def run_MC_simulation(user_input_MC, portfolio_type):
             message("Please enter either 'yes' or 'no'", seed=21, key=47)
 
 '''
+
+print(weights_list)

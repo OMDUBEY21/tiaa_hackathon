@@ -1,0 +1,16 @@
+npm install -g nodemon 
+
+cd python_driver
+streamlit run chatbot.py 
+
+new terminal window
+
+cd client 
+npm install
+
+cd client/server
+npm install
+
+
+cd client 
+npm start 

@@ -351,13 +351,14 @@ async function generate(promptString, senderId) {
         top_k: 40,
         // optional, for nucleus sampling decoding strategy
         top_p: 0.95,
+        maxOutputTokens: 256,
         prompt: {
             // optional, sent on every request and prioritized over history
             context: context,
             // optional, examples to further finetune responses
             examples: examples,
             // required, alternating prompt/response messages
-            messages: [{ content: promptString+"do not cross 1500 words" }],
+            messages: [{ content: promptString+"" }],
         },
     }).then(result => {
         const generatedText = result;
