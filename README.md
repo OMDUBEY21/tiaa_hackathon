@@ -1,7 +1,7 @@
 # RetireWise
 https://github.com/leygen02/tiaa_hackathon
 
-RetireWise, an innovative WhatsApp chatbot, is designed to effortlessly address a wide range of retirement-related quiries. Additionally, users can conveniently manage their profiles and client can access an intuitive admin panel through the accompanying website.
+RetireWise, an innovative WhatsApp chatbot, is designed to effortlessly address a wide range of retirement-related quiries. Additionally, users can conveniently manage their profiles and client can access an intuitive admin panel through the accompanying website..
 
 
 # ChatBot
